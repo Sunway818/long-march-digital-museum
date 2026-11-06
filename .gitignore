@@ -1,0 +1,32 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.npmrc
+
+# OS and logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Local test artifacts and runtime caches
+playwright-report/
+test-results/
+__pycache__/
+*.pyc
+
+# Editor personal state; project recommendations may be tracked explicitly
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+
+# Project documents, source, licenses and .agents/skills are intentionally tracked.

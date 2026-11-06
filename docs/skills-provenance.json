@@ -1,0 +1,447 @@
+{
+  "schemaVersion": 1,
+  "recordedDate": "2026-11-06",
+  "timezone": "Asia/Shanghai",
+  "notes": "Project audit manifest; not an official skills CLI lockfile. SHA256 hashes describe installed files including retained licenses.",
+  "skills": [
+    {
+      "name": "frontend-design",
+      "repository": "https://github.com/anthropics/skills",
+      "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+      "upstreamPath": "skills/frontend-design",
+      "method": "skills CLI 1.7.6 local reviewed snapshot --agent codex --copy --yes",
+      "installPath": ".agents/skills/frontend-design",
+      "files": [
+        {
+          "path": "LICENSE.txt",
+          "bytes": 10351,
+          "sha256": "eb3d7b5485466acbd81f2b496f595ab637d2792e268206b27d99e793bdb67549"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 9461,
+          "sha256": "b8009ae690dfa69edc7f08bb8715f32db8817112cfa4388741dbaf876c237df8"
+        }
+      ],
+      "skillManifestSha256": "b8009ae690dfa69edc7f08bb8715f32db8817112cfa4388741dbaf876c237df8"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "package": "ui-ux-pro-max-cli",
+      "version": "2.15.0",
+      "packageIntegrity": "sha512-D0J/C40xrzzi5si6ZLtRGbEE5v3QjL7d4wJNnasmP3yfDSrGiuqVCdwQiqCNnIkbqOuVoA/uonR2o1WKXh3urw==",
+      "reviewedRepositoryCommit": "b7d5353e0130feb8c5574ef1251f8a1db1873ccb",
+      "upstreamPath": "npm package assets/templates, assets/data, assets/scripts",
+      "method": "official npx init --ai codex outside project; only requested folder copied",
+      "runtimeStatus": "Python unavailable; search smoke test not run",
+      "installPath": ".agents/skills/ui-ux-pro-max",
+      "files": [
+        {
+          "path": "data/app-interface.csv",
+          "bytes": 11046,
+          "sha256": "331e7cf2c0b222d80c566c5f255c63cb339f65bfd02e471a720f28e4864a9f08"
+        },
+        {
+          "path": "data/catalog-summary.json",
+          "bytes": 2392,
+          "sha256": "65fe0b64480a8a827738297d0a64ca55c627d4afcb774fe4555c59cea8dd6905"
+        },
+        {
+          "path": "data/charts.csv",
+          "bytes": 23365,
+          "sha256": "4115cf1120680f2cedef0676cb648f30c7ef4699e2a947535d4113e71ed3b12a"
+        },
+        {
+          "path": "data/colors.csv",
+          "bytes": 37940,
+          "sha256": "8162429222bce22df62b564085946a30d07cc9722c58d0a3a494bd0d1d00841c"
+        },
+        {
+          "path": "data/data-provenance.json",
+          "bytes": 36686,
+          "sha256": "e82fb33ed49375a300e93d9c11ccd1c1493c999e84ee7ee295e527634786e2e0"
+        },
+        {
+          "path": "data/google-font-licenses.json",
+          "bytes": 433127,
+          "sha256": "35688523f2955795caa1a47c53b83099e60c1708461476f9cc3a050cf3b0148a"
+        },
+        {
+          "path": "data/google-fonts.csv",
+          "bytes": 747241,
+          "sha256": "1c8c3b2ea1faf6a1012da463756def8b3889db33f2226f0343bb4daa80307d03"
+        },
+        {
+          "path": "data/icons.csv",
+          "bytes": 57945,
+          "sha256": "50816c6012030178195a16ee481ebf58b47bd985d70e8ec58886cc83f6eddafc"
+        },
+        {
+          "path": "data/landing.csv",
+          "bytes": 25449,
+          "sha256": "9a2edd3bb676c2a58f00ade7a062e285222d4297bfd847c8d5b056f0dbbf52d0"
+        },
+        {
+          "path": "data/motion.csv",
+          "bytes": 14679,
+          "sha256": "381affe8df8ea1f66fbbda2598827f9f54299107bbe6a1b4e9b68f6b62091ceb"
+        },
+        {
+          "path": "data/phosphor-icons-upstream.json",
+          "bytes": 823933,
+          "sha256": "2399325233b277b5c97a80e6a5e8941154f5d057beee4e7613db87c87d700236"
+        },
+        {
+          "path": "data/products.csv",
+          "bytes": 75623,
+          "sha256": "42473f75e8dde5987bdf89ce55d8c168091b80a356cae691dd60247d80720b70"
+        },
+        {
+          "path": "data/react-performance.csv",
+          "bytes": 15080,
+          "sha256": "3d925802539abac5afeb63ae8aa1960b7229ad271b3a47caed40ab2d97ad0734"
+        },
+        {
+          "path": "data/stacks/angular.csv",
+          "bytes": 19863,
+          "sha256": "704be83f2bad30c7e6de01afb113ffa01e0c458762f48b7102f31ba2367b5553"
+        },
+        {
+          "path": "data/stacks/astro.csv",
+          "bytes": 14591,
+          "sha256": "2c2f55fadaafc05e04cc321c8194a1a28b656e6757fe2ba316f41b16428299c6"
+        },
+        {
+          "path": "data/stacks/avalonia.csv",
+          "bytes": 27327,
+          "sha256": "442fca14675a020683473e7e49f08abb27b9df0765c80efe54aef61f1a4ac258"
+        },
+        {
+          "path": "data/stacks/flutter.csv",
+          "bytes": 14192,
+          "sha256": "64dba0ac17349f28bce517a0f5f48c54d9ed2e487ec0c0258303463b382f41a0"
+        },
+        {
+          "path": "data/stacks/html-tailwind.csv",
+          "bytes": 16551,
+          "sha256": "d05a581d20af57b8ca0104a6d31d90a07c437d500662a96c3029fc2f9a4678ee"
+        },
+        {
+          "path": "data/stacks/javafx.csv",
+          "bytes": 33577,
+          "sha256": "2e819b8d5abdd23ad4dae0991650fdb57af497aabd68b37463aa9c442944c869"
+        },
+        {
+          "path": "data/stacks/jetpack-compose.csv",
+          "bytes": 12295,
+          "sha256": "699de218b286948eaec7d15767b6e1350ee299167e49bf476d82e3ff58724e0a"
+        },
+        {
+          "path": "data/stacks/laravel.csv",
+          "bytes": 20163,
+          "sha256": "854ea4daa5fc61292d22235ad33b49ba3fe22423c3de8d3cb03758ffed3b59f9"
+        },
+        {
+          "path": "data/stacks/nextjs.csv",
+          "bytes": 18687,
+          "sha256": "ecd2c27b2ea0127d203ae726060efcdd7335b5e83f96b99e4f3befbbfeebd5a4"
+        },
+        {
+          "path": "data/stacks/nuxt-ui.csv",
+          "bytes": 24106,
+          "sha256": "c36ee8470926b4a0748d241363c71664c9969c2edbc62f7f72de0db73880fac6"
+        },
+        {
+          "path": "data/stacks/nuxtjs.csv",
+          "bytes": 23014,
+          "sha256": "3d9b54ed2d151bd9c86e9e5609b8a6f88a00c4c52fa601a30af96c49b2c4d176"
+        },
+        {
+          "path": "data/stacks/react-native.csv",
+          "bytes": 14049,
+          "sha256": "ba31dd9c0c04da6bc02a74448bf121f9c0728ae5ba3b4d47b487778b0a1135b5"
+        },
+        {
+          "path": "data/stacks/react.csv",
+          "bytes": 19036,
+          "sha256": "2d2b9c198e875106a30f7ee68341a9ee0033cad60a7e130cf23152783e08aeda"
+        },
+        {
+          "path": "data/stacks/shadcn.csv",
+          "bytes": 23184,
+          "sha256": "e56cfde5b74907836ac3582a4779d5b7f3d206a702ab81b8669a1b668c3eeb51"
+        },
+        {
+          "path": "data/stacks/svelte.csv",
+          "bytes": 15078,
+          "sha256": "f6e379ba802941ba26b01d4ffbe3cd39120f2587659a1d93851c707f66bc13db"
+        },
+        {
+          "path": "data/stacks/swiftui.csv",
+          "bytes": 15323,
+          "sha256": "bdd9231ff3ad658f4e7c063e1eb49df2fd09ac8d90631a86df899b39833b9623"
+        },
+        {
+          "path": "data/stacks/threejs.csv",
+          "bytes": 46051,
+          "sha256": "97542e0ba34915a0ff7578be20e1619495df47c95c8c1c39b83e3785e1de771f"
+        },
+        {
+          "path": "data/stacks/uno.csv",
+          "bytes": 30091,
+          "sha256": "a0474363e4225b5367214d5675fd3e075f137026f9500f0d04357882ef4f6d48"
+        },
+        {
+          "path": "data/stacks/uwp.csv",
+          "bytes": 24692,
+          "sha256": "c409f08c1fbba1f1029f1acaa554e7b4471cc85517a5751c9f2e62465badcd5c"
+        },
+        {
+          "path": "data/stacks/vue.csv",
+          "bytes": 12813,
+          "sha256": "b655f1ebb9dff2652d15981f31b1784c8a6d4759efd2815a14f3088257569f95"
+        },
+        {
+          "path": "data/stacks/winui.csv",
+          "bytes": 27890,
+          "sha256": "e676dc1c13ee6c205c40b0746f1335150a346c7a49a0616d2545bc3d2c930c85"
+        },
+        {
+          "path": "data/stacks/wpf.csv",
+          "bytes": 24158,
+          "sha256": "9781a9950b20333637b30a02e498b7efca21b618a3eeb8665836f3ac6e974da7"
+        },
+        {
+          "path": "data/styles.csv",
+          "bytes": 149478,
+          "sha256": "a93a4d9d7025856575d7b7583bda020be9043013432c5af7c58af9dbdfb206b7"
+        },
+        {
+          "path": "data/typography.csv",
+          "bytes": 49997,
+          "sha256": "321fc446e89024488ebae96dda93efc4d2307bd8bddb240857ad51364f6782c8"
+        },
+        {
+          "path": "data/ui-reasoning.csv",
+          "bytes": 77360,
+          "sha256": "f0774dd741cecdad5eec842034bd6d5e9ea50e9f220a1910069748daa0bb8e9a"
+        },
+        {
+          "path": "data/ux-guidelines.csv",
+          "bytes": 27516,
+          "sha256": "ff81ec613f70ba9fc3fcce52dbe4ae35d44b2079dbe6dc066d2d6e38c28facd5"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 1096,
+          "sha256": "1b8bd455510cc1f6f9bd510ffe2ec372d1c51fe0e082ddfee8b41825fb7aa055"
+        },
+        {
+          "path": "scripts/core.py",
+          "bytes": 41234,
+          "sha256": "e544826963efefce3c59b65e18d83d92a5baf571f05458025bf1fa9021eced42"
+        },
+        {
+          "path": "scripts/design_system.py",
+          "bytes": 70937,
+          "sha256": "6a94743c3362c9c7e6d1450b94f4014d9ea752e7b4e151f6f0bdb217e0544bf7"
+        },
+        {
+          "path": "scripts/reasoning_contract.py",
+          "bytes": 5824,
+          "sha256": "b8bac1af82aa280d3e06f00aabaeac4337e632996b07fed874e2b6ee6e9c5913"
+        },
+        {
+          "path": "scripts/search.py",
+          "bytes": 9123,
+          "sha256": "8373e2dd2d560d9853ec116140de0e0d5bee45a6abe5e041173c84e1c36a7f87"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/google-api.json",
+          "bytes": 1079,
+          "sha256": "22d8dc81a7d6827b7e8b64b53e7d184210fb9759e8e294e0d5133c81cc460176"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/google-catalog.json",
+          "bytes": 1772,
+          "sha256": "c608ad5c4084ebc50a4bbbfb69ea2456c01fd5519c457e18410fffd250ae948f"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/google-existing.csv",
+          "bytes": 480,
+          "sha256": "4e0761b839dc6b2187a370e82eddc0aed8a7ff10c09e28dd814bb3656dac595b"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/google-metadata.json",
+          "bytes": 328,
+          "sha256": "30bffc29ae348416a2de2f9c6c418e768e4578f136b0f4bac5d2f70124f2e9ba"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/google-overrides.json",
+          "bytes": 97,
+          "sha256": "6243a48a4619986768c4628e2d0c98ff195beba71ba9be5df8f0c52fc6d90c0b"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/icons-curated.csv",
+          "bytes": 495,
+          "sha256": "68362c9a700c13b96f000784a0198c1c7e117a7088a01c85744e44233038fe9d"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/phosphor-core.json",
+          "bytes": 571,
+          "sha256": "ae4d0bb076240824e1b643c2270d1f8cc0952a69502ec1e622b7dedd85b930bb"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/phosphor-package.json",
+          "bytes": 370,
+          "sha256": "500588c757d6de03e3d7e69b27a8b8b1f88ccf6bb0333e4c1e9b0d6a4f112475"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/phosphor-react-exports.json",
+          "bytes": 87,
+          "sha256": "d79f2ee0afdbc2f87776733e145df3538a16a25d7c2fba0056bb48295dad0ded"
+        },
+        {
+          "path": "scripts/tests/fixtures/catalogs/phosphor-react-package.json",
+          "bytes": 81,
+          "sha256": "1c57a1d76bcc0cdd3632d4c18b9c0e79576b4591df39831c9607e5d0eb4f2cec"
+        },
+        {
+          "path": "scripts/tests/fixtures/relevance-baseline.json",
+          "bytes": 89436,
+          "sha256": "38398452985116e74e31bd6bccca0f4decd1bbfe4eebc1ac99f7a1836baaf77f"
+        },
+        {
+          "path": "scripts/tests/fixtures/relevance-cases.json",
+          "bytes": 36734,
+          "sha256": "e77d36eebbf6ddc2860946a02cdb659351da6c09f2688f1ed30939a418099646"
+        },
+        {
+          "path": "scripts/tests/fixtures/relevance-thresholds.json",
+          "bytes": 5079,
+          "sha256": "9d738e11c6b82fecc8d0946e7b38515518ded5ed3294a7eb19a021c4edb5b57d"
+        },
+        {
+          "path": "scripts/tests/test_catalog_refresh.py",
+          "bytes": 19466,
+          "sha256": "3e2ca5d12702318f641ae62d0c14f22a3bcc84d84e79b863c0e947d475604adb"
+        },
+        {
+          "path": "scripts/tests/test_core_data_quality.py",
+          "bytes": 8954,
+          "sha256": "3ffc6b4905c9ea26d7ac4527ab154d153584231aee71b2ae4bd017977fa09cc5"
+        },
+        {
+          "path": "scripts/tests/test_core.py",
+          "bytes": 16680,
+          "sha256": "3527fe2f4b852f69f07c17ddc0d615d9a6e025c924e45a33985579a94a8d2118"
+        },
+        {
+          "path": "scripts/tests/test_data_contracts.py",
+          "bytes": 19513,
+          "sha256": "0360d6e10080c0bca214f2b0bbad582ba50702a542ce21013351aca54938df3a"
+        },
+        {
+          "path": "scripts/tests/test_design_system_mode.py",
+          "bytes": 7690,
+          "sha256": "517ba1ba6195c94811126d1162139c51aff77fc68c3e320c7bb6c1e89e76bc9b"
+        },
+        {
+          "path": "scripts/tests/test_native_desktop_stack_freshness.py",
+          "bytes": 8170,
+          "sha256": "904f90bc6d364763673fa6067d98a4227d535760fa8b6d26abe22208176997ca"
+        },
+        {
+          "path": "scripts/tests/test_relevance_evaluator.py",
+          "bytes": 8430,
+          "sha256": "2fe56a4d6fe5fff15ff592274b0eeaba925146cefea6c0fa29d8f1b77c9aca1f"
+        },
+        {
+          "path": "scripts/tests/test_style_taxonomy.py",
+          "bytes": 7425,
+          "sha256": "cd14d0092e8a454d213aa104b53e4e70ba698491fa00fde9fdec5ca8a3d70011"
+        },
+        {
+          "path": "scripts/tests/test_text_layout_resilience.py",
+          "bytes": 5874,
+          "sha256": "b51d32ee8a15505b87cb81957fb2d1b385e041e8beb4463c311d236bfd29ebd4"
+        },
+        {
+          "path": "scripts/tests/test_web_stack_freshness.py",
+          "bytes": 7699,
+          "sha256": "becc5fa40e7516613d4e9930f226aa483e3796090c17cb16542c93d1927e680d"
+        },
+        {
+          "path": "scripts/validate_data.py",
+          "bytes": 52064,
+          "sha256": "718ad4cbb227436015c9c2bc80fc583d6ed738b01c1a940ef85e350780d99f58"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 55451,
+          "sha256": "e5baf9400d4347e5ed3eb1f6b99cd0b9ba545b8b0e507aabb2b87397bbf73ea1"
+        }
+      ],
+      "skillManifestSha256": "e5baf9400d4347e5ed3eb1f6b99cd0b9ba545b8b0e507aabb2b87397bbf73ea1"
+    },
+    {
+      "name": "cinematic-scroll-storytelling",
+      "repository": "https://github.com/MengTo/Skills",
+      "commit": "5ea1661a0e05d82b054553daaa6baf6d0233c33c",
+      "upstreamPath": "agent-skills/web-design/cinematic-scroll-storytelling",
+      "method": "skills CLI 1.7.6 local reviewed sparse snapshot --agent codex --copy --yes",
+      "installPath": ".agents/skills/cinematic-scroll-storytelling",
+      "files": [
+        {
+          "path": "demo/index.html",
+          "bytes": 16703,
+          "sha256": "079545b438b59d66e80374d64dd81f77930eb369af0575607d9491e2253f9e54"
+        },
+        {
+          "path": "demo/preview.jpg",
+          "bytes": 78320,
+          "sha256": "a22721afce2c4a90920f10d311cd0e5b2258ca754eba5004d01b565fc74f2cd2"
+        },
+        {
+          "path": "demo/PROMPT.md",
+          "bytes": 2215,
+          "sha256": "9fda9743f4a75294b99000866a1d26146b054c0f811fe42601b4acf09fba8813"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 1085,
+          "sha256": "aa7e423e11ba895dce3f303dcaedd42903fcbeecd619ff540b4372b35a29a7cc"
+        },
+        {
+          "path": "REFERENCES.md",
+          "bytes": 95,
+          "sha256": "6da03d17d7011192b29b6627dd0de85ff62c4f7332f43934fe33a438aec4815d"
+        },
+        {
+          "path": "SKILL.md",
+          "bytes": 12401,
+          "sha256": "d5388ae08facbf0a65d8f22304fa4fdbb334d270940c4157fd34f9cdf481518c"
+        }
+      ],
+      "skillManifestSha256": "d5388ae08facbf0a65d8f22304fa4fdbb334d270940c4157fd34f9cdf481518c"
+    },
+    {
+      "name": "web-design-guidelines",
+      "repository": "https://github.com/vercel-labs/agent-skills",
+      "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62",
+      "version": "1.0.0",
+      "upstreamPath": "skills/web-design-guidelines",
+      "method": "skills CLI 1.7.6 local reviewed snapshot --agent codex --copy --yes",
+      "installPath": ".agents/skills/web-design-guidelines",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 1270,
+          "sha256": "17e48da905f83a19c174079b50760a98c069527ba50079239b3c187236627c29"
+        }
+      ],
+      "skillManifestSha256": "17e48da905f83a19c174079b50760a98c069527ba50079239b3c187236627c29"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-11-06T15:23:56.597Z",
+  "method": "Codex app-server skills/list forceReload",
+  "cwd": "E:/长征2",
+  "skills": [
+    {
+      "name": "cinematic-scroll-storytelling",
+      "path": "E:\\长征2\\.agents\\skills\\cinematic-scroll-storytelling\\SKILL.md",
+      "enabled": true,
+      "scope": "repo"
+    },
+    {
+      "name": "frontend-design",
+      "path": "E:\\长征2\\.agents\\skills\\frontend-design\\SKILL.md",
+      "enabled": true,
+      "scope": "repo"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "path": "E:\\长征2\\.agents\\skills\\ui-ux-pro-max\\SKILL.md",
+      "enabled": true,
+      "scope": "repo"
+    },
+    {
+      "name": "web-design-guidelines",
+      "path": "E:\\长征2\\.agents\\skills\\web-design-guidelines\\SKILL.md",
+      "enabled": true,
+      "scope": "repo"
+    }
+  ],
+  "errors": []
+}

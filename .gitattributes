@@ -1,0 +1,10 @@
+# Keep authored text portable while preserving audited upstream Skill bytes.
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.mjs text eol=lf
+*.cjs text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+# Preserve upstream whitespace; authored files retain normal whitespace checks.
+.agents/skills/** -text -whitespace
