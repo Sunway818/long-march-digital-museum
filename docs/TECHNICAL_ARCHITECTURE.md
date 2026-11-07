@@ -1,6 +1,6 @@
 # 技术架构建议
 
-版本：0.1；状态：待工程初始化验证；本阶段没有安装网站依赖。
+版本：0.2；状态：2026-11-07 Day 3 首页已实现并运行；后续地图与历史模块仍为规划。
 
 ## 技术选择与边界
 
@@ -13,9 +13,15 @@
 | Lenis | 可选平滑滚动 | 默认原生滚动可用；低性能、触摸和减少动态效果模式可关闭 |
 | SVG + GeoJSON | 地图底图、部队线路、地点 | 轻量、可检查、不依赖在线地图服务；投影和合法底图来源需先验证 |
 
-本机 Node.js v24.21.0、npm 11.19.0；正式初始化时再次核对 Vite/插件 engines，精确版本写入 package.json 和锁文件。当前不创建空业务脚手架，不承诺未经安装的兼容性。
+本机 Node.js v24.21.0、npm 11.19.0；工程 engines 要求 Node >=22.12。已固定 React/React DOM 19.3.1、Vite 8.3.6、TypeScript 7.0.2、Tailwind CSS 4.3.5、GSAP 3.15.1，完整依赖见 package.json/package-lock.json。Tailwind 使用官方 Vite 插件；未安装 Lenis、Motion、地图依赖。
 
-## 计划目录（尚未创建）
+## Day 3 实际结构
+
+`src/App.tsx` 组合 Navbar、Hero、Entrance 与 SourceDialog；`src/animations/heroAnimations.ts` 独立管理片头和 ScrollTrigger、减少动态效果与清理；`src/data/exhibition.ts` 只保存后续章节入口元信息，不包含虚构历史数据。入口通过 hash 保留选择，刷新可恢复。`src/styles/hero.css` 管理桌面优先构图与缩窗降级。
+
+背景通过 `src/assets/resources.ts` 直接导入原始 `pictures/山河壮阔的长征旗帜.png`；未修改原文件。字体为本地 OFL 子集，来源、许可和校验和见 `src/assets/fonts/manifest.json`。图片权利待补充，当前仅本地开发。
+
+## 后续完整展馆目录建议（按需创建，不代表已实现）
 
 ```text
 src/
@@ -56,9 +62,9 @@ tests/                 核心逻辑单测和联动端到端测试
 
 首屏静态图片优先，非首屏媒体懒加载；地图模块延迟加载；只更新必要路径属性，避免每帧重建 GeoJSON 或整个应用。资源尺寸、压缩和性能目标见 [测试计划](TEST_PLAN.md)。
 
-## 初始化时的质量门禁（待建立）
+## 已建立的首页质量门禁
 
-选定版本后再配置 dev、build、preview、typecheck、lint、test 脚本；核心纯函数考虑 Vitest，关键流程考虑 Playwright。每个阶段实际运行相应检查并记录结果；当前不可伪称 `npm run build` 通过。
+已建立 dev、build、preview、typecheck、test:browser 脚本；Playwright 调用实际安装的 Chrome/Edge。Day 3 类型检查、构建、24 项桌面浏览器检查通过，详见 DAY3_VALIDATION.md。尚未配置 lint、Vitest 和历史计算测试；后续建立相应纯函数时增加有意义的单测，不把首页验收冒充全站测试。
 
 ## 官方依据与后续核对
 

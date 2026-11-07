@@ -1,0 +1,3 @@
+# Keep font binaries and upstream license text byte-for-byte.
+*.woff2 -text
+*-OFL.txt -text -whitespace

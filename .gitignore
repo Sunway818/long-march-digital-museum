@@ -20,6 +20,7 @@ Thumbs.db
 # Local test artifacts and runtime caches
 playwright-report/
 test-results/
+output/playwright/
 __pycache__/
 *.pyc
 

@@ -64,8 +64,19 @@ assert.deepEqual(days, Array.from({length:14},(_,index)=>index+1));
 for (const pattern of ['node_modules/','dist/','.env','.env.*','!.env.example','.DS_Store','Thumbs.db','*.log']) {
   assert(read('.gitignore').split(/\r?\n/).includes(pattern), `Missing ignore rule: ${pattern}`);
 }
-for(const forbidden of ['package.json','src','node_modules','dist']) {
-  assert(!existsSync(join(root,forbidden)), `Preparation scope exceeded: ${forbidden}`);
+const applicationStarted = existsSync(join(root,'package.json'));
+if (applicationStarted) {
+  for (const file of ['src/App.tsx','src/sections/Hero.tsx','src/animations/heroAnimations.ts','package-lock.json']) {
+    assert(existsSync(join(root,file)), `Incomplete homepage scaffold: ${file}`);
+  }
+  const fonts = JSON.parse(read('src/assets/fonts/manifest.json'));
+  for (const font of fonts) {
+    const bytes = readFileSync(join(root,'src/assets/fonts',font.file));
+    assert.equal(createHash('sha256').update(bytes).digest('hex'),font.sha256,`Font changed: ${font.file}`);
+    assert.equal(font.weight,400);
+  }
+} else {
+  for(const forbidden of ['src','node_modules','dist']) assert(!existsSync(join(root,forbidden)), `Preparation scope exceeded: ${forbidden}`);
 }
-console.log(`PASS: ${required.length} required docs; ${links} local links; 4 repo Skills; ${hashedFiles} file hashes; 14-day plan; ignore rules; preparation scope.`);
-console.log('LIMITATION: website not scaffolded; browser/build/performance tests not run; Python search smoke test pending.');
+console.log(`PASS: ${required.length} required docs; ${links} local links; 4 repo Skills; ${hashedFiles} file hashes; 14-day plan; ignore rules; ${applicationStarted ? 'homepage assets' : 'preparation scope'}.`);
+console.log('INFO: this script checks files only. Runtime/build/browser evidence: docs/DAY3_VALIDATION.md.');
