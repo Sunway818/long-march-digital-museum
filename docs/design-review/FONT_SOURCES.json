@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-07",
+  "rendering": "Windows GDI+ actual private font outlines; Windows GlyphTypeface verifies glyph coverage",
+  "fonts": [
+    {
+      "file": "fonts/ZhiMangXing-Regular.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/zhimangxing/ZhiMangXing-Regular.ttf",
+      "license": "fonts/zhimangxing-OFL.txt",
+      "bytes": 4063532,
+      "sha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969"
+    },
+    {
+      "file": "fonts/MaShanZheng-Regular.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/mashanzheng/MaShanZheng-Regular.ttf",
+      "license": "fonts/mashanzheng-OFL.txt",
+      "bytes": 5857936,
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb"
+    },
+    {
+      "file": "fonts/LiuJianMaoCao-Regular.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/liujianmaocao/LiuJianMaoCao-Regular.ttf",
+      "license": "fonts/liujianmaocao-OFL.txt",
+      "bytes": 4951804,
+      "sha256": "cab396b91a5b7c0b4005a35891180d06e6751f5ac261fe680aec65c1ae209033"
+    }
+  ]
+}

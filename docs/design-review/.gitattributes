@@ -1,0 +1,4 @@
+# Preserve downloaded font binaries, licenses and metadata exactly as received.
+fonts/** -text -whitespace
+*.html text eol=lf
+*.ps1 text eol=lf
