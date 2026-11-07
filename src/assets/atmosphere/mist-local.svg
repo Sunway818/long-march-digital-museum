@@ -1,0 +1,5 @@
+<!-- Original procedural mist; scripts/generate-mist-textures.mjs. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941"><defs>
+<linearGradient id="mist" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d4ceba" stop-opacity="0"/><stop offset=".35" stop-color="#d4ceba" stop-opacity=".95"/><stop offset=".65" stop-color="#bdb8a8" stop-opacity=".65"/><stop offset="1" stop-color="#bdb8a8" stop-opacity="0"/></linearGradient>
+<filter id="cloud" x="-12%" y="-55%" width="124%" height="210%"><feTurbulence type="fractalNoise" baseFrequency=".014 .035" numOctaves="2" seed="23" result="edge"/><feDisplacementMap in="SourceGraphic" in2="edge" scale="22" xChannelSelector="R" yChannelSelector="G"/><feGaussianBlur stdDeviation="5"/></filter>
+</defs><g fill="url(#mist)" filter="url(#cloud)"><path d="M601 549C654 519 675 555 712 542S781 560 825 547 887 563 935 554L944 588C883 579 851 604 805 585S730 593 687 577 631 580 594 569Z" opacity="1"/></g></svg>

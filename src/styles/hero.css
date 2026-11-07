@@ -288,49 +288,55 @@ section:focus {
   min-height:56px;
   margin:40px 0 0 56px;
   padding:16px 26px;
-  background:#a7834e;
-  color:#24180d;
-  border:1px solid #5b3e22;
-  box-shadow:inset 0 1px 0 #e1c48a80,inset 0 -2px 0 #563a2166,0 2px 8px #100d0d38;
+  background:none;
+  color:#21160d;
+  border:1px solid transparent;
+  box-shadow:0 4px 8px #100d0d55;
   font-family:var(--serif);
-  font-size:15px;
+  font-size:16px;
   letter-spacing:.18em;
-  transition:background-color .25s,transform .25s,border-color .25s;
+  transition:transform .25s,box-shadow .25s;
 }
 
 .journey-button:before {
   content:'';
   position:absolute;
-  inset:0;
+  inset:2px 0 -3px;
   z-index:-1;
-  background:url('../assets/textures/wood-grain.svg') center/100% 100%;
-  opacity:.85;
+  background:#49311d;
+  border-radius:1px;
+  clip-path:polygon(0 3%,1% 0,99% 1%,100% 6%,99.6% 94%,98.5% 100%,1% 99%,0 95%);
   pointer-events:none;
-  transition:opacity .3s;
 }
 
-.journey-button:after {
-  content:'';
+.wooden-face {
   position:absolute;
-  inset:4px;
-  border:1px solid #49321b38;
-  border-top-color:#f3d49d45;
+  inset:0;
+  z-index:0;
+  background:#a5804b url('../assets/textures/wood-grain.svg') center/100% 100%;
+  clip-path:polygon(0 5%,.8% 1%,21% 0,47% 1%,72% 0,99% 1%,100% 6%,99.7% 64%,100% 95%,98.8% 99%,73% 100%,49% 99%,24% 100%,.8% 98%,0 94%,.3% 40%);
+  box-shadow:inset 0 1px 1px #e0bd8080,inset 0 -3px 4px #3f291d77,inset 1px 0 2px #3e291b66;
   pointer-events:none;
+  transition:filter .25s;
+}
+
+.wooden-label,.journey-button .arrow {
+  position:relative;
+  z-index:1;
 }
 
 .journey-button:hover {
-  background-color:#b18e58;
-  border-color:#8f693c;
   transform:translateY(-1px);
+  box-shadow:0 5px 10px #100d0d66;
 }
 
-.journey-button:hover:before {
-  opacity:.65;
+.journey-button:hover .wooden-face {
+  filter:brightness(1.08);
 }
 
 .journey-button:active {
-  background-color:#94703f;
-  transform:translateY(0);
+  transform:translateY(1px);
+  box-shadow:0 2px 5px #100d0d55;
 }
 
 .journey-button .arrow {

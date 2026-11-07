@@ -1,11 +1,11 @@
 import { useLayoutEffect, useRef, useState } from 'react'
 import { resources } from '../assets/resources'
-import { followRegionLink } from '../utils/navigation'
-import { Arrow } from '../components/Arrow'
+import { WoodenCta } from '../components/WoodenCta'
 import { ScrollIndicator } from '../components/ScrollIndicator'
 import { createHeroAnimations } from '../animations/heroAnimations'
 import { createAmbientAnimations } from '../animations/ambientAnimations'
 import { AmbientScene } from '../components/AmbientScene'
+import { Atmosphere } from '../components/Atmosphere'
 
 export function Hero({ onSource }: { onSource: () => void }) {
   const [imageFailed, setImageFailed] = useState(false)
@@ -24,13 +24,14 @@ export function Hero({ onSource }: { onSource: () => void }) {
       {!imageFailed && <><img className="hero-image" src={resources.hero} alt="" width="1672" height="941" fetchPriority="high" onError={() => { ambient.current?.setAvailable(false); setImageFailed(true) }} /><AmbientScene /></>}
     </div></div>
     <div className="hero-shade" aria-hidden="true" />
+    {!imageFailed && <div className="hero-atmosphere-plane"><Atmosphere /></div>}
     <div className="hero-reveal" aria-hidden="true" />
     <div className="hero-content">
       <p className="hero-english" data-intro="title">THE LONG MARCH</p>
       <h1 id="hero-title" data-intro="title">伟大征程</h1>
       <div className="hero-subtitle" data-intro="subtitle"><span className="gold-rule" aria-hidden="true" /><p>纪念中国工农红军<br className="subtitle-break" />长征胜利九十周年</p></div>
       <p className="hero-year" data-intro="year"><span>1936</span><span className="year-line" aria-hidden="true" /><span className="sr-only">—</span><span>2026</span></p>
-      <a href="#entrance" className="journey-button" data-intro="controls" onClick={(event) => followRegionLink(event, 'entrance')}><span>开启征程</span><Arrow /></a>
+      <WoodenCta />
       {imageFailed && <p role="status" className="image-fallback">首页影像暂未加载，仍可进入展馆入口。</p>}
     </div>
     <div className="hero-footer"><p data-intro="controls">NINETY YEARS OF VICTORY</p><ScrollIndicator /><div className="hero-tools" data-intro="controls">

@@ -26,7 +26,7 @@ export function createHeroAnimations(scope: HTMLElement, callbacks: { onIntroSta
       .fromTo([navigation, ...controls], { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.65 }, 1.55)
 
     // Scroll transforms own parent containers; never compete with intro child transforms.
-    gsap.to(scope.querySelector('.hero-media'), {
+    gsap.to(scope.querySelectorAll('.hero-media,.hero-atmosphere-plane'), {
       yPercent: 5, ease: 'none',
       scrollTrigger: { id: 'hero-parallax', trigger: scope, start: 'top top', end: 'bottom top', scrub: 0.5 },
     })

@@ -22,10 +22,12 @@ export function createAmbientAnimations(scope: HTMLElement) {
     reduced = Boolean(context.conditions?.reduce)
     if (!reduced) {
       motion = gsap.timeline({ paused: true })
-        .fromTo('.ambient-scene', { opacity: 0 }, { opacity: 1, duration: 1.5 }, 0)
-        .fromTo('.ambient-sun', { opacity: 0.10 }, { opacity: 0.22, duration: 5, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
-        .fromTo('.ambient-mist-far', { x: -6, opacity: 0.045 }, { x: 10, opacity: 0.085, duration: 18, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
-        .fromTo('.ambient-mist-near', { x: 7, y: 0, opacity: 0.035 }, { x: -12, y: -2, opacity: 0.075, duration: 13, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
+        .fromTo('.ambient-scene,.ambient-atmosphere', { opacity: 0 }, { opacity: 1, duration: 1.5 }, 0)
+        .fromTo('.ambient-sun', { opacity: 0.08, scale: 1 }, { opacity: 0.40, scale: 1.04, svgOrigin: '1496 440', duration: 3.8, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
+        .fromTo('.ambient-sun-halo', { opacity: 0.05, scale: 1 }, { opacity: 0.26, scale: 1.025, svgOrigin: '1496 425', duration: 3.8, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
+        .fromTo('.ambient-mist-far', { x: -40, opacity: 0.16 }, { x: 80, opacity: 0.28, duration: 16, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
+        .fromTo('.ambient-mist-near', { x: 34, y: 0, opacity: 0.14 }, { x: -80, y: -8, opacity: 0.24, duration: 11, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
+        .fromTo('.ambient-mist-local', { x: -12, opacity: 0.06 }, { x: 24, opacity: 0.12, duration: 14, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
         .fromTo('.ambient-flag-ripple', { opacity: 0, x: 0, y: 0 }, { opacity: 0.68, x: 0.65, y: -0.35, duration: 6.7, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
         .fromTo('.ambient-flag-fold', { opacity: 0.03, x: -3 }, { opacity: 0.07, x: 4, duration: 4.3, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
     }
