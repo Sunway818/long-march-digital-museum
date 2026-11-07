@@ -175,7 +175,7 @@ section:focus {
   transition:transform .25s;
 }
 
-.navbar nav a:hover:after,.navbar nav .nav-home:after {
+.navbar nav a:hover:after,.navbar nav [aria-current]:after {
   transform:scaleX(1);
 }
 
@@ -205,7 +205,7 @@ section:focus {
   width:100%;
   height:100%;
   object-fit:cover;
-  object-position:45% 50%;
+  object-position:50% 50%;
   display:block;
 }
 
@@ -279,6 +279,8 @@ section:focus {
 }
 
 .journey-button {
+  position:relative;
+  isolation:isolate;
   display:inline-flex;
   align-items:center;
   justify-content:space-between;
@@ -286,21 +288,48 @@ section:focus {
   min-height:56px;
   margin:40px 0 0 56px;
   padding:16px 26px;
-  background:var(--red);
-  border:1px solid #b6684770;
+  background:#a7834e;
+  color:#24180d;
+  border:1px solid #5b3e22;
+  box-shadow:inset 0 1px 0 #e1c48a80,inset 0 -2px 0 #563a2166,0 2px 8px #100d0d38;
+  font-family:var(--serif);
   font-size:15px;
   letter-spacing:.18em;
-  transition:background .2s,transform .2s,border-color .2s;
+  transition:background-color .25s,transform .25s,border-color .25s;
+}
+
+.journey-button:before {
+  content:'';
+  position:absolute;
+  inset:0;
+  z-index:-1;
+  background:url('../assets/textures/wood-grain.svg') center/100% 100%;
+  opacity:.85;
+  pointer-events:none;
+  transition:opacity .3s;
+}
+
+.journey-button:after {
+  content:'';
+  position:absolute;
+  inset:4px;
+  border:1px solid #49321b38;
+  border-top-color:#f3d49d45;
+  pointer-events:none;
 }
 
 .journey-button:hover {
-  background:#a13b2b;
-  border-color:#c38e61;
-  transform:translateY(-2px);
+  background-color:#b18e58;
+  border-color:#8f693c;
+  transform:translateY(-1px);
+}
+
+.journey-button:hover:before {
+  opacity:.65;
 }
 
 .journey-button:active {
-  background:#702216;
+  background-color:#94703f;
   transform:translateY(0);
 }
 
@@ -309,7 +338,7 @@ section:focus {
 }
 
 .journey-button:hover .arrow {
-  transform:translateX(4px);
+  transform:translateX(3px);
 }
 
 .image-fallback {
@@ -694,22 +723,6 @@ section:focus {
   background:#100d0d;
   pointer-events:none;
   opacity:0;
-}
-
-.skip-intro {
-  position:absolute;
-  z-index:6;
-  right:5%;
-  top:116px;
-  color:#e0d6c7;
-  font-size:12px;
-  background:#100d0d90;
-  border:1px solid #806f63;
-  padding:8px 14px;
-}
-
-.skip-intro:hover {
-  background:#201718;
 }
 
 :root {

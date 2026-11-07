@@ -1,0 +1,19 @@
+<!-- Original procedural texture, authored for this project. No external artwork. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="144" viewBox="0 0 512 144">
+  <defs>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".018 .36" numOctaves="2" seed="13" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 .20 0 0 0 0 .12 0 0 0 0 .05 0 0 0 .23 0"/>
+    </filter>
+  </defs>
+  <g fill="none" stroke="#412b16" stroke-width=".8" opacity=".33">
+    <path d="M-20 11C50 21 98 7 173 14S293 23 366 13 456 4 536 14M-8 26C82 15 121 35 196 27S290 18 367 26 458 33 528 21M-20 42C76 31 143 50 211 42S315 34 372 43 465 48 532 38M-15 55C74 47 119 66 192 55S300 47 364 58 438 60 530 50M-8 79C72 69 121 86 205 74S299 62 373 76 470 84 532 73M-20 93C62 87 112 100 195 92S310 81 375 93 461 102 531 89M-20 110C60 103 151 120 214 109S304 101 382 110 469 117 533 106M-10 130C59 123 131 138 214 127S322 120 380 131 478 137 530 123"/>
+    <path d="M80 63C126 59 143 59 165 64S205 71 251 63M87 65C128 63 149 65 168 68S208 72 249 67M295 32C325 36 347 34 370 32M329 100C351 96 367 97 388 100S433 102 449 98" stroke-width=".5"/>
+  </g>
+  <g fill="none" stroke="#edcc8d" stroke-width=".65" opacity=".27">
+    <path d="M-20 17C55 27 116 12 184 20S305 27 366 19 465 8 536 20M-20 46C82 38 149 55 219 47S328 42 386 49 466 53 536 43M-20 83C69 76 130 92 211 80S311 72 382 83 473 87 536 79M-20 115C67 108 147 124 226 115S314 108 389 115 472 120 536 113"/>
+  </g>
+  <path d="M2 2H510V142H2Z" fill="none" stroke="#332110" opacity=".28"/>
+  <path d="M13 4H121M139 4H268M307 4H494M8 139H89M116 139H247M281 139H503" stroke="#ead09a" stroke-width="1" opacity=".3"/>
+  <rect width="512" height="144" filter="url(#grain)" opacity=".7"/>
+</svg>

@@ -9,8 +9,8 @@
     "sourceBytes": 4063532,
     "sourceSha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
     "file": "journey-title.woff2",
-    "bytes": 1932,
-    "sha256": "819361d24a25f2e82864f1611d087993ea2151d8ca8d6bb9727ad521d449070f",
+    "bytes": 1924,
+    "sha256": "a6104898308f370b4d2ca1adb490e358b0bdf55bed3a6ab7020642f965ab48e8",
     "characters": "伟大征程",
     "missingOptionalCodepoints": [],
     "license": "title-OFL.txt"
@@ -25,9 +25,9 @@
     "sourceBytes": 24543332,
     "sourceSha256": "78aa7a328fd974df2d688c8a9fd74a33d8334dfa84ab24d9d11efb2ffc464117",
     "file": "journey-serif.woff2",
-    "bytes": 82204,
-    "sha256": "d1f90d913527b44095977e292cc6a0e190eb11adf680d567ab9e4e4cd6e785f4",
-    "characters": "、。下不与中为主之九事于人仅仍他件伍伟传位体作使供信像充入关其具军农创利到前加化区十占历原及口可史后向启周回国图在地场域壮处备多大头始字实导尚展山工帜年序开式引当影征待念态息或户承择据授探提放数文方旗时明是景暂更未本术权查案档正此河点照片物状用的看真瞬神程空穿章筹精索红纪续者胜脉航艺节英行补证说请跳轴载过返进选长闭间阔队陈雄页领题馆首验 !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~—·×↗，。；：！？（）《》、",
+    "bytes": 84524,
+    "sha256": "2d659cb553d4889f5562191068b1d5444e701123e149328c8c4fbab974d08c0b",
+    "characters": "、。下不与中为主之九事于人仅仍件伍伟传位体作使供信停像充入关具军农创利到前加动化区十占历原口可史合后向启周回国图在地场域境壮处备多大始字实导将尚展山工帜年序开式引当影征待念态息或户承择据授探提播放效数整文料方旗时明是景暂更未本术权查案档正此河点照片物状环用的看真神程空穿章筹精索红纪续者胜脉航艺节英行补要证说请资跳轴载返进选重长闭间阔队陈雄页领题馆首验 !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~—·×↗，。；：！？（）《》、",
     "missingOptionalCodepoints": [],
     "license": "serif-OFL.txt"
   },
@@ -41,9 +41,9 @@
     "sourceBytes": 16529832,
     "sourceSha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
     "file": "journey-sans.woff2",
-    "bytes": 57684,
-    "sha256": "5bc8c5ddece4f2bff7161f2608900dcc0245718a25852ff1f59ee8f716d2c073",
-    "characters": "、。下不与中为主之九事于人仅仍他件伍伟传位体作使供信像充入关其具军农创利到前加化区十占历原及口可史后向启周回国图在地场域壮处备多大头始字实导尚展山工帜年序开式引当影征待念态息或户承择据授探提放数文方旗时明是景暂更未本术权查案档正此河点照片物状用的看真瞬神程空穿章筹精索红纪续者胜脉航艺节英行补证说请跳轴载过返进选长闭间阔队陈雄页领题馆首验 !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~—·×↗，。；：！？（）《》、",
+    "bytes": 59908,
+    "sha256": "a678bc24c97141066c25a70e5e5a23fe6d110873db0a0bfea3e8029efdc5d487",
+    "characters": "、。下不与中为主之九事于人仅仍件伍伟传位体作使供信停像充入关具军农创利到前加动化区十占历原口可史合后向启周回国图在地场域境壮处备多大始字实导将尚展山工帜年序开式引当影征待念态息或户承择据授探提播放效数整文料方旗时明是景暂更未本术权查案档正此河点照片物状环用的看真神程空穿章筹精索红纪续者胜脉航艺节英行补要证说请资跳轴载返进选重长闭间阔队陈雄页领题馆首验 !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~—·×↗，。；：！？（）《》、",
     "missingOptionalCodepoints": [],
     "license": "sans-OFL.txt"
   }

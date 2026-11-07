@@ -27,7 +27,7 @@
 src/
   app/                 应用入口、导航、全局配置
   features/
-    home/ timeline/ journey-map/ events/ people/ legacy/
+    home/ journey-map/ people/ legacy/
   components/          共享按钮、标题、媒体、引用和面板
   data/                armies、nodes、segments、places、events、people、media、sources
   domain/              日期、路线裁剪、数据校验、来源规则等纯函数
@@ -39,6 +39,8 @@ tests/                 核心逻辑单测和联动端到端测试
 ```
 
 ## 组件和单向数据流
+
+四模块导航共用 exhibition.ts 元信息；不安装路由库、不创建 timeline/events 独立页面。事件、图片和时间数据仍保留在独立 data 层，未来由 journey-map 的时间节点、地点与资料卡使用。ambientAnimations.ts 单独管理装饰时钟，不能驱动历史日期；AmbientScene 使用原图坐标系 SVG 遮罩，原件不改写。
 
 `JourneyExperience` 持有交互状态；`TimeSlider`、`PlaybackControls`、`ArmyFilter`、`JourneyMap`、`PlaceMarker`、`EventList`、`SourceCitation`、`DetailPanel` 通过参数和事件通信。
 

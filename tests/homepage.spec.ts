@@ -27,11 +27,14 @@ test('首页画面、真实字体、桌面构图与滚动转场', async ({ page 
 
 test('全部导航、章节占位选择与返回', async ({ page }) => {
   await page.goto('/')
-  const chapters = ['历史时间轴', '时空长征', '历史瞬间', '英雄人物', '精神传承']
+  const chapters = ['时空长征', '英雄人物', '精神传承']
+  await expect(page.getByRole('navigation').getByRole('link')).toHaveText(['首页', ...chapters])
+  await expect(page.locator('.chapter-links button')).toHaveCount(3)
   for (const name of chapters) {
     await page.getByRole('navigation', { name: '主导航' }).getByRole('link', { name, exact: true }).click()
     await expect(page.locator('.chapter-status')).toContainText(`${name}正在筹备`)
     await expect(page.getByRole('button', { name: `${name} 待开放` })).toHaveAttribute('aria-pressed', 'true')
+    await expect(page.getByRole('navigation').getByRole('link', { name, exact: true })).toHaveAttribute('aria-current', 'location')
   }
   for (const name of chapters) {
     await page.getByRole('button', { name: `${name} 待开放` }).click()
@@ -75,11 +78,10 @@ test('减少动态效果、图片失败与缩窗仍可操作', async ({ page }) 
   await expect(page.getByRole('link', { name: '开启征程', exact: true })).toBeVisible()
 })
 
-test('跳过片头立即呈现可操作的首页', async ({ page }) => {
+test('片头保持短入场且完全没有跳过按钮', async ({ page }) => {
   await page.goto('/')
-  const skip = page.getByRole('button', { name: '跳过片头' })
-  await skip.click()
-  await expect(skip).toHaveCount(0)
+  await expect(page.getByRole('button', { name: '跳过片头' })).toHaveCount(0)
+  await expect(page.locator('.skip-intro')).toHaveCount(0)
   await expect(page.getByRole('navigation')).toBeVisible()
   await page.getByRole('link', { name: '开启征程', exact: true }).click()
   await expect(page.locator('#entrance')).toBeFocused()
@@ -99,4 +101,53 @@ test('待开放章节深链接刷新保持真实入口状态', async ({ page }) 
   await expect(page).toHaveURL(/#home$/)
   await page.reload()
   await expect.poll(() => page.evaluate(() => scrollY)).toBeLessThan(5)
+})
+
+test('两个旧独立入口归并到时空长征，且无旧导航残留', async ({ page }) => {
+  for (const retired of ['timeline', 'moments']) {
+    await page.goto(`/#entrance-${retired}`)
+    await expect(page).toHaveURL(/#entrance-journey$/)
+    await expect(page.locator('.chapter-status')).toContainText('时空长征正在筹备')
+    await expect(page.locator('a[href="#entrance-timeline"],a[href="#entrance-moments"]')).toHaveCount(0)
+  }
+})
+
+test('环境动效可暂停、离屏暂停、返回恢复并支持动态降级', async ({ page }) => {
+  await page.goto('/')
+  const hero = page.locator('#home')
+  await expect(hero).toHaveAttribute('data-ambient-state', 'running')
+  const pause = page.getByRole('button', { name: '暂停环境动效' })
+  await pause.click()
+  await expect(hero).toHaveAttribute('data-ambient-state', 'paused')
+  const still = await page.locator('.ambient-sun').evaluate(el => getComputedStyle(el).opacity)
+  await page.waitForTimeout(400)
+  expect(await page.locator('.ambient-sun').evaluate(el => getComputedStyle(el).opacity)).toBe(still)
+  await page.getByRole('button', { name: '播放环境动效' }).click()
+  await expect(hero).toHaveAttribute('data-ambient-state', 'running')
+  await page.getByRole('link', { name: '开启征程', exact: true }).click()
+  await expect(hero).toHaveAttribute('data-ambient-state', 'offscreen')
+  await page.getByRole('link', { name: '返回序章' }).click()
+  await expect(hero).toHaveAttribute('data-ambient-state', 'running')
+  await page.emulateMedia({ reducedMotion: 'reduce' })
+  await expect(hero).toHaveAttribute('data-ambient-state', 'reduced')
+  await expect(page.locator('.ambient-scene')).toBeHidden()
+  await expect(pause).toBeHidden()
+  await page.emulateMedia({ reducedMotion: 'no-preference' })
+  await expect(hero).toHaveAttribute('data-ambient-state', 'running')
+})
+
+test('后台可见性分支暂停且返回时尊重手动暂停选择', async ({ page }) => {
+  await page.goto('/')
+  const hero = page.locator('#home')
+  await expect(hero).toHaveAttribute('data-ambient-state', 'running')
+  // Explicit branch simulation; actual browser-tab switching is recorded separately.
+  await page.evaluate(() => { Object.defineProperty(document, 'hidden', { configurable: true, value: true }); document.dispatchEvent(new Event('visibilitychange')) })
+  await expect(hero).toHaveAttribute('data-ambient-state', 'background')
+  await page.evaluate(() => { Object.defineProperty(document, 'hidden', { configurable: true, value: false }); document.dispatchEvent(new Event('visibilitychange')) })
+  await expect(hero).toHaveAttribute('data-ambient-state', 'running')
+  await page.getByRole('button', { name: '暂停环境动效' }).click()
+  await page.getByRole('link', { name: '开启征程', exact: true }).click()
+  await expect(hero).toHaveAttribute('data-ambient-state', 'offscreen')
+  await page.getByRole('link', { name: '返回序章' }).click()
+  await expect(hero).toHaveAttribute('data-ambient-state', 'paused')
 })

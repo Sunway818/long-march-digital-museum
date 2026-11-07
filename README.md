@@ -24,7 +24,9 @@ npm run test:browser
 
 测试配置使用本机 Windows Chrome 与 Edge 的标准安装路径，覆盖 1920×1080、1366×768；没有安装浏览器时先安装所需浏览器或按实际路径调整测试配置。Playwright 测试自动启动 4173 生产预览；测试前须先 build。截图可执行 `node scripts/capture-homepage.mjs final`（需已运行 dev，或设置 PREVIEW_URL 指向 preview）。本地 QA 产物 output/playwright 和 test-results 不提交。
 
-首页：导航未来章节/开启征程会定位到“展馆入口”并说明待开放；不会展示伪造地图。影像说明可打开、Escape 关闭；减少动态效果时立即静态展示。详见 [Day 3 验证](docs/DAY3_VALIDATION.md)。
+首页导航仅首页、时空长征、英雄人物、精神传承；后三项/开启征程定位到“展馆入口”并说明待开放。历史时间轴和历史瞬间规划整合到地图，旧锚点归并地图入口。无片头跳过按钮；影像说明支持 Escape 与焦点恢复，环境动效可暂停，减少动态效果时静态展示。详见 [Day 3 验证](docs/DAY3_VALIDATION.md)及[精修记录](docs/HOMEPAGE_REFINEMENT.md)。
+
+本地地址依赖 Vite 进程持续运行，保留终端；Ctrl+C、退出相关进程或重启电脑后，重新在项目目录执行 `npm run dev`。标签页本身不提供服务，不需要因此重新安装依赖。
 
 ## 阅读入口
 

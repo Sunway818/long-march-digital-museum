@@ -4,20 +4,20 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 gsap.registerPlugin(ScrollTrigger)
 
 /** One scoped owner for intro children, image zoom and scroll container transforms. */
-export function createHeroAnimations(scope: HTMLElement, onIntroComplete: () => void) {
+export function createHeroAnimations(scope: HTMLElement, callbacks: { onIntroStart?: () => void; onIntroComplete?: () => void } = {}) {
   let disposed = false
-  let intro: gsap.core.Timeline | undefined
   const media = gsap.matchMedia()
-  const complete = () => { if (!disposed) onIntroComplete() }
+  const complete = () => { if (!disposed) callbacks.onIntroComplete?.() }
 
   media.add({ motion: '(prefers-reduced-motion: no-preference)', reduce: '(prefers-reduced-motion: reduce)' }, context => {
     if (context.conditions?.reduce) { complete(); return }
+    callbacks.onIntroStart?.()
     const title = scope.querySelectorAll('[data-intro="title"]')
     const subtitle = scope.querySelector('[data-intro="subtitle"]')
     const year = scope.querySelector('[data-intro="year"]')
     const controls = scope.querySelectorAll('[data-intro="controls"]')
     const navigation = document.querySelector('[data-intro="navigation"]')
-    intro = gsap.timeline({ defaults: { ease: 'power3.out' }, onComplete: complete })
+    gsap.timeline({ defaults: { ease: 'power3.out' }, onComplete: complete })
       .fromTo(scope.querySelector('.hero-reveal'), { opacity: 0.5 }, { opacity: 0, duration: 1.25 }, 0)
       .fromTo(scope.querySelector('.hero-image-motion'), { scale: 1.02 }, { scale: 1, duration: 2.2, ease: 'power2.out' }, 0)
       .fromTo(title, { autoAlpha: 0, y: 14 }, { autoAlpha: 1, y: 0, duration: 1.15, stagger: 0.08 }, 0.3)
@@ -41,7 +41,6 @@ export function createHeroAnimations(scope: HTMLElement, onIntroComplete: () => 
   image?.addEventListener('load', refresh)
   document.fonts.ready.then(refresh).catch(() => {})
   return {
-    skip() { intro?.progress(1); complete() },
     destroy() { disposed = true; image?.removeEventListener('load', refresh); media.revert() },
   }
 }

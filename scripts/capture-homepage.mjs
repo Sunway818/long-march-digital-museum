@@ -19,7 +19,7 @@ for (const [name, executablePath] of [
       page.on('console', message => { if (message.type() === 'error') errors.push(message.text()) })
       await page.goto(baseURL, { waitUntil: 'networkidle' })
       await page.evaluate(() => document.fonts.ready)
-      await page.waitForTimeout(stage === 'final' ? 3000 : 250)
+      await page.waitForTimeout(stage === 'final' || stage.startsWith('refine-') ? 4000 : 250)
       await page.screenshot({ path: `output/playwright/${stage}-${name}-${width}.png` })
       const metrics = await page.evaluate(() => ({
         overflow: document.documentElement.scrollWidth > innerWidth,

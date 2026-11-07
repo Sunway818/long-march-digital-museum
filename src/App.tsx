@@ -16,8 +16,11 @@ export default function App() {
   }
   useEffect(() => {
     const restore = () => {
-      const module = modules.find(item => location.hash === `#entrance-${item.id}`)
-      if (module) { setSelected(module.id); scrollToRegion('entrance', location.hash) }
+      // Retired standalone entry URLs resolve to the integrated map entrance.
+      const hash = ['#entrance-timeline', '#entrance-moments'].includes(location.hash) ? '#entrance-journey' : location.hash
+      const module = modules.find(item => hash === `#entrance-${item.id}`)
+      if (module) { setSelected(module.id); scrollToRegion('entrance', hash) }
+      else if (hash === '#home') setSelected(null)
     }
     restore()
     window.addEventListener('hashchange', restore)
@@ -25,7 +28,7 @@ export default function App() {
   }, [])
   return <>
     <a className="skip-link" href="#entrance">跳到展馆入口</a>
-    <Navbar onSelect={selectModule} />
+    <Navbar selected={selected} onSelect={selectModule} />
     <main><Hero onSource={() => setSourceOpen(true)} /><Entrance selected={selected} onSelect={selectModule} /></main>
     <SourceDialog open={sourceOpen} onClose={() => setSourceOpen(false)} />
   </>
