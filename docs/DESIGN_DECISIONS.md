@@ -1,0 +1,65 @@
+# Day 2 设计决策与评审记录
+
+日期：2026-11-07；作者角色：视觉/UI UX/前端设计顾问。状态：设计稿已提出，用户评审待进行；不进入 Day 3 正式开发。
+
+## 输入与保护范围
+
+本次读取 AGENTS.md、PROJECT_BRIEF、REQUIREMENTS、DESIGN_SYSTEM、TECHNICAL_ARCHITECTURE、INTERACTION_DESIGN、DEVELOPMENT_PLAN、SKILLS 及 TASK_BOARD，文件均存在。保留 React/Vite/TypeScript、SVG/GeoJSON、唯一历史时间状态、分部队核验和十四天节奏。
+
+开始时 main 上已有五个未提交修改：AGENTS.md、docs/SETUP_VALIDATION.md、docs/SKILLS.md、docs/TASK_BOARD.md、scripts/verify-setup.mjs；另有未跟踪 pictures/。它们属于此前环境验证和用户素材，本次不覆盖、不暂存、不混入 Day 2 提交。本次提交范围只为 DESIGN_SYSTEM.md、INTERACTION_DESIGN.md 与本文件。
+
+指定首页图片路径不存在，找到并查看 `pictures/山河壮阔的长征旗帜.png`，1672×941，2,801,558 字节。它是本次方案唯一首页素材；原图不修改、不移动、不新增到 Git。图片作者、创作方式、使用授权待用户补充。当前以艺术化场景处理，不能称真实历史照片。
+
+## Skill 应用及查询取舍
+
+成功读取 frontend-design 与 ui-ux-pro-max 的 SKILL.md，前者用于主题构图、两家族字体、克制动态和原创性自查；后者用于设计系统查询、交互状态、响应式和可访问性约束。另查阅已有 design-taste-frontend 的一致对齐、统一系统原则；用户明确要求的历史场景、资料说明和滚动叙事优先，不引入其中不适用的商业页面模板或复制工具资产。未安装任何新 Skill。
+
+本次基于已验证的 Python 3.15.2，在授权沙箱外用 `python -B .agents/skills/ui-ux-pro-max/scripts/search.py <query> --design-system --json` 查询以下五方向，均正常返回、persistence=null。没有执行返回代码或保存生成设计系统。
+
+| 查询 | 实际类别/结果 | 采用与拒绝 |
+| --- | --- | --- |
+| cinematic storytelling website | General；Minimalism & Swiss Style；SaaS (General) 配色 | 泛化结果，不采用整套；从已有规范保留清晰层级 |
+| historical digital museum | Museum/Gallery；Scroll-Triggered Storytelling | 采纳“章节叙事+完整阅读次序”的方向；拒绝默认白底和不覆盖中文的默认字体 |
+| immersive exhibition | General；SaaS (General) | 未取得特定展陈匹配，不采用默认蓝橙卖点页 |
+| editorial web design | Sustainable Energy / Climate Tech；Organic Biophilic | 偏题，不采用绿色、圆润商业模板 |
+| interactive historical atlas | General；SaaS (General) | 未取得历史地图专门匹配，地图按项目交互契约设计 |
+
+聚焦重试：`museum storytelling --design-system --json` 仍识别 Museum/Gallery 与 Scroll-Triggered Storytelling；`editorial typography --domain typography --json` 返回 3 组拉丁字体参考。其章节层级/宋黑搭配思路可借鉴，但未验证中文覆盖，最终候选改为官方可追溯的思源宋体/黑体。其余泛化结果不反复换关键词凑命中；“查询成功”不等于“设计方案适合项目”。本次七次进程均退出 0。
+
+## 候选决策清单
+
+| ID | 提议 | 理由与取舍 | 状态/后续 |
+| --- | --- | --- | --- |
+| D2-01 | 推荐首页 A：山河序章；备选 B：纪念影展片头 | A 利用右侧天空留白、沉浸感强；B 图文分区、原图完整且阅读稳定 | 等用户确认 A/B 或修订 |
+| D2-02 | 保留 Day 1 深红/暗金/炭黑/米白/灰褐，补齐语义状态 | 来自实际原图和题材，不套 SaaS 模板；关键纯色对比已计算 | 色值待确认；照片合成待 Day 3 实测 |
+| D2-03 | 两家族思源宋体 SC + 思源黑体 SC，未来本地部署 | 中文纪念题材与工具信息分工清晰；已核查官方 OFL 1.1 | 等用户确认；实际版本/子集/体积未验证 |
+| D2-04 | 桌面地图上时间轴、中央底图、右资料栏、下播放筛选 | 符合本次需求且保证地图是视觉中心；右栏固定列避免动画挤压地图 | 提案完成；后续原型验证 |
+| D2-05 | 小屏完整影像带；地图详情使用底部对话框 | 保留旗帜/人物且不给狭窄地图塞常驻右栏 | 待确认；360/390/768/1024 等尺寸待实测 |
+| D2-06 | 四部队用红/金/青/绿+身份符号 | 不只依赖颜色；虚线仅表概略精度，避免线型语义冲突 | 对比已算；色觉模拟与交叉避让未测 |
+| D2-07 | 动画短、可跳过、可降级，路线不附加装饰拖尾 | 信息反馈与历史时间一致，避免多时钟与假精确感 | 规格完成；性能留后续验证 |
+| D2-08 | 1936—2026 仅作首页纪念跨度 | 不把纪念年范围误用为部队历史模拟范围 | 纳入设计约束，史实数据未改 |
+
+## 原创性与自查
+
+初始容易落入“黑金模板+中间大字+重复卡片”。修订为基于原图的左旗右题 A 与分区纪念片头 B；只有首页承载宏大视觉，地图降低饱和度、档案直接排版、人物采用肖像与贡献分栏。颜色和动效均有题材/状态职责，不加入无意义编号、颗粒叠层、霓虹、装饰 3D、商业统计或无关 CTA。黑金与档案风是用户明确方向，保留并通过具体构图而非回避题材体现差异。
+
+## 已核验与待核验
+
+已核验：原图可读取、尺寸和 SHA-256；官方字体许可文本；设计令牌纯色对比；项目准备文件与 Skill 校验（详见实际检查输出）。未核验：照片上最终文字合成对比、字体网页加载/体积、真正屏幕截图、色觉模拟、地图底图范围/授权、渲染帧率和真实交互。本文是设计文档，不是上线或浏览器验收报告。
+
+字体依据：[思源宋体官方许可](https://raw.githubusercontent.com/adobe-fonts/source-han-serif/master/LICENSE.txt)、[思源黑体官方许可](https://raw.githubusercontent.com/adobe-fonts/source-han-sans/master/LICENSE.txt)。可读性依据：[W3C 文本对比度说明](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html)。均于 2026-11-07 查阅。
+
+## 需要用户确认
+
+1. 首页采用 A“山河序章”还是 B“纪念影展片头”，以及是否调整标题位置/遮罩强度。
+2. 候选红金色值、两家族中文字体、四部队路线配色和符号。
+3. 小屏采用完整图带+独立文字区，资料用底部对话框，是否认可。
+4. 原图作者、生成/绘制方式及许可；是否授权 Day 3 在保留原件的前提下创建优化派生图、并放入公开资源目录。
+
+## Day 3 就绪门槛与范围
+
+文档已具备：首页内容、A/B 构图、字号间距、响应式、异常态、动效规格、地图联动状态及验收方向。仍需上方确认；不因日期已经到来就自动开工。
+
+确认后先初始化已有架构的最小工程，创建静态首页原型，使用当前原图并按授权处理资源路径；获取合法字体、保留许可；再检查 1440×900、1280×720、1024×768、768×1024、390×844、360×800 和文字 200% 放大；校准图文遮罩、键盘导航和素材说明后才添加短入场。此顺序不意味着当前已获页面开发、素材优化或部署授权。
+
+Day 2 设计文档阶段完成，视觉确认里程碑尚未完成；TASK_BOARD 的 DESIGN-01 保持待完成符合真实状态。Git 提交后不合并、不推送，既有五项修改和用户图片仍留原工作区。
