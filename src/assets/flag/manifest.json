@@ -1,0 +1,30 @@
+{
+  "sourceCanvas": [
+    1672,
+    941
+  ],
+  "textureRect": [
+    192,
+    0,
+    828,
+    504
+  ],
+  "amplitude": 16,
+  "files": {
+    "flag-clean-plate.png": {
+      "source": "artifacts\\flag-separation-draft\\flag-clean-plate.png",
+      "sourceSha256": "59cbacc3bbc00b2f0d0d210e18378d57254f922aef2507d7e2129eebb8032a60",
+      "sha256": "59cbacc3bbc00b2f0d0d210e18378d57254f922aef2507d7e2129eebb8032a60"
+    },
+    "flag-foreground.png": {
+      "source": "artifacts\\flag-separation-draft\\flag-foreground.png",
+      "sourceSha256": "b9e85678e5df3a1432fe327540679de337de7f0cfe4d68b494cf7ffe465c23c3",
+      "sha256": "b9e85678e5df3a1432fe327540679de337de7f0cfe4d68b494cf7ffe465c23c3"
+    },
+    "flag-cloth-local.png": {
+      "source": "artifacts\\flag-separation-draft\\flag-rgba.png",
+      "sourceSha256": "43761d4129227b86fccba1714296bcdd6ad05346a8333014edcee5397d08b329",
+      "sha256": "d26f95e32b1e1adaa4e0733481b2b78129c36831f024a707b0b92700ade9d2bf"
+    }
+  }
+}

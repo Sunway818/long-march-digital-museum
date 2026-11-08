@@ -40,7 +40,7 @@ tests/                 核心逻辑单测和联动端到端测试
 
 ## 组件和单向数据流
 
-四模块导航共用 exhibition.ts 元信息；不安装路由库、不创建 timeline/events 独立页面。事件、图片和时间数据仍保留在独立 data 层，未来由 journey-map 的时间节点、地点与资料卡使用。ambientAnimations.ts 单独管理装饰时钟，不能驱动历史日期；AmbientScene 使用原图坐标系 SVG 遮罩，原件不改写。
+四模块导航共用 exhibition.ts 元信息；不安装路由库、不创建 timeline/events 独立页面。事件、图片和时间数据仍保留在独立 data 层，未来由 journey-map 的时间节点、地点与资料卡使用。2026-11-08 首页改用 FlagScene 与局部 WebGL2 旗面；ambientAnimations.ts 通过单个 GSAP ticker 回调累积有效时间，并以该时间手动采样暂停的光雾时间线及旗面 renderer。renderer 无独立 RAF，不能驱动历史日期。Clean Plate/固定前景为普通图像层，GPU 仅上传 636×504 的无损旗面裁片，672×536 透明画布按原图 cover 变换定位。原始完整图始终作为整体回退。生命周期与测试见 FLAG_INTEGRATION.md。
 
 `JourneyExperience` 持有交互状态；`TimeSlider`、`PlaybackControls`、`ArmyFilter`、`JourneyMap`、`PlaceMarker`、`EventList`、`SourceCitation`、`DetailPanel` 通过参数和事件通信。
 

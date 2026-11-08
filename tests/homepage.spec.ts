@@ -130,7 +130,7 @@ test('环境动效可暂停、离屏暂停、返回恢复并支持动态降级',
   await expect(hero).toHaveAttribute('data-ambient-state', 'running')
   await page.emulateMedia({ reducedMotion: 'reduce' })
   await expect(hero).toHaveAttribute('data-ambient-state', 'reduced')
-  await expect(page.locator('.ambient-scene')).toBeHidden()
+  await expect(page.locator('.flag-scene')).toBeHidden()
   await expect(page.locator('.ambient-atmosphere')).toBeHidden()
   await expect(pause).toBeHidden()
   await page.emulateMedia({ reducedMotion: 'no-preference' })

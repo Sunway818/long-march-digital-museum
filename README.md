@@ -28,6 +28,8 @@ npm run test:browser
 
 本地地址依赖 Vite 进程持续运行，保留终端；Ctrl+C、退出相关进程或重启电脑后，重新在项目目录执行 `npm run dev`。标签页本身不提供服务，不需要因此重新安装依赖。
 
+2026-11-08：首页红旗已接入唯一 16px 中等档的局部 WebGL2 动画，与云雾、朝阳共用单个环境动效按钮。初始化失败回退完整原图，reduce 静态。实现与实际验收记录见 [旗帜集成](docs/FLAG_INTEGRATION.md)。独立实验中的多档控件不进入正式首页。
+
 ## 阅读入口
 
 - [项目概要](docs/PROJECT_BRIEF.md)与[正式需求](docs/REQUIREMENTS.md)

@@ -85,7 +85,7 @@ flowchart TD
 
 导航为：首页、时空长征、英雄人物、精神传承；三处后续占位与导航共用数据源。独立时间轴/历史瞬间入口移除，旧 #entrance-timeline / #entrance-moments 规范化为 #entrance-journey；它们不是保留的独立路由。选中入口更新 aria-current 与 URL，返回首页清除选中；影像说明支持关闭、Escape 和焦点恢复。
 
-环境动画在片头完成后启动，与历史模拟播放完全分离。用户可暂停/恢复；离屏和 document.hidden 暂停，恢复不追赶时间，手动暂停选择保留。reduce 不创建持续动画；卸载清理 GSAP、媒体查询、IntersectionObserver 和 visibilitychange。旗面仅在内部有限区域运动，旗杆、人物及外轮廓不形变。
+环境动画在片头完成且分层就绪后自动启动，与历史模拟播放完全分离。2026-11-08 用户确认旗面采用唯一 16px 中等档、8 秒连续周期；连接区/旗杆/人物固定，旗帜自由边缘可运动。单个“暂停环境动效/播放环境动效”按钮同时冻结或恢复旗帜、云雾、朝阳，保留当前帧。仅完全离屏或 document.hidden 暂停；返回不追赶时间，且不覆盖手动暂停选择。reduce 不创建持续时钟；卸载清理 ticker、媒体查询、IntersectionObserver、visibilitychange、ResizeObserver 与 GPU 资源。WebGL 初始化、纹理或 Context Lost 失败时整体显示原始完整图。
 
 ## Day 2 地图布局与信息层级
 

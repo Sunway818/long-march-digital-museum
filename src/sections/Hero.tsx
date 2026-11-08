@@ -4,12 +4,12 @@ import { WoodenCta } from '../components/WoodenCta'
 import { ScrollIndicator } from '../components/ScrollIndicator'
 import { createHeroAnimations } from '../animations/heroAnimations'
 import { createAmbientAnimations } from '../animations/ambientAnimations'
-import { AmbientScene } from '../components/AmbientScene'
+import { FlagScene } from '../components/FlagScene'
 import { Atmosphere } from '../components/Atmosphere'
 
 export function Hero({ onSource }: { onSource: () => void }) {
   const [imageFailed, setImageFailed] = useState(false)
-  const [ambientPaused, setAmbientPaused] = useState(false)
+  const [ambientMotionEnabled, setAmbientMotionEnabled] = useState(true)
   const root = useRef<HTMLElement>(null)
   const ambient = useRef<ReturnType<typeof createAmbientAnimations> | null>(null)
   useLayoutEffect(() => {
@@ -21,7 +21,7 @@ export function Hero({ onSource }: { onSource: () => void }) {
   }, [])
   return <section ref={root} id="home" tabIndex={-1} className="hero" aria-labelledby="hero-title">
     <div className="hero-media" aria-hidden="true"><div className="hero-image-motion">
-      {!imageFailed && <><img className="hero-image" src={resources.hero} alt="" width="1672" height="941" fetchPriority="high" onError={() => { ambient.current?.setAvailable(false); setImageFailed(true) }} /><AmbientScene /></>}
+      {!imageFailed && <><img className="hero-image" src={resources.hero} alt="" width="1672" height="941" fetchPriority="high" onError={() => { ambient.current?.setAvailable(false); setImageFailed(true) }} /><FlagScene /></>}
     </div></div>
     <div className="hero-shade" aria-hidden="true" />
     {!imageFailed && <div className="hero-atmosphere-plane"><Atmosphere /></div>}
@@ -35,7 +35,10 @@ export function Hero({ onSource }: { onSource: () => void }) {
       {imageFailed && <p role="status" className="image-fallback">首页影像暂未加载，仍可进入展馆入口。</p>}
     </div>
     <div className="hero-footer"><p data-intro="controls">NINETY YEARS OF VICTORY</p><ScrollIndicator /><div className="hero-tools" data-intro="controls">
-      {!imageFailed && <button className="ambient-toggle" aria-pressed={ambientPaused} onClick={() => { const paused = !ambientPaused; setAmbientPaused(paused); ambient.current?.setPaused(paused) }}>{ambientPaused ? '播放环境动效' : '暂停环境动效'}</button>}
+      {!imageFailed && <button className="ambient-toggle" aria-pressed={!ambientMotionEnabled} onClick={() => { const enabled = !ambientMotionEnabled; setAmbientMotionEnabled(enabled); ambient.current?.setEnabled(enabled) }}>
+        <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true" focusable="false">{ambientMotionEnabled ? <path d="M4 3h3v10H4zm5 0h3v10H9z" fill="currentColor" /> : <path d="M4 2.5 13 8l-9 5.5z" fill="currentColor" />}</svg>
+        {ambientMotionEnabled ? '暂停环境动效' : '播放环境动效'}
+      </button>}
       <button className="source-button" onClick={onSource}>影像说明<span aria-hidden="true"> ↗</span></button>
     </div></div>
   </section>
