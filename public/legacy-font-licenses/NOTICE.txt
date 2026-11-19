@@ -1,3 +1,5 @@
 LegacyBrush: subset of Zhi Mang Xing, Copyright 2018 The Zhi Mang Xing Project Authors.
 LegacySerif: renamed subset of Source Han Serif SC, Copyright 2017-2022 Adobe.
+JourneySansSC: renamed subset of Source Han Sans SC, Copyright 2014-2025 Adobe.
+The exhibit and portrait fonts also use the Zhi Mang Xing and Source Han Serif SC licenses.
 Original copyrights and OFL 1.1 licenses are retained in the accompanying files.

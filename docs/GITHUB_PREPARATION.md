@@ -1,6 +1,6 @@
 # GitHub 上传与部署核对
 
-源码仓库采用 [GitHub Private](https://github.com/Sunway818/long-march-digital-museum)。现有 Git 历史和本地素材保存在原目录，上传范围由 Git 已跟踪文件和忽略规则过滤后的新增源码组成。
+[GitHub 源码仓库](https://github.com/Sunway818/long-march-digital-museum)首次上传时设为私有。本轮通过 GitHub API 核对时，源码仓库及 Pages 配置均已为公开，构建来源为 GitHub Actions。现有 Git 历史和本地素材保存在原目录。
 
 ## 文件范围
 
@@ -24,10 +24,10 @@
 
 | 平台 | 项目配置 | 访问边界 |
 | --- | --- | --- |
-| GitHub Pages 项目站 | Actions 以 Node 22.12+ 执行 `npm ci` 和 `npm run build -- --base=/仓库名/`，上传并发布 `dist`。根域名站点用默认根路径构建 | 私有源仓库需要适用的付费或 Enterprise 套餐。对网站本身限制访问需符合 Enterprise Cloud 的发布条件 |
+| GitHub Pages 项目站 | Actions 以 Node 24 执行 `npm ci` 和 `npm run build -- --mode github-pages`，上传并发布 `dist`。构建使用 `/long-march-digital-museum/` | 私有源仓库需要适用的付费或 Enterprise 套餐。对网站本身限制访问需符合 Enterprise Cloud 的发布条件 |
 | Vercel | 选择 Vite 框架，安装命令 `npm ci`、构建命令 `npm run build`、输出目录 `dist`，根目录为仓库根目录 | Hobby 对 GitHub 组织拥有的私有仓库有限制；预览和生产域名的访问保护须分别确认 |
 
-站内页面通过哈希定位。地图、档案影像、肖像和纪念笺校标随 Vite 部署路径加载。站点仅分发构建产物 `dist`。本地可用 `npm run preview -- --base=/仓库名/` 验证相同子路径。官方资料见 [Vite 静态部署](https://vite.dev/guide/static-deploy.html)、[GitHub Pages 发布来源](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)、[Vercel Git 仓库限制](https://vercel.com/docs/git)与 [Vercel 访问保护](https://vercel.com/docs/deployment-protection)。
+站内页面通过哈希定位。地图、档案影像、肖像和纪念笺校标随 Vite 部署路径加载。站点仅分发构建产物 `dist`。本地可用 `npm run preview -- --mode github-pages` 验证同一子路径。本机、校园网及 Vercel 的默认构建继续使用根路径。官方资料见 [Vite 静态部署](https://vite.dev/guide/static-deploy.html)、[GitHub Pages 自定义 Actions 工作流](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)、[Vercel Git 仓库限制](https://vercel.com/docs/git)与 [Vercel 访问保护](https://vercel.com/docs/deployment-protection)。
 
 ## 素材与权限
 
@@ -36,3 +36,12 @@
 - 校标采用学校提供的素材，用于课程展示。学校标识的使用范围与纪念笺的课程实践定位见[校标使用记录](LEGACY_EMBLEM.md)。
 - 字体保留 OFL 许可和来源记录。地图现代底图与地理数据见[地图开发说明](MAP_DEVELOPMENT.md)。逐图资料、限制和待核项见[影像与来源清单](FINAL_MEDIA_REGISTER.md)。
 - 浏览器回归依赖本机 Chrome／Edge 安装位置。部分研究辅助脚本依赖本地归档或操作系统路径。站点构建、资源加载与访问者浏览均使用项目相对路径和站点部署路径。
+
+## Pages 首次部署前核对
+
+- 配置使用 `github-pages` 构建模式，部署基路径固定为 `/long-march-digital-museum/`。Actions 在 `main` 推送或手动运行时构建和部署，仅发布 `dist`。工作流已通过 actionlint。首次推送工作流前，GitHub Actions 来源已启用，站点地址返回 404。
+- 本机默认根路径和 Pages 子路径的生产构建均通过。严格静态服务在 Pages 子路径验证了 151 个产物的 HTTP 访问及字节一致性。91 张登记影像全部校验原件 SHA-256 并在 Chrome 桌面、Edge 横屏触摸模拟中解码成功。两个视口中，旗帜 WebGL2、MapLibre Worker 和 GeoJSON、遵义会议档案刷新／四渡赤水专题直达、人物深链及浏览器前进后退均通过。
+- 两个 Pages 视口均用真实下载验证了青春纪念笺。示例与实时预览、生成预览、落盘 PNG 中的校标均与官网素材的绘制区域匹配。PNG 为 1080×1440。本轮补入 Source Han Sans SC 的既有 OFL 许可副本，字体使用方式与字体文件字节保持原样。
+- 在拟发布产物及 Git 工作区和提交历史的常见凭据筛查中，未发现密钥、令牌或凭据文件。公开源码的部分旧验证文档含本机账户目录和历史局域网测试地址。Pages 的 `dist` 未包含这些路径，也未分发 Git 目录、环境文件或研究工作表。
+- 113 个栅格影像的元数据检查中，5 张含 GPS 字段，4 张含相机、镜头或 XMP 设备序列标识，两组存在重叠，其中 1 张还含相机所有者字段。涉及 `AST-0004`、`AST-0016`、`AST-0022`、`AST-0076`、`AST-0077` 和 `POR-MAO-01`。图像保留原字节，公开前需确认相关字段的处理方式。逐图授权仍按[影像与来源清单](FINAL_MEDIA_REGISTER.md)核对。
+- Natural Earth 矢量数据的提供方声明其进入公有领域。GeoJSON.cn 公开提供省级数据接口，所用 1.5.3 版本能否通过本站重新分发仍待确认。[Natural Earth 条款](https://www.naturalearthdata.com/about/terms-of-use/) · [GeoJSON.cn 数据说明](https://geojson.cn/data/atlas/china)

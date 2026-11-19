@@ -46,7 +46,8 @@ npm run preview
 ## 静态托管与素材
 
 - 域名根目录或 Vercel 使用 `npm ci`、`npm run build`，托管目录设为 `dist`。
-- GitHub Pages 项目站点使用 `npm run build -- --base=/仓库名/`，通过 Actions 发布构建得到的 `dist`。
-- 仓库准备按 Private 进行。部署站点的访问权限需在托管平台单独配置；上线前需按逐图登记核对转载和公开展示权限。
+- GitHub Pages 项目站点使用 `npm run build -- --mode github-pages`，将资源基路径设为 `/long-march-digital-museum/`。仓库中的 `.github/workflows/deploy.yml` 使用同一命令，由 `main` 推送或手动运行触发，并发布 `dist`。
+- 在本地验证 Pages 构建时，运行 `npm run preview -- --mode github-pages`，浏览器访问 `http://127.0.0.1:4173/long-march-digital-museum/`。回到常规本机或校园网预览前，用 `npm run build` 重新生成根路径版本。
+- 仓库可见性和 Pages 访问权限分别配置。公开上线前需按逐图登记核对转载和公开展示权限。
 
 账号条件、部署步骤和素材风险见 [GitHub 上传与部署核对](docs/GITHUB_PREPARATION.md)。后续开发请先阅读 [AGENTS.md](AGENTS.md)。

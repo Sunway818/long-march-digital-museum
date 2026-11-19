@@ -290,4 +290,5 @@
 
 - [x] GITHUB-PREP｜保留现有分支和历史，整理忽略规则、拟纳入资源、启动说明和静态部署路径。见[上传与部署核对](GITHUB_PREPARATION.md)。
 - [x] GITHUB-PRIVATE｜已确认上传范围，并创建 [GitHub 私有仓库](https://github.com/Sunway818/long-march-digital-museum)。
-- [ ] GITHUB-HOSTING｜互联网部署另行确认素材许可及访问权限。
+- [x] GITHUB-PAGES-PREP｜本地完成 Pages 基路径、Actions 工作流和静态产物核验。当前远程已为公开，核查见[上传与部署核对](GITHUB_PREPARATION.md)。
+- [ ] GITHUB-HOSTING｜用户已确认推送工作流；首次部署结果以 GitHub Actions 及线上检查为准，素材许可与隐私元数据见核对记录。
