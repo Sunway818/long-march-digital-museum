@@ -1,0 +1,20 @@
+:root{--motion-feedback:180ms;--motion-hover:320ms;--motion-reveal:520ms;--motion-dialog:380ms;--motion-page:680ms;--motion-ease:cubic-bezier(.22,.65,.25,1)}
+html[data-motion-state=background] *,html[data-motion-state=background] *:before,html[data-motion-state=background] *:after{animation-play-state:paused!important}
+.chapter-curtain{position:fixed;inset:0;z-index:120;pointer-events:none;background:#101813;opacity:0}
+.chapter-loading{position:fixed;inset:0;display:grid;place-content:center;gap:18px;background:#19211b;color:#e3d3b5;font:18px/1.8 'Source Han Serif SC',serif}
+.chapter-loading:before{content:'';display:block;width:80px;height:1px;background:#b99a61;animation:chapter-loading-enter var(--motion-reveal) var(--motion-ease) both}
+@keyframes chapter-loading-enter{from{opacity:.3}to{opacity:1}}
+@media(prefers-reduced-motion:reduce){.chapter-curtain{display:none}.chapter-loading:before{animation:none}}
+
+.history-node-focus{position:absolute;inset:-3px;border:1px solid #9b503c;border-radius:50%;opacity:0;pointer-events:none;transform-origin:center}
+.history-archive-dialog[open]::backdrop{animation:archive-backdrop-enter var(--motion-dialog) ease-out both}
+@keyframes archive-backdrop-enter{from{background-color:#23160f33}to{background-color:#23160fd9}}
+@media(prefers-reduced-motion:reduce){.history-archive-dialog[open]::backdrop{animation:none}}
+.history-archive-dialog[data-closing=true]::backdrop{animation:archive-backdrop-leave 260ms ease-in both}
+.chapter-loading a,.chapter-loading button{min-height:44px;display:flex;align-items:center;justify-content:center;color:#eadbbf;background:transparent;border:1px solid #a28a60;padding:8px 24px;cursor:pointer}
+@keyframes archive-backdrop-leave{from{background-color:#23160fd9}to{background-color:#23160f22}}
+@media(prefers-reduced-motion:reduce){.history-archive-dialog[data-closing=true]::backdrop{animation:none}}
+.chapter-loading :is(a,button){transition:background-color var(--motion-feedback),border-color var(--motion-feedback)}
+.chapter-loading :is(a,button):hover{background:#ffffff0a;border-color:#e3c58c}
+.chapter-loading :is(a,button):focus-visible{outline:2px solid #e3c58c;outline-offset:4px}
+@media(prefers-reduced-motion:reduce){.chapter-loading :is(a,button){transition:none}}

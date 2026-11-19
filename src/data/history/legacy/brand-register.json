@@ -1,0 +1,22 @@
+{
+  "id": "LEG-BRAND-01",
+  "title": "杭州电子科技大学官方反白校标及中英文校名组合",
+  "institution": "杭州电子科技大学",
+  "page": "https://www.hdu.edu.cn/666/list.htm",
+  "sourcePage": "https://www.hdu.edu.cn/main.htm",
+  "url": "https://www.hdu.edu.cn/_upload/tpl/02/12/530/template530/images/logo.svg",
+  "officialDownload": "https://www.hdu.edu.cn/_redirect?articleId=34761&columnId=666&siteId=4",
+  "originalPath": "research/legacy_emblem_20261118/home-logo.svg",
+  "displayPath": "public/legacy-brand/hdu-official-white.svg",
+  "sha256": "5866a6702247866fe9fb026b71758e878d0af7ae5ee77a26bac93d37ea12b128",
+  "bytes": 74531,
+  "format": "SVG",
+  "width": 314.419,
+  "height": 70,
+  "processing": "官网SVG原字节复制。完整校标及校名组合，透明背景、官方白色；仅在Canvas中等比缩放，不裁切、不重绘、不改色。",
+  "usage": "用户明确授权用于本学生课程实践页面的预览及本机纪念笺导出，不代表学校官方发行；不据官网可下载推定独立公开转载或商用许可。",
+  "verification": "pending",
+  "publication": "draft",
+  "rights": "permission-required",
+  "accessedAt": "2026-11-18"
+}

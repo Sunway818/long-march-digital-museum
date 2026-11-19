@@ -1,0 +1,69 @@
+/* 仅新配置展陈生效，旧四渡与既有专题不继承此版式。 */
+.adaptive-exhibition{--adaptive-paper:#e8e1d4;--adaptive-muted:#b8aa97;background:#1b1917;color:#eee9df;font-family:var(--serif);font-size:18px;line-height:1.95}
+.history-archive-dialog .adaptive-exhibition h3{font:400 clamp(27px,2.6vw,42px)/1.5 var(--serif);letter-spacing:.035em;margin:0 0 28px;text-wrap:balance;color:inherit}
+.adaptive-exhibition p{margin:0 0 20px}
+.adaptive-exhibition .adaptive-opening{padding:44px var(--exhibit-edge) 56px;background:#201b18}
+.adaptive-register{display:flex;flex-wrap:wrap;gap:16px 28px;color:#c4ac7d;font:13px/1.8 'Source Han Sans SC',sans-serif;letter-spacing:.1em}
+.history-archive-dialog .adaptive-opening h2{font:400 clamp(48px,5.3vw,94px)/1.3 JourneyExhibitBrush,var(--serif);color:#eee9df;max-width:15em;margin:38px 0 20px;letter-spacing:.035em;text-wrap:balance}
+.adaptive-opening-meta{color:#c3b7a7;font-size:15px;line-height:2.1}
+.adaptive-opening .adaptive-opening-lead{max-width:43em;margin:28px 0 0;font-size:clamp(18px,1.5vw,23px);line-height:1.95;color:#e1d6c5}
+.adaptive-opening nav{display:flex;gap:36px;margin-top:32px;font-size:15px;color:#c4ac7d}
+.adaptive-opening nav a{text-decoration:none;border-bottom:1px solid #71614d;padding:8px 0}
+.adaptive-module{padding:54px var(--exhibit-edge)}
+.adaptive-module{scroll-margin-top:0}
+.adaptive-module:focus-visible{outline:2px solid #bca37c;outline-offset:-4px}
+.history-archive-dialog:has(.adaptive-exhibition) .archive-scroll{overscroll-behavior:contain}
+.adaptive-section-type{font:12px/1.6 'Source Han Sans SC',sans-serif;color:#bca37c;letter-spacing:.15em}
+.adaptive-section-type:empty{display:none}
+.adaptive-reading{max-width:42em;line-height:2.05;overflow-wrap:anywhere}
+.adaptive-module .adaptive-evidence{margin-top:24px}
+.adaptive-evidence{color:#b6a793;font:12px/1.8 'Source Han Sans SC',sans-serif}
+.adaptive-evidence small{font:inherit}
+.adaptive-evidence a{display:inline-block;min-width:28px;padding:6px;text-decoration:none}
+.adaptive-evidence>p{margin:8px 0 0;max-width:65em}
+.adaptive-decision{background:#512c28}
+.adaptive-decision .adaptive-reading{font-size:20px;max-width:40em}
+.adaptive-decision .adaptive-evidence,.adaptive-decision .adaptive-section-type{color:#dcc6a8}
+.adaptive-archive{background:var(--adaptive-paper);color:#2e2822}
+.adaptive-archive .adaptive-section-type,.adaptive-archive .adaptive-evidence{color:#665440}
+.adaptive-document{max-width:56em}
+.adaptive-document .adaptive-document-title{font-size:clamp(25px,2.5vw,38px);line-height:1.6;max-width:24em;color:#692e28}
+.adaptive-document>p:nth-child(2){font-size:14px;color:#685b4b;margin:16px 0 28px}
+.adaptive-route,.adaptive-battle{background:#ded8cb;color:#292720}
+.adaptive-route .adaptive-section-type,.adaptive-route .adaptive-evidence,.adaptive-battle .adaptive-evidence{color:#665440}
+.adaptive-route-figure{margin:32px 0 0;padding:0;max-width:1100px}
+.adaptive-map-key{display:flex;justify-content:space-between;font:13px/1.8 'Source Han Sans SC',sans-serif;color:#5f594e}
+.adaptive-route-figure svg{display:block;width:100%;max-height:360px;overflow:visible;margin:12px 0}
+.adaptive-route-figure svg text{font:20px var(--serif);fill:#292720;paint-order:stroke;stroke:#ded8cb;stroke-width:5px}
+.adaptive-route-figure svg .adaptive-map-subtitle{font:12px 'Source Han Sans SC',sans-serif;fill:#665c4c;stroke-width:3px}
+.adaptive-route-controls{display:flex;flex-wrap:wrap;gap:4px 22px;border-bottom:1px solid #b7afa0;padding:8px 0 18px}
+.adaptive-route-controls button{font-size:14px!important;color:#504537!important}
+.adaptive-route-controls button[aria-pressed=true]{box-shadow:inset 0 -2px #6c3028}
+.adaptive-route-controls button i{width:20px;height:3px;display:inline-block;margin-right:9px;vertical-align:middle}
+.adaptive-route-figure figcaption,.adaptive-route-note{max-width:64em;font:14px/1.9 'Source Han Sans SC',sans-serif;color:#645b4e;margin:18px 0 0}
+.adaptive-route-figure .adaptive-route-note{margin-top:12px}
+.adaptive-route-figure .adaptive-map-return{margin:18px 0 0;padding-left:0;color:#692e28}
+.adaptive-chronology{list-style:none;padding:0;margin:0;max-width:1000px}
+.adaptive-chronology li{display:grid;grid-template-columns:150px minmax(0,1fr);gap:32px;padding:25px 0;border-top:1px solid #574a3c}
+.adaptive-chronology time{color:#c4ac7d;font-size:21px}
+.adaptive-chronology h4{font-size:22px;font-weight:400;margin:0 0 10px}
+.adaptive-chronology li p{max-width:38em;margin:0;font-size:17px}
+.adaptive-chronology li .adaptive-evidence{margin-top:6px}
+.adaptive-image{background:#131312}
+.adaptive-images{margin:24px 0 0}
+.adaptive-image-single{max-width:850px;margin-left:auto;margin-right:auto}
+.adaptive-image-single .exhibit-image{display:grid;grid-template-columns:minmax(0,1fr) minmax(210px,.7fr);gap:38px;align-items:end}
+.adaptive-image-single .exhibit-image img{width:100%;height:auto;max-height:660px;object-fit:contain;filter:none}
+.adaptive-image-single .exhibit-image figcaption{padding:0!important;background:none!important}
+.adaptive-exhibition .exhibit-image figcaption{color:#beb3a3}
+.adaptive-image-group{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:32px}
+.adaptive-analysis{background:#30231e}
+.adaptive-people{max-width:900px;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:32px}
+.adaptive-people dt{font-size:24px}.adaptive-people dd{margin:8px 0}
+.adaptive-exhibition .exhibit-references{padding:48px var(--exhibit-edge);background:#161514}
+.adaptive-type-route .adaptive-route-figure,.adaptive-type-battle .adaptive-route-figure{max-width:none}
+.adaptive-type-archival .adaptive-document{margin-right:auto}
+.adaptive-type-immersive .adaptive-image-single{max-width:1200px}
+.adaptive-type-immersive .adaptive-image-single .exhibit-image{display:block}
+@media(max-width:1000px){.history-archive-dialog .adaptive-opening h2{font-size:clamp(40px,6vw,70px)}.adaptive-module{padding-top:40px;padding-bottom:40px}.adaptive-exhibition{font-size:17px}.adaptive-decision .adaptive-reading{font-size:18px}}
+@media(max-width:650px){.adaptive-exhibition .adaptive-opening{padding-top:24px}.adaptive-register{gap:8px 18px}.adaptive-opening nav{gap:24px}.adaptive-image-single .exhibit-image{display:block}.adaptive-image-single .exhibit-image figcaption{margin-top:24px}.adaptive-chronology li{grid-template-columns:1fr;gap:8px}.adaptive-route-figure svg text{font-size:23px}}

@@ -1,0 +1,99 @@
+/* Shared compact viewport contract. Desktop selectors are deliberately untouched. */
+:root{--safe-left:env(safe-area-inset-left,0px);--safe-right:env(safe-area-inset-right,0px);--safe-top:env(safe-area-inset-top,0px);--safe-bottom:env(safe-area-inset-bottom,0px)}
+.orientation-guide{position:fixed;inset:0;width:100%;max-width:none;height:100vh;height:100dvh;max-height:none;margin:0;padding:15vh 24px 24px;border:0;background:#241814;color:#f0dfbf;text-align:center;font:16px/1.9 var(--serif)}
+.orientation-guide::backdrop{background:#241814}.orientation-brand{font:64px/1.4 ZhiMang,serif}.orientation-guide h2{font:30px var(--serif);margin:20px 0}.rotate-device{display:block;font-size:64px;margin-top:30px;color:#b99a61}.orientation-guide button{min-height:44px;margin-top:30px;padding:8px 24px;color:#f4e8d2;border:1px solid #b99a61;background:#78342c}
+html[data-compact=true]{--compact-edge:clamp(16px,4vw,32px);--compact-top:calc(44px + var(--safe-top));--compact-timeline:calc(100px + var(--safe-bottom))}
+html[data-compact=true] .hero{min-height:320px;height:100vh;height:100dvh}
+html[data-compact=true] .navbar{padding:0 max(16px,var(--safe-right)) 0 max(16px,var(--safe-left));height:48px;align-items:center;gap:12px}
+html[data-compact=true] .brand-name{font-size:19px}html[data-compact=true] .brand-description,html[data-compact=true] .brand-rule{display:none}
+html[data-compact=true] .navbar nav{gap:12px;font-size:13px;flex-wrap:nowrap}html[data-compact=true] .navbar nav a{min-height:44px;display:flex;align-items:center}
+html[data-compact=true] .navbar-controls{flex:1;justify-content:flex-end;gap:12px}
+html[data-compact=true] .navbar nav{min-width:0;overflow-x:auto}
+html[data-compact=true] .navbar nav a{flex-shrink:0}
+html[data-compact=true] .home-fullscreen-button{min-width:88px;padding:8px;font-size:12px;gap:6px}
+html[data-compact=true] .hero-content{position:absolute;top:60px;left:55%;width:42%;max-width:none;margin:0;padding:0}
+html[data-compact=true] .navbar{flex-direction:row}
+html[data-compact=true] .hero h1{font-size:clamp(48px,8vw,76px);line-height:1.2}
+html[data-compact=true] .hero-english{font-size:10px;margin:0 0 6px;letter-spacing:.18em}
+html[data-compact=true] .hero-subtitle{margin-top:6px;gap:8px}html[data-compact=true] .hero-subtitle p{font-size:16px;line-height:1.5;letter-spacing:0}
+html[data-compact=true] .gold-rule{width:16px;margin-top:12px}html[data-compact=true] .hero-year{margin:8px 0;font-size:13px;gap:12px}
+html[data-compact=true] .journey-button{margin:8px 0 0;min-height:44px;padding:8px 16px;gap:24px;font-size:16px}
+html[data-compact=true] .hero-footer{left:max(16px,var(--safe-left));right:max(16px,var(--safe-right));bottom:max(4px,var(--safe-bottom));font-size:12px}
+html[data-compact=true] .hero-footer>p,html[data-compact=true] .scroll-indicator{display:none}
+html[data-compact=true] .hero-tools{margin-left:auto}html[data-compact=true] .hero-tools button{min-height:44px;font-size:12px;padding:8px}
+html[data-compact=true] .entrance{padding:28px var(--compact-edge);min-height:100dvh}
+html[data-compact=true] .entrance-body{padding:24px 0;gap:20px;grid-template-columns:1fr 1.5fr}html[data-compact=true] .entrance h2{font-size:34px}html[data-compact=true] .entrance-detail{font-size:16px}
+html[data-compact=true] .chapter-links button{min-height:44px}html[data-compact=true] .entrance-index{display:none}
+html[data-compact=true] .history-map-page{height:100vh;height:100dvh;min-height:0;--map-left:max(8px,var(--safe-left));--map-right:max(8px,var(--safe-right));--timeline-height:var(--compact-timeline)}
+html[data-compact=true] .history-map-page .map-topbar{height:44px;gap:8px}
+html[data-compact=true] .map-years{display:none}
+html[data-compact=true] .history-map-page .map-topbar .map-chapter-links{gap:4px;font-size:14px}
+@media(max-width:520px){html[data-compact=true] .history-map-page .map-topbar .map-chapter-links{gap:0;font-size:13px}}
+html[data-compact=true] .history-map-page .history-map-canvas{top:var(--compact-top);bottom:var(--compact-timeline);touch-action:none}
+html[data-compact=true] .history-map-page .map-sheet-heading,html[data-compact=true] .map-north,html[data-compact=true] .map-observation-mode{display:none}
+html[data-compact=true] .history-map-page .map-compact-tools{display:flex;top:44px;left:max(12px,var(--safe-left));gap:4px;z-index:42}
+html[data-compact=true] .map-compact-tools button{min-height:44px;border:1px solid #aa926c;background:#f0e7d6;padding:5px 8px;font-size:12px}
+html[data-compact=true] .history-map-page .map-view-toolbar{top:44px;left:auto;right:max(10px,var(--safe-right));z-index:13}
+html[data-compact=true] .map-mode-switch button{min-height:44px;padding:4px 6px;font-size:11px}
+html[data-compact=true] .history-map-page .map-controls,html[data-compact=true] .history-map-page .history-panel{display:none;top:88px;bottom:max(4px,var(--safe-bottom));width:min(310px,65vw);padding:8px 12px;z-index:41;overscroll-behavior:contain;touch-action:pan-y;background:#f0ece2}
+html[data-compact=true] .history-map-page[data-compact-panel=armies] .map-controls{display:block;left:max(10px,var(--safe-left))}
+html[data-compact=true] .history-map-page[data-compact-panel=history] .history-panel{display:block;right:max(10px,var(--safe-right))}
+html[data-compact=true] .history-panel .panel-heading{font-size:14px;padding-bottom:4px;min-height:30px}
+html[data-compact=true] .history-detail{display:grid;grid-template-columns:1fr 1fr;gap:2px 8px}
+html[data-compact=true] .history-detail>*{grid-column:1/-1;min-width:0}
+html[data-compact=true] .history-detail>.archive-id{display:none}
+html[data-compact=true] .history-detail h2{font-size:17px;line-height:1.4;margin:4px 0}
+html[data-compact=true] .history-detail>p:not(.archive-lead):not(.date-precision-note){margin:0;font-size:12px;line-height:1.5}
+html[data-compact=true] .event-army-tags{margin:0;font-size:11px}
+html[data-compact=true] .history-map-page .history-detail>.archive-open{margin:4px 0 6px;min-height:44px;padding:8px 12px}
+html[data-compact=true] .history-map-page .map-reset-camera{bottom:108px;left:110px;min-height:44px;padding:4px 8px}
+html[data-compact=true] .maplibregl-ctrl-compass{display:none}
+html[data-compact=true] .history-map-page .map-mode-switch button[aria-pressed=true]{color:#fff1d3;background:#66513a}
+html[data-compact=true] .map-accuracy-note{display:none}html[data-compact=true] .map-legend{font-size:13px}
+html[data-compact=true] .army-control label{min-height:44px}html[data-compact=true] .history-event-list button{min-height:44px}
+html[data-compact=true] .history-map-page .unified-timeline{height:var(--compact-timeline);padding:0 max(12px,var(--safe-left)) max(0px,var(--safe-bottom));bottom:0}
+html[data-compact=true] .history-map-page .timeline-controls{height:56px;display:flex;align-items:center;gap:10px}
+html[data-compact=true] .timeline-date{flex:none;height:auto}html[data-compact=true] .timeline-date time{font-size:18px!important}html[data-compact=true] .timeline-date>span{display:none}
+html[data-compact=true] .history-map-page .timeline-actions{display:flex;flex-wrap:nowrap;overflow-x:auto;min-width:0;height:54px;justify-content:flex-start;gap:8px;overscroll-behavior:contain}
+html[data-compact=true] .timeline-actions>div{flex:none}html[data-compact=true] .history-map-page .timeline-actions button,html[data-compact=true] .timeline-settings select{min-height:44px;padding:6px;font-size:12px}
+html[data-compact=true] .timeline-follow,html[data-compact=true] .history-map-page .follow-control{display:flex}
+html[data-compact=true] .follow-control{min-height:44px;white-space:nowrap}
+html[data-compact=true] .timeline-ruler{display:none}html[data-compact=true] .timeline-rail{margin:0}
+html[data-compact=true] .timeline-scrubber,html[data-compact=true] .timeline-scrubber input{height:40px;touch-action:pan-x}
+/* Expand only the invisible hit region; glyphs remain anchored to their original coordinates. */
+html[data-compact=true] .history-marker::after{content:'';position:absolute;inset:-9px;border:0;animation:none;background:transparent}
+html[data-compact=true] .history-marker[data-current=true]{outline:1px solid #a67c42;outline-offset:4px}
+html[data-compact=true] .maplibregl-ctrl-group button{width:44px;height:44px}
+html[data-compact=true] .history-archive-dialog{width:100%;max-width:100%;height:100vh;height:100dvh;max-height:100dvh;border:0;--exhibit-edge:max(20px,var(--safe-left))}
+html[data-compact=true] .history-archive-dialog .archive-toolbar{height:46px;min-height:46px;padding:0 max(12px,var(--safe-right));gap:8px}
+html[data-compact=true] .history-archive-dialog .archive-toolbar>span{font-size:12px;letter-spacing:0}
+html[data-compact=true] .history-archive-dialog button{min-height:44px}
+html[data-compact=true] .history-archive-dialog .archive-scroll{min-height:0;overscroll-behavior:contain;overflow-x:hidden}
+html[data-compact=true] .history-archive-dialog .archive-reading-grid{grid-template-columns:1fr}
+html[data-compact=true] .history-archive-dialog .adaptive-opening{padding:20px var(--exhibit-edge)}
+html[data-compact=true] .history-archive-dialog .adaptive-opening h2{font-size:42px;margin:14px 0;line-height:1.25}
+html[data-compact=true] .adaptive-register{gap:8px;font-size:12px}html[data-compact=true] .adaptive-opening .adaptive-opening-lead{font-size:17px;line-height:1.9;margin-top:14px}
+html[data-compact=true] .adaptive-module{padding:24px var(--exhibit-edge)}html[data-compact=true] .adaptive-reading,html[data-compact=true] .adaptive-decision .adaptive-reading{font-size:16px}
+html[data-compact=true] .adaptive-opening nav{margin-top:12px;gap:24px;flex-wrap:wrap}
+html[data-compact=true] .history-archive-dialog h3{font-size:25px}
+html[data-compact=true] .exhibit-opening-copy{padding:20px;width:55%}
+html[data-compact=true] .exhibit-opening-copy h2{white-space:normal!important}
+html[data-compact=true] .exhibit-opening-line{font-size:20px}
+html[data-compact=true] .exhibit-opening-context{display:block}
+html[data-compact=true] .exhibit-opening-context .exhibit-opening-copy,html[data-compact=true] .event-opening-context{width:100%;padding:20px}
+html[data-compact=true] .event-exhibit-gallery{gap:20px;padding:24px 20px}
+html[data-compact=true] .campaign-layout{display:block}
+html[data-compact=true] .exhibit-opening{min-height:0!important;padding-block:24px!important}
+html[data-compact=true] .exhibit-opening h2{font-size:44px!important}
+html[data-compact=true] .exhibit-navigation{gap:12px;padding:20px}
+html[data-compact=true] .exhibit-navigation button{min-width:0;font-size:16px}
+html[data-compact=true] .history-image-dialog{width:100%;max-width:100%;max-height:100dvh}
+html[data-compact=true] .source-dialog{max-height:90dvh;width:min(90vw,600px);overflow:auto}
+html[data-compact=true] .history-archive-dialog{padding:var(--safe-top) 0 var(--safe-bottom)}
+html[data-compact=true] .navbar{top:var(--safe-top)}
+html[data-compact=true] .hero-content{top:calc(60px + var(--safe-top))}
+html[data-compact=true] .history-map-page .map-topbar{top:var(--safe-top)}
+html[data-compact=true] .history-map-page .map-compact-tools,html[data-compact=true] .history-map-page .map-view-toolbar{top:var(--compact-top)}
+html[data-compact=true] .history-map-page .map-controls,html[data-compact=true] .history-map-page .history-panel{top:calc(var(--compact-top) + 44px)}
+html[data-compact=true] .history-map-page .map-reset-camera{bottom:calc(var(--compact-timeline) + 8px)}
+@media(max-width:600px) and (orientation:portrait){html[data-compact=true] .hero-content{left:8%;width:84%;top:25%}html[data-compact=true] .hero-shade{background:#100d0d80}html[data-compact=true] .navbar nav{gap:8px;font-size:12px}html[data-compact=true] .brand-name{font-size:16px}html[data-compact=true] .entrance-body{grid-template-columns:1fr}html[data-compact=true] .map-view-toolbar{top:88px!important}html[data-compact=true] .history-map-page .history-map-canvas{top:44px}html[data-compact=true] .history-panel{width:85vw!important}}

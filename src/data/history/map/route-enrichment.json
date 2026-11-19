@@ -1,0 +1,122 @@
+{
+  "locations": [
+    {
+      "placeId": "PLC-0013",
+      "geonamesId": "1805849",
+      "referenceName": "界首聚落",
+      "longitude": 110.75778,
+      "latitude": 25.72417,
+      "featureCode": "PPL",
+      "scopeNote": "仅为界首地域，非湘江战役实际渡口或战线。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    },
+    {
+      "placeId": "PLC-0022",
+      "geonamesId": "1792435",
+      "referenceName": "习水土城镇",
+      "longitude": 105.99389,
+      "latitude": 28.2925,
+      "featureCode": "PPLA4",
+      "scopeNote": "一渡发生于土城、元厚等多处；用土城地域代表，不合并各纵队渡口。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    },
+    {
+      "placeId": "PLC-0028",
+      "geonamesId": "6912719",
+      "referenceName": "古蔺二郎聚落",
+      "longitude": 106.15843,
+      "latitude": 28.12602,
+      "featureCode": "PPL",
+      "scopeNote": "二渡涉及太平渡、二郎滩等地；用二郎地域代表，非渡口确址。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    },
+    {
+      "placeId": "PLC-0029",
+      "geonamesId": "1802219",
+      "referenceName": "娄山关山口地域",
+      "longitude": 106.85,
+      "latitude": 28.03333,
+      "featureCode": "PASS",
+      "scopeNote": "仅代表娄山关方向，不把桐梓、娄山关、遵义战斗合为一个确址。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    },
+    {
+      "placeId": "PLC-0033",
+      "geonamesId": "1801143",
+      "referenceName": "茅台聚落",
+      "longitude": 106.37753,
+      "latitude": 27.85243,
+      "featureCode": "PPL",
+      "scopeNote": "三渡在茅台及附近多处，非某座纪念碑或实际渡船位置。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    },
+    {
+      "placeId": "PLC-0034",
+      "geonamesId": "6912719",
+      "referenceName": "古蔺二郎聚落",
+      "longitude": 106.15843,
+      "latitude": 28.12602,
+      "featureCode": "PPL",
+      "scopeNote": "四渡再次经过二郎滩、太平渡地域，与二渡保留不同事件和时间。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    },
+    {
+      "placeId": "PLC-0036",
+      "geonamesId": "1809461",
+      "referenceName": "贵阳市域",
+      "longitude": 106.71667,
+      "latitude": 26.58333,
+      "featureCode": "PPLA",
+      "scopeNote": "表示佯攻方向，不表示红军占领或进入贵阳市区。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    },
+    {
+      "placeId": "PLC-0042",
+      "geonamesId": "1806028",
+      "referenceName": "Jiaopingdu聚落",
+      "longitude": 102.42422,
+      "latitude": 26.29554,
+      "featureCode": "PPL",
+      "scopeNote": "金沙江皎平渡地域参考，渡口、河岸与今聚落不可视为同一点。",
+      "coordinateSystem": "WGS84",
+      "sourceId": "SRC-0079"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SRC-0080",
+      "title": "中国共产党大事记·1935年",
+      "institution": "中国共产党新闻网／中共中央党史研究室",
+      "url": "https://cpc.people.com.cn/GB/64162/64164/4415983.html",
+      "author": "中共中央党史研究室编",
+      "date_text": "原页未注明发布日期",
+      "status": "四次渡河与重占遵义的日期、次序已对照；不作为精确坐标证据，待负责人审核"
+    },
+    {
+      "id": "SRC-0081",
+      "title": "DataV GeoAtlas全国地理轮廓",
+      "institution": "阿里云DataV GeoAtlas",
+      "url": "https://geo.datav.aliyun.com/areas_v3/bound/100000.json",
+      "author": "DataV GeoAtlas",
+      "date_text": "2026-11-11获取",
+      "status": "仅供独立全国参照小图；按DataV坐标系处理，不叠加到WGS84行军主图，非历史行政界线"
+    }
+  ],
+  "eventAnchors": [
+    {
+      "eventId": "EVT-029",
+      "date": "1935-02-28",
+      "sourceIds": [
+        "SRC-0080"
+      ],
+      "note": "原事件仍为2月下旬。按大事记2月28日重占遵义，作为本战役阶段的收束显示锚点；不表示娄山关战斗恰在当日发生。"
+    }
+  ]
+}

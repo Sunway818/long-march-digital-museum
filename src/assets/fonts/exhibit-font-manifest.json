@@ -1,0 +1,13 @@
+{
+  "sourceFamily": "Zhi Mang Xing",
+  "subsetFamily": "JourneyExhibitBrush",
+  "source": "docs/design-review/fonts/ZhiMangXing-Regular.ttf",
+  "sourceSha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+  "file": "exhibit-title.woff2",
+  "characters": "一二三四渡赤水湘江战役通道转兵黎平会议遵义巧金沙强大飞夺泸定桥翻越夹山右路军穿草地懋功会宁将台堡师毛儿盖与出发芦花及组织安排窝",
+  "bytes": 19112,
+  "sha256": "3e391bdc84200ae89411d4cdc24819e5665a9d4cae7202f57e3710baba365fe0",
+  "license": "title-OFL.txt",
+  "fontToolsVersion": "4.68.0",
+  "brotliVersion": "Node built-in zlib"
+}

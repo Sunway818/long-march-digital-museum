@@ -7,7 +7,7 @@
 | Skill | 官方仓库 | 项目安装位置 | 版本/提交 | 安装与验证 |
 | --- | --- | --- | --- | --- |
 | frontend-design | https://github.com/anthropics/skills | .agents/skills/frontend-design | ca45fc496a3436251f191354091d557da31c15b5 | 文件检查通过；Codex repo/enabled=true |
-| ui-ux-pro-max | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | .agents/skills/ui-ux-pro-max | npm ui-ux-pro-max-cli 2.15.0 | 文件/目录检查通过；Codex repo/enabled=true；Python 搜索脚本未运行 |
+| ui-ux-pro-max | https://github.com/nextlevelbuilder/ui-ux-pro-max-skill | .agents/skills/ui-ux-pro-max | npm ui-ux-pro-max-cli 2.15.0 | 文件/目录检查通过；Codex repo/enabled=true；2026-11-07 Python 3.15.2 搜索验证通过（需沙箱外执行；配色匹配有限） |
 | cinematic-scroll-storytelling | https://github.com/MengTo/Skills | .agents/skills/cinematic-scroll-storytelling | 5ea1661a0e05d82b054553daaa6baf6d0233c33c | 文件/引用检查通过；Codex repo/enabled=true |
 | web-design-guidelines | https://github.com/vercel-labs/agent-skills | .agents/skills/web-design-guidelines | 1.0.0；1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62 | 文件检查通过；Codex repo/enabled=true |
 
@@ -47,9 +47,54 @@ npx --yes --ignore-scripts ui-ux-pro-max-cli@2.15.0 init --ai codex
 - 沙箱内 GitHub `Could not resolve host`、npm `ENOTFOUND registry.npmjs.org`；联网执行后 npm ping 成功、GitHub 提交查询成功。
 - MengTo 完整克隆耗时，改用官方 Git 稀疏克隆仅取所需文件夹；不从非官方镜像替换内容。
 - 沙箱写入 .agents 被拒绝，授权执行后复制成功，没有覆盖原有文件。
-- 内置 skill-installer 为 Python 脚本；本机 python.exe 是无法启动的 WindowsApps 别名，py 未找到，故采用已审查的官方 skills CLI 完成复制。
-- UI/UX 搜索脚本依赖 Python 3 标准库；当前没有可用解释器，未完成运行冒烟测试，不能声称该能力已通过。Skill 文本和静态数据仍可读取。后续由用户提供可用 Python 或选择不使用搜索；当前不擅自安装系统软件。
+- 2026-11-06 安装时，内置 skill-installer 为 Python 脚本，而当时 python.exe 无法启动、py 未找到，故采用已审查的官方 skills CLI 完成复制。
+- 2026-11-06 未运行 Python 搜索；2026-11-07 复核已在授权沙箱外环境通过，沙箱内 WindowsApps 入口仍不可运行，详见下节。未安装 pip 包或系统软件。skills-provenance.json 中 runtimeStatus 保留安装当日快照，当前运行状态以本节复核为准。
 - web-design-guidelines 审查时需重新读取其指定的官方在线规则；本次没有正式页面可审查，未声称通过网页质量验收。
+
+## Python 环境与搜索复核（2026-11-07）
+
+### 解释器与安装位置
+
+- 从项目根目录调用 `python --version`，授权沙箱外环境返回 **Python 3.15.2**；实际 `sys.version_info.major == 3`，64 位 AMD64。
+- `Get-Command python` 和 `where.exe python` 指向 `C:\Users\czx\AppData\Local\Microsoft\WindowsApps\python.exe`；实际 `sys.executable` 为 `C:\Users\czx\AppData\Local\Python\pythoncore-3.15-64\python.exe`。
+- 沙箱内相同命令仍报 WindowsApps 程序无法访问；这不代表本机未安装 Python。本次 AST 审查和搜索均经授权在沙箱外执行，没有改动 PATH、别名、解释器或系统设置。
+- Skill 实际目录：`E:\长征2\.agents\skills\ui-ux-pro-max`；已读取 `SKILL.md`、`scripts/search.py` 以及相关本地模块。
+
+### 来源、依赖与源码审查
+
+来源仍为上述官方 npm `ui-ux-pro-max-cli@2.15.0`。运行准备检查通过，全部 78 个已安装 Skill 文件与安装审计清单一致；本次未修改、删除或替换任何 Skill 文件。
+
+审查了 scripts 顶层的 search.py、core.py、design_system.py、reasoning_contract.py、validate_data.py 五个文件，使用源码阅读与 Python 标准库 AST 解析检查导入和敏感调用；AST 阶段只读取源码，不导入或执行 Skill。
+
+- 搜索导入链：`search.py → core.py / design_system.py → reasoning_contract.py`。
+- 第三方 Python 包依赖：**0**。外部依赖均属于标准库，如 argparse、csv、json、sys、io、os、re、difflib、pathlib、math、collections、datetime、tempfile；其他导入为同目录模块。validate_data.py 另用 hashlib、statistics、urllib.parse，后者仅解析 URL，不执行网络请求。
+- 普通搜索用 `open(..., 'r', encoding='utf-8')` 读取本地 data/*.csv，建立内存索引后输出结果；未发现该执行链中的联网请求、shell/subprocess 调用或内置 eval/exec 动态执行。`re.compile` 是正则编译，不是动态执行 Python 源码。
+- `design_system.py` 包含正常的可选持久化功能：创建目录、写临时文件、硬链接发布或显式 force 覆盖、清理临时文件（os.link/replace/unlink）。这些功能不是搜索必需，仅在启用设计系统持久化时触发，不能误报“整份源码没有文件写入”。本次没有使用 `--design-system`、`--persist` 或 `--force`。
+- 本次所有搜索增加 `-B`，禁止生成 __pycache__/字节码；不执行 CSV 中返回的代码示例。scripts/tests 不属于本次搜索运行链，没有运行其测试套件。本结论限定于本次版本、审查范围和命令，不是对任意未来版本的安全保证。
+
+search.py 的 SHA-256 为 `8373e2dd2d560d9853ec116140de0e0d5bee45a6abe5e041173c84e1c36a7f87`，与来源审计记录一致。
+
+### 实际执行与结果
+
+全部命令从 `E:\长征2` 执行。基础命令如下，退出码 0、返回 1 项 `Parallax Storytelling`：
+
+```powershell
+python -B .agents/skills/ui-ux-pro-max/scripts/search.py "cinematic historical museum website" --domain style
+```
+
+项目测试使用相同脚本与 `-B`，追加下列查询及参数和 `--json`。没有仅凭退出码判断检索是否命中，同时检查 count、结果类别与场景匹配。
+
+| 项目主题 | 初次查询与模式 | 初次结果 | 一次重试 | 结论 |
+| --- | --- | --- | --- | --- |
+| 历史数字展馆视觉风格 | `"historical museum immersive" --domain style` | 0 项，无脚本错误 | `"parallax storytelling" --domain style` → 1 项 Parallax Storytelling | 检索可用；命中通用沉浸叙事模式，不是历史展馆专用视觉方案 |
+| 深红与暗金配色 | `"deep red antique gold" --domain color` | 3 项，首项 Brewery/Winery | `"burgundy gold" --domain color` → 3 项，首项仍为 Brewery/Winery | 检索可用，只有色调层面部分匹配；没有得到可直接采用的历史展馆完整配色 |
+| 电影级滚动叙事 | `"cinematic scroll storytelling" --domain gsap` | 3 项：Scroll Reveal 与 Parallax Scroll | 无需重试 | 场景相关；含滚动驱动、减少动态效果和移动性能提示 |
+| React 前端设计规范 | `"component accessibility responsive" --stack react` | 0 项，无脚本错误 | `"effect cleanup" --stack react` → 3 项：Effect 清理、依赖与相关 Hook 规则 | 聚焦生命周期后的检索通过；不代表已覆盖全部响应式和无障碍规范 |
+| GSAP 动画设计 | `"scroll reveal reduced motion" --domain gsap` | 3 项 Scroll Reveal：Subtle/Standard/Complex | 无需重试 | 场景相关；含 React 清理和减少动态效果提示 |
+
+共执行 **9 次搜索进程**（基础 1 次、项目初查 5 次、聚焦重试 3 次），退出码全部为 0；两次初查为空、配色仍部分匹配均已保留。查询使用英文关键词以匹配本地英文数据集，本次没有验证中文自然语言检索能力。
+
+结论：Python 3.x 和 UI UX Pro Max 基础/项目检索运行能力已验证，可用于后续辅助设计；每次结果仍需结合本项目判断。未将结果写入设计系统或正式页面，未修改已确认/待确认的视觉令牌，未执行返回的 React/GSAP 代码，也未安装业务依赖。React/GSAP 返回条目的技术时效和实际实现效果留待开发时核验。
 
 ## 调用与本项目场景
 

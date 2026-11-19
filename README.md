@@ -2,7 +2,7 @@
 
 纪念中国工农红军长征胜利九十周年沉浸式数字展馆，大学课程实践项目。
 
-当前阶段：Day 3 首页已实现。采用 React + Vite + TypeScript + Tailwind CSS + GSAP；只有首页、影像说明与明确标记的展馆入口占位，其他正式模块尚未开发。计划周期为 14 天，日历基线见开发计划。
+课堂交付版包含首页、时空长征、英雄人物和精神传承。以 [评审入口与验收清单](docs/FINAL_ACCEPTANCE.md)、[课程实践报告](docs/COURSE_PRACTICE_REPORT.md) 为准；阶段记录用于追溯。地图使用 MapLibre GL JS 的 WebGL 渲染与本地 GeoJSON，时间轴自1934年10月10日中央红军开始战略转移起算。较早的先遣行动仍在资料和总览中保留。
 
 ## 本地运行
 
@@ -24,7 +24,9 @@ npm run test:browser
 
 测试配置使用本机 Windows Chrome 与 Edge 的标准安装路径，覆盖 1920×1080、1366×768；没有安装浏览器时先安装所需浏览器或按实际路径调整测试配置。Playwright 测试自动启动 4173 生产预览；测试前须先 build。截图可执行 `node scripts/capture-homepage.mjs final`（需已运行 dev，或设置 PREVIEW_URL 指向 preview）。本地 QA 产物 output/playwright 和 test-results 不提交。
 
-首页导航仅首页、时空长征、英雄人物、精神传承；后三项/开启征程定位到“展馆入口”并说明待开放。历史时间轴和历史瞬间规划整合到地图，旧锚点归并地图入口。无片头跳过按钮；影像说明支持 Escape 与焦点恢复，环境动效可暂停，减少动态效果时静态展示。详见 [Day 3 验证](docs/DAY3_VALIDATION.md)及[精修记录](docs/HOMEPAGE_REFINEMENT.md)。
+首页导航为首页、时空长征、英雄人物、精神传承。地图入口 `/#map`，遵义会议档案 `/#map?archive=EVT-001`，英雄人物 `/#people`，精神传承 `/#legacy`，答卷 `/#legacy/answer`。默认访客界面不显示内部整理状态。影像出处、素材性质与公开使用边界见 [影像与来源清单](docs/FINAL_MEDIA_REGISTER.md)。
+
+地图默认聚焦长征沿线，放大后逐层显示节点与地名；1936年接应路线可单独开关。现代省域、区域方向和时间裁切用于阅读参照，不等于历史行政边界、精确道路或逐日部队位置。[路线勘误](docs/MAP_ROUTE_CORRECTIONS.md)保留分路、番号和会师归属依据；[地理复核](docs/MAP_ROUTE_AUDIT_20261112.md)与[地图开发说明](docs/MAP_DEVELOPMENT.md)用于追溯数据和设计过程。
 
 本地地址依赖 Vite 进程持续运行，保留终端；Ctrl+C、退出相关进程或重启电脑后，重新在项目目录执行 `npm run dev`。标签页本身不提供服务，不需要因此重新安装依赖。
 
@@ -41,11 +43,19 @@ npm run test:browser
 
 后续开发先阅读根目录 [AGENTS.md](AGENTS.md)。正式内容只使用有依据且已审核的资料；示意路线必须标注精度和局限。
 
+2026-11-16起，桌面与手机横屏均属正式交付目标；手机竖屏可选择继续浏览。统一规则、截图与真机待办见[双端适配记录](docs/MOBILE_LANDSCAPE.md)。生产构建后使用 `npm run preview -- --host 0.0.0.0` 进行课堂同网预览，访问终端输出的WiFi地址。按用户最终要求，电脑与手机统一显示已接入正文和图片；91张登记图片通过同源history-media路径进入dist，详见[内容一致性修复](docs/CONTENT_PARITY_FIX_20261116.md)。
+
 ## 项目文档与资源检查
+
+英雄人物纪念馆已接入首页和地图导航：`#people`为16人四列肖像墙，`#people/chen-yun`等为可独立刷新的人物档案。原八幅影像的采用记录见[第一轮记录](docs/PEOPLE_MEMORIAL.md)；新增八人、七幅原图、全部档案扩充、肖像连续转场与双端验证见[第二轮记录](docs/PEOPLE_MEMORIAL_ROUND2.md)。正文仍为草稿，原L-02缺件及年代、许可待核问题保留。
 
 ```powershell
 node scripts/verify-setup.mjs
 git status --short --branch
 ```
 
-当前验证结果、版本与限制见 DAY3_VALIDATION。资源来源、许可与字体复现见 [资源说明](src/assets/README.md)。下一阶段再核验底图与路线数据，不将首页完成描述为全站完成；未经明确授权不部署或推送。
+各阶段验证结果与限制见对应文档，不以首页证据代替地图或全站验收。资源来源、许可与字体复现见 [资源说明](src/assets/README.md)。地图数据仍为draft，未经明确授权不部署或推送。
+
+## 2026-11-17 精神传承正式接入
+
+第四章六场景及本机青春纪念笺已实现。接入阶段见[精神传承记录](docs/LEGACY_CHAPTER.md)，现版入口、素材与验证以顶部评审材料为准。

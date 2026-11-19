@@ -1,6 +1,14 @@
 # 技术架构建议
 
-版本：0.2；状态：2026-11-07 Day 3 首页已实现并运行；后续地图与历史模块仍为规划。
+2026-11-18第四章局部扩展：`KeepsakePreview`仅随输入与字体就绪重绘，与PNG导出共用`paintKeepsake`，正文、历史来源、媒体登记仍分离。`YouthAnswer`局部状态管理草稿与已确认快照，修订使旧异步结果失效；无新依赖、远程图像合成、后台服务或历史时钟。新沙洲图原字节登记入public/dist，原地图与人物数据不变。见[最终精修](LEGACY_FINAL_POLISH.md)。
+
+2026-11-15地图层级：routePresentation纯计算从原有连续前缀按权重边界拆显示笔画；不修改顶点、日期和来源。MapCanvas对焦点最后绘制，箭头同步权重；新增接应时期标签/说明及实际绘制诊断。reducer仅扩展routeFocus标记，唯一日期/时钟及地图实例保持；无新依赖。见[地图精修](MAP_REFINEMENT_20261115.md)。
+
+2026-11-14展陈兼容扩展：`exhibitions/`独立JSON底稿/来源/图像尺寸，`exhibitionDefinitions`组织分类叙事，`campaignContent`关联稳定事件与原路线段；阅读外壳、影像、来源和大图查看器共用。专题局部sceneId驱动SVG地域方向图，不引入第二历史日期或额外MapLibre实例。背景仍由原reducer、时间轴和地图管理。见[深化记录](HISTORY_EXHIBITION_DEEPENING.md)。
+
+2026-11-12最新：默认改为长征沿线局部视野，首屏9组关键节点、0个常驻地名，放大后分级展开；1936接应线独立开关。运行时157项事件、81项地域定位、75处未定位、38项精选，81段方向组成17条笔画。七项路线复核、来源限制与最终验证见[沿线视野与七项路线复核](MAP_ROUTE_AUDIT_20261112.md)。下文全国全图/六标签及旧计数保留为阶段沿革，以本条为准。
+
+版本：0.5；2026-11-11更新：MapLibre GL JS 6.17.0平面档案图、窄栏和一条总时间轴保持，无DEM/hillshade。route-enrichment.json独立补充8项地域参考、来源与显示锚点，data.ts合并视图，原七份JSON不改。routeDisplay.ts通过visit ID保留重复经过，按单一currentDay裁剪连续笔画的线长；同一历史RAF最多20Hz发布小数日进度，React不逐显示帧高频更新。MapPaper只管静态做旧和独立全国参照图，DataV几何不进入WGS84路线源。最新实现、数据边界与实测见 [MAP_CHISHUI_ENRICHMENT.md](MAP_CHISHUI_ENRICHMENT.md)。下文Day 3、SVG与未安装地图依赖等仅为早期规划，不作为当前实现。
 
 ## 技术选择与边界
 
@@ -77,3 +85,19 @@ tests/                 核心逻辑单测和联动端到端测试
 - [Lenis 官方仓库](https://github.com/darkroomengineering/lenis)
 
 上述来源于 2026-11-06 查阅；具体安装版本和第三方许可在工程初始化时再次确认。SVG 方案先满足课程展示，不在本阶段扩大为在线 GIS、三维地球或服务端地图系统。
+
+> 2026-11-16 实施补记：在现有MapLibre地图和展厅容器中增加 `adaptiveExhibitionModel` + `adaptiveExhibitions` + `AdaptiveExhibition`。人工指定六类type，自由组合有证据的模块，过滤空资源与未满足发布门槛的内容；仅EVT-058接入。局部SVG只投影既有两条方向线，不新增地图实例、全局日期、路由或依赖。详见[试点结构与测试](ADAPTIVE_EXHIBITION_PILOT.md)。上述早期方案不代表当前全部实现状态。
+
+> 2026-11-16 冲刺补记：经新任务授权，meetingExhibitions新增EVT-056/057配置，module可选navLabel；EVT-058及其渲染样式保持。cameraFollow纯选择器按followArmyId过滤displayDirections，复用buildRouteChains后读取端点；MapCanvas只easeTo中心，未增加日期状态、播放时钟或地理数据。详见[三项交付记录](DELIVERY_SPRINT_20261116.md)。
+# 2026-11-16 人物馆增量
+
+用户已明确授权新增英雄人物纪念馆。`App`继续保留首页及地图实例，懒加载`PeopleMemorial`；`#people`/`#people/:id`为肖像墙/独立档案，`#map?event=EVT-…`复用原事件select契约，不新增时间状态或改动路线。纯人物/来源/影像登记位于`src/data/history/people`，组件位于`src/features/people`。无新运行时依赖；实现与真实验证见[人物馆记录](PEOPLE_MEMORIAL.md)。
+
+
+## 2026-11-17 精神传承实现
+
+App新增LegacyPage惰性分包，与现有地图/人物页保持挂载；六场景使用原生独立滚动及hash深链接，不新增Router或全局时间。YouthAnswer为有限范围React状态，Canvas绘制本地文字和原创线路并导出Blob，不使用远程图片或第三方服务。Blob URL及可视高度监听有生命周期清理；复用FullscreenButton和OrientationGuide，没有第二套设备识别、动画时钟或历史日期。字体/静态影像随dist发布，完整原始研究目录不公开。见[第四章交付](LEGACY_CHAPTER.md)。
+
+## 2026-11-18 轻量动效层
+
+`animations/motion.ts`管理有限WAAPI动画及全局visibility/reduce状态，`motion.css`给出共用令牌；不新增常驻RAF。首页保留原GSAP/单一环境时间/WebGL2；人物馆复用原FLIP，精神传承新增局部GSAP context及原生IO/单帧滚动更新；地图仍只有原历史RAF、原几何裁切和同一个MapLibre实例。App保留访问后的章节挂载，加入不截获交互的遮幕和ChapterBoundary；本地分包可预取、失败有返回入口。数据、照片、字体与独立Canvas最终绘制保持。见[生命周期及文件](MOTION_UNIFICATION.md)。

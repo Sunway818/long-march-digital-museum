@@ -1,0 +1,2031 @@
+[
+  {
+    "id": "AST-0001",
+    "title": "遵义会议时毛泽东住处外景",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "历史照片（待细核）",
+    "date_text": "拍摄时间未确认",
+    "caption": "此前来源页面候选；需核对照片具体拍摄年代",
+    "source_ids": [
+      "SRC-0001"
+    ],
+    "source_url": "https://www.xinhuanet.com/mil/2016-08/19/c_129242789_2.htm",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0001",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "待复核\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0002",
+    "title": "红军总参谋部在遵义时的作战室",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "历史照片（待细核）",
+    "date_text": "拍摄时间未确认",
+    "caption": "此前来源页面候选；需核对照片具体拍摄年代",
+    "source_ids": [
+      "SRC-0001"
+    ],
+    "source_url": "https://www.xinhuanet.com/mil/2016-08/19/c_129242789_3.htm",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0002",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "待复核\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0003",
+    "title": "《遵义会议决议》封面及内页（部分）",
+    "event_ids": [
+      "EVT-001",
+      "EVT-002"
+    ],
+    "type": "档案影像/文件页",
+    "date_text": "原件为1935年文献；本图拍摄时间未注明",
+    "caption": "展示1935年《决议》封面及部分内页的组合图；不是全文",
+    "source_ids": [
+      "SRC-0002"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0123/MAIN1769135237519JK45RSQB9X.JPEG",
+    "rights": "待确认",
+    "user_decision": "已选定",
+    "local_preview_url": "/__research-media/AST-0003",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图文信息已核对；版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0004",
+    "title": "遵义会议参加人员肖像展陈墙（集体展示照片）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "当代展陈照片/人物肖像参考",
+    "date_text": "2016年新华网报道所展示；非1935年原始照片",
+    "caption": "新华网文章配图，图注为“参加会议人员照片”；画面为纪念馆内参会人员肖像展陈墙。",
+    "source_ids": [
+      "SRC-0004"
+    ],
+    "source_url": "https://www.xinhuanet.com/politics/2016-07/04/1049174318743398889_11n.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0004",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图片及图注已核对；并非1935年原始合影\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0005",
+    "title": "陈云20世纪30年代肖像候选（C-01）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "人物历史肖像候选",
+    "date_text": "文章图注称20世纪30年代；原始拍摄信息待核",
+    "caption": "此前候选为20世纪30年代陈云肖像；本轮用户决定淘汰。",
+    "source_ids": [
+      "SRC-0005"
+    ],
+    "source_url": "https://dangshi.people.com.cn/n1/2019/0111/c85037-30516385.html",
+    "rights": "待确认",
+    "user_decision": "淘汰",
+    "local_preview_url": null,
+    "saved": true,
+    "rejected": true,
+    "publication_status": "draft",
+    "verification_status": "候选来源已登记；直接原图、原始图注及拍摄年代待核\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0006",
+    "title": "陈云青年时期肖像候选（C-02）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "人物历史肖像候选",
+    "date_text": "青年时期；具体拍摄年份待核",
+    "caption": "此前展示为陈云青年时期肖像候选；用户决定采用。需回到来源页确认对应图片、原始图注和可用图像文件。",
+    "source_ids": [
+      "SRC-0006"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/GB/427277/460592/index.html",
+    "rights": "待确认",
+    "user_decision": "采用",
+    "local_preview_url": "/__research-media/AST-0006",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "候选来源已登记；直接原图、原始图注及拍摄年代待核\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0007",
+    "title": "刘伯承青年时期肖像候选（L-01）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "人物历史肖像候选",
+    "date_text": "青年时期；具体拍摄年份待核",
+    "caption": "此前候选为刘伯承青年时期单人肖像；本轮用户决定淘汰。",
+    "source_ids": [
+      "SRC-0007"
+    ],
+    "source_url": "https://cpc.people.com.cn/GB/64162/126778/126780/7490151.html",
+    "rights": "待确认",
+    "user_decision": "淘汰",
+    "local_preview_url": null,
+    "saved": false,
+    "rejected": true,
+    "publication_status": "draft",
+    "verification_status": "候选来源已登记；直接原图、原始图注及拍摄年代待核\nv8本地保存：未保存，E类。原人物资料页仅有身着元帅礼服的肖像，图注未注明青年时期；与登记“青年时期肖像”不符或无法证明为原候选，归E类，不将其替代保存为正式候选。诊断图保留在logs，仅用于解释失败。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0008",
+    "title": "刘伯承红军时期肖像/照片候选（L-02）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "历史报刊中的人物照片候选",
+    "date_text": "版面包含不同历史时期照片；具体选用照片的拍摄年份待逐张核实",
+    "caption": "此前候选为刘伯承红军时期照片线索；用户决定采用。需从数字报版面确认具体图片及图注，不能将版面发布日期误作照片拍摄日期。",
+    "source_ids": [
+      "SRC-0008"
+    ],
+    "source_url": "https://cn.govopendata.com/renminribao/1986/10/16/4/",
+    "rights": "待确认",
+    "user_decision": "采用",
+    "local_preview_url": null,
+    "saved": false,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "候选来源已登记；直接原图、原始图注及拍摄年代待核\nv8本地保存：未保存，E类。原历史报刊页面只提供“深切悼念刘伯承同志（图片）”等文字及图注，页面无对应图像文件或原报扫描链接；无法确认用户所选红军时期具体图像，归E类。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0009",
+    "title": "王稼祥与朱仲丽1941年合影（W-02）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "人物历史合影",
+    "date_text": "1941年（据此前页面说明；原图图注需再次核验）",
+    "caption": "王稼祥与朱仲丽合影；用户决定采用。属于双人合影，不得未经确认裁切后冒充原始单人肖像。",
+    "source_ids": [
+      "SRC-0009"
+    ],
+    "source_url": "https://dangshi.people.com.cn/n/2014/0213/c85037-24345288.html",
+    "rights": "待确认",
+    "user_decision": "采用",
+    "local_preview_url": "/__research-media/AST-0009",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "候选来源已登记；直接原图、原始图注及拍摄年代待核\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0010",
+    "title": "秦邦宪（博古）单人肖像候选（B-01）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "人物历史肖像候选",
+    "date_text": "文章涉及1934—1946年照片；该张具体拍摄年份待核",
+    "caption": "此前候选为秦邦宪（博古）单人肖像；用户决定采用。文章为照片考证线索，需继续追查照片原始来源及图注。",
+    "source_ids": [
+      "SRC-0010"
+    ],
+    "source_url": "https://www.hswh.org.cn/wzzx/llyd/ls/2025-06-24/94633.html",
+    "rights": "待确认",
+    "user_decision": "采用",
+    "local_preview_url": "/__research-media/AST-0010",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "候选来源已登记；直接原图、原始图注及拍摄年代待核\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0011",
+    "title": "《（乙）遵义政治局扩大会议》手稿影像（现存8页）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "原始档案影像/手稿",
+    "date_text": "形成时间存在争议：传统考证为1935年2—3月；另有1935年10月说",
+    "caption": "中共中央党史和文献研究院2025年文章展示的手稿影像；原档案从第21页至第28页，共8页，标题原有“（乙）”字。",
+    "source_ids": [
+      "SRC-0011",
+      "SRC-0012"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/mediafile/pic/20250613/91/3199063099239939411.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0011",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "手稿影像已找到；作者认定、用途及形成时间存在学术争议\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0012",
+    "title": "遵义会议开会时使用的木桌（原物）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "革命文物照片（原物）",
+    "date_text": "1935年会议期间使用；照片于2025年公开",
+    "caption": "会议使用的长方形木桌，长200厘米、宽100厘米、高80厘米；1955年由遵义朝阳小学调拨纪念馆收藏，1994年被认定为国家一级革命文物。",
+    "source_ids": [
+      "SRC-0013"
+    ],
+    "source_url": "https://cpc.people.com.cn/NMediaFile/2025/0119/MAIN17372474555838JCPDQRDNX.png",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0012",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图片图注及文物沿革已有来源支持；版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0013",
+    "title": "遵义会议会议室复原陈列照片（新华社2019年拍摄）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "当代复原场景照片",
+    "date_text": "2019-07-04拍摄",
+    "caption": "新华社记者王思维拍摄；图注明确为遵义会议会议室，展示现代按原貌陈列的桌椅与火盆。",
+    "source_ids": [
+      "SRC-0017"
+    ],
+    "source_url": "https://yn.yunnan.cn/pic/003/007/631/00300763152_i1000500000500a0_79be336a.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0013",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图注、拍摄时间及场景性质已核对；版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0014",
+    "title": "遵义会议会址正门照片",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "历史建筑现状照片",
+    "date_text": "2016年专题发布；具体拍摄时间未注明",
+    "caption": "新华网专题图注为“现遵义会议会址正门”。",
+    "source_ids": [
+      "SRC-0004"
+    ],
+    "source_url": "https://www.xinhuanet.com/politics/2016-07/04/695396027853544110_11n.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0014",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图注已核对；版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0015",
+    "title": "20世纪二三十年代遵义老城照片",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "历史城市照片（年代范围待细核）",
+    "date_text": "图注称20世纪二三十年代；具体拍摄日期不详",
+    "caption": "新华网专题图注为“上世纪二三十年代的遵义老城”，可作为时代环境参考。",
+    "source_ids": [
+      "SRC-0004"
+    ],
+    "source_url": "https://www.xinhuanet.com/politics/2016-07/04/18104311583485283708_11n.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0015",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "新华社2016年页面图注为“上世纪二三十年代的遵义老城”；但摄影史研究者徐宏力考证，曾被纪念馆标注为“1935年遵义老城全景”的同类老城全景照片实际为19世纪照片，且二手来源对具体年份记载不一。尚未完成与该新华社图片的原片比对，故年代不能视为已核实。\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0016",
+    "title": "遵义会议期间红军总司令部（作战）办公室陈列照片",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "当代复原陈列照片",
+    "date_text": "2016年专题发布；具体拍摄时间未注明",
+    "caption": "新华网专题图注为“遵义会议期间红军总司令部（作战）办公室”，画面为现代陈列场景。",
+    "source_ids": [
+      "SRC-0004"
+    ],
+    "source_url": "https://www.xinhuanet.com/politics/2016-07/04/5264375315457827537_11n.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0016",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图注已核对；具体陈列点及版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0017",
+    "title": "中央红军一渡赤水河要图（现代整理示意图）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "现代路线示意图",
+    "date_text": "所示行动时段：1935-01-19至1935-02-07；图片为现代整理",
+    "caption": "四渡赤水纪念馆发布的“一渡赤水河要图”，标示中央红军及国民党军行动路线。",
+    "source_ids": [
+      "SRC-0015"
+    ],
+    "source_url": "https://img.sdcs1935.com/uploads/images/202108/16300514383922.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0017",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图像与图注已核对；版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0018",
+    "title": "中央红军二渡赤水河要图（现代整理示意图）",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "现代路线示意图",
+    "date_text": "所示行动时段：1935-02-09至1935-02-21；图片为现代整理",
+    "caption": "四渡赤水纪念馆发布的“二渡赤水河要图”，标示中央红军及国民党军行动路线。",
+    "source_ids": [
+      "SRC-0015"
+    ],
+    "source_url": "https://img.sdcs1935.com/uploads/images/202108/16300514643320.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0018",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图像与图注已核对；版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0019",
+    "title": "遵义会议会址建筑外景照片",
+    "event_ids": [
+      "EVT-001"
+    ],
+    "type": "历史建筑现状照片",
+    "date_text": "2016年专题发布；具体拍摄时间未注明",
+    "caption": "新华网专题图注为“遵义会议会址楼”，展示柏公馆现存建筑外观。",
+    "source_ids": [
+      "SRC-0004"
+    ],
+    "source_url": "https://www.xinhuanet.com/politics/2016-07/04/7301326870186274556_11n.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0019",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图注已核对；版权许可待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0020",
+    "title": "《遵义会议决议》中央档案馆馆藏档案影像（单页局部）",
+    "event_ids": [
+      "EVT-001",
+      "EVT-002"
+    ],
+    "type": "档案影像/原始文件局部",
+    "date_text": "原件形成于1935年；本图为2026年报道配图，数字化/拍摄时间未注明",
+    "caption": "同济大学关工委转载《光明日报》报道中的中央档案馆馆藏《遵义会议决议》局部影像；画面可见决议标题及首面部分正文。仅为单页局部，不是14节全文或完整原件连续扫描。",
+    "source_ids": [
+      "SRC-0019"
+    ],
+    "source_url": "https://ggw.tongji.edu.cn/themes/59/userfiles/images/2026/10/16/650/1792140840991933.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0020",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "图像及馆藏说明已核对；仅局部影像，未获得完整高清扫描\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0021",
+    "title": "陈昌奉1975年赴威信核实扎西会议会址历史照片",
+    "event_ids": [
+      "EVT-002"
+    ],
+    "type": "历史照片（1975年会址核实）",
+    "date_text": "1975-12（页面图注）",
+    "caption": "昭通市纪委监委网站配图，原文图注称“陈昌奉到威信县落实扎西会议会址及中央首长住址”；黑白照片可见一栋建筑及到访人员。原文未明确该照片具体对应庄子上、江西会馆或其他路居点。",
+    "source_ids": [
+      "SRC-0021"
+    ],
+    "source_url": "https://www.ztjjjc.gov.cn/atta/34/ue/image/20210406/6375332376190541205876966.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0021",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "页面图注、时间及人物/活动说明已核对；具体拍摄地点未明确\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0022",
+    "title": "大河滩庄子上中央政治局会议旧址外景（扎西干部学院官网图）",
+    "event_ids": [
+      "EVT-002"
+    ],
+    "type": "现代旧址照片",
+    "date_text": "现代拍摄；具体拍摄时间未注明（页面2015-07-21发布）",
+    "caption": "云南扎西干部学院官网现场教学页面配图，展示庄子上木结构三合院旧址全景，可用于说明建筑整体形制和周边环境。",
+    "source_ids": [
+      "SRC-0020"
+    ],
+    "source_url": "https://www.zxgbxy.org.cn/temp/1638498956750.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0022",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "来源机构及图像与旧址对应关系已核对；具体拍摄时间、摄影者待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0023",
+    "title": "大河滩庄子上中央政治局会议会址外景（昭通市纪委监委图）",
+    "event_ids": [
+      "EVT-002"
+    ],
+    "type": "现代旧址照片",
+    "date_text": "现代拍摄；页面发布于2021-04-02，具体拍摄时间未注明",
+    "caption": "昭通市纪委监委网站图注为“大河滩庄子上中央政治局会议会址”，展示旧址建筑、入口及说明碑，可与AST-0022全景图互补。",
+    "source_ids": [
+      "SRC-0021"
+    ],
+    "source_url": "https://www.ztjjjc.gov.cn/atta/34/ue/image/20210406/6375332370687051725131385.jpg",
+    "rights": "待确认",
+    "user_decision": "待决定",
+    "local_preview_url": "/__research-media/AST-0023",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "页面图注和地点对应关系已核对；具体拍摄时间、摄影者待确认\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0024",
+    "title": "于都红色渡口（现代照片）",
+    "event_ids": [
+      "EVT-006"
+    ],
+    "type": "现代拍摄的历史遗址照片",
+    "date_text": "2016年报道发表前，拍摄日未注明",
+    "caption": "红色渡口",
+    "source_ids": [
+      "SRC-0025"
+    ],
+    "source_url": "http://www.people.com.cn/mediafile/pic/20160905/43/8039621402694907143.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0024",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构原网页图注核对；图像原件、拍摄日期与完整流转记录待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：400×224，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0025",
+    "title": "于都纪念馆浮桥复原场景",
+    "event_ids": [
+      "EVT-006"
+    ],
+    "type": "现代拍摄的纪念馆复原陈列",
+    "date_text": "2016年报道发表前",
+    "caption": "馆内重现了当年架设浮桥的场景",
+    "source_ids": [
+      "SRC-0025"
+    ],
+    "source_url": "http://www.people.com.cn/mediafile/pic/20160905/82/15864249772012601942.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0025",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构原网页图注核对；图像原件、拍摄日期与完整流转记录待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：400×496，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0026",
+    "title": "中央红军长征出发地纪念馆",
+    "event_ids": [
+      "EVT-006"
+    ],
+    "type": "现代拍摄的纪念馆建筑",
+    "date_text": "2016年报道发表前",
+    "caption": "中央红军长征出发地纪念馆",
+    "source_ids": [
+      "SRC-0025"
+    ],
+    "source_url": "http://www.people.com.cn/mediafile/pic/20160905/60/12039436691620294884.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0026",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构原网页图注核对；图像原件、拍摄日期与完整流转记录待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：400×285，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0027",
+    "title": "湘江战役界首渡口",
+    "event_ids": [
+      "EVT-015"
+    ],
+    "type": "现代拍摄的历史遗址照片",
+    "date_text": "拍摄日未注明",
+    "caption": "湘江战役界首渡口",
+    "source_ids": [
+      "SRC-0028"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0702/MAIN1782959280406OX0UXWLVEX.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0027",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构原网页图注核对；图像原件、拍摄日期与完整流转记录待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1080×721，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0028",
+    "title": "新圩阻击战史实陈列馆",
+    "event_ids": [
+      "EVT-012"
+    ],
+    "type": "现代拍摄的纪念馆建筑",
+    "date_text": "拍摄日未注明",
+    "caption": "新圩阻击战史实陈列馆",
+    "source_ids": [
+      "SRC-0028"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0702/MAIN1782959418783JHZW1LZWAV.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0028",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构原网页图注核对；图像原件、拍摄日期与完整流转记录待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1080×810，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0029",
+    "title": "红军长征在湖南路线示意图",
+    "event_ids": [
+      "EVT-008",
+      "EVT-009",
+      "EVT-010",
+      "EVT-011"
+    ],
+    "type": "现代制作的历史路线示意图",
+    "date_text": "2026年页面发布，制图时间待核",
+    "caption": "红军长征在湖南路线示意图",
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0904/MAIN1788491496898RS3SCG600K.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0029",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构原网页图注核对；图像原件、拍摄日期与完整流转记录待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：800×1010，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0030",
+    "title": "黎平会议旧址",
+    "event_ids": [
+      "EVT-019"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "黎平会议旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792505315234DRJXZ5KFBM.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0030",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×703，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0031",
+    "title": "猴场会议相关配图",
+    "event_ids": [
+      "EVT-020"
+    ],
+    "type": "图片类型待视觉确认（可能旧址/陈列；不得称1935现场照）",
+    "date_text": "未注明拍摄时间",
+    "caption": "猴场会议相关配图（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792505060542QY7G5XWXD2.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0031",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：748×821，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0032",
+    "title": "乌江突破相关配图",
+    "event_ids": [
+      "EVT-021"
+    ],
+    "type": "渡河地域配图（年代与拍摄对象待视觉核验）",
+    "date_text": "未注明拍摄时间",
+    "caption": "乌江突破相关配图（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925050404170T8SQ8Z4G7.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0032",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：848×540，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0033",
+    "title": "土城一渡赤水渡口",
+    "event_ids": [
+      "EVT-023"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "土城一渡赤水渡口（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925049886011LQE9S4PAY.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0033",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×658，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0034",
+    "title": "太平渡旧址",
+    "event_ids": [
+      "EVT-028"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "太平渡旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792504924382M7A46TN9B9.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0034",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×660，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0035",
+    "title": "娄山关战斗地点",
+    "event_ids": [
+      "EVT-029"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "娄山关战斗地点（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN179250487896627QGIGZH1X.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0035",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：742×999，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0036",
+    "title": "茅台渡口旧址",
+    "event_ids": [
+      "EVT-033"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "茅台渡口旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925048530711DP9HH6BYH.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0036",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1000×638，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0037",
+    "title": "二郎滩渡口旧址",
+    "event_ids": [
+      "EVT-034"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "二郎滩渡口旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925048318030PIQVKLZ67.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0037",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：532×399，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0038",
+    "title": "梯子岩渡口旧址",
+    "event_ids": [
+      "EVT-035"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "梯子岩渡口旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792504608240AJ3032F3HE.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0038",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×681，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0039",
+    "title": "皎平渡旧址",
+    "event_ids": [
+      "EVT-042"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "皎平渡旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792504026595UR49S4SWAU.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0039",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×808，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0040",
+    "title": "金沙江北岸指挥山洞",
+    "event_ids": [
+      "EVT-042"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "金沙江北岸指挥山洞（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503972075KRYZ9905UW.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0040",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1000×770，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0041",
+    "title": "安顺场一角",
+    "event_ids": [
+      "EVT-047"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "安顺场一角（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503942072RSMF742CO5.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0041",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×645，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0042",
+    "title": "泸定铁索桥",
+    "event_ids": [
+      "EVT-049"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "泸定铁索桥（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925039226484LXJA429GL.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0042",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×640，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0043",
+    "title": "朱德署名中国工农红军布告图像",
+    "event_ids": [
+      "EVT-045",
+      "EVT-046"
+    ],
+    "type": "历史文献/文物的复制影像（原件属性待核）",
+    "date_text": "文献形成于1930年代，复制/摄影时间未标",
+    "caption": "朱德署名中国工农红军布告图像（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792504052022ZPP8HD8R7L.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0043",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：452×621，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0044",
+    "title": "夹金山专题配图",
+    "event_ids": [
+      "EVT-051"
+    ],
+    "type": "山地配图（摄影/艺术创作属性待视觉核验）",
+    "date_text": "未注明拍摄时间",
+    "caption": "夹金山专题配图（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925038701080R8OLBJUAH.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0044",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×651，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0045",
+    "title": "懋功会师之处",
+    "event_ids": [
+      "EVT-052",
+      "EVT-053"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "懋功会师之处（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503834984YJIXT8C97N.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0045",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：798×1000，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0046",
+    "title": "两河口会议战略方针决定影像",
+    "event_ids": [
+      "EVT-054"
+    ],
+    "type": "历史文献/文物的复制影像（原件属性待核）",
+    "date_text": "文献形成于1930年代，复制/摄影时间未标",
+    "caption": "两河口会议战略方针决定影像（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503819448SEO8JX6GLE.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0046",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：664×1000，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0047",
+    "title": "毛儿盖地域",
+    "event_ids": [
+      "EVT-058"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "毛儿盖地域（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503768252HC0XX9WB6U.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0047",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：529×705，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0048",
+    "title": "俄界会议旧址",
+    "event_ids": [
+      "EVT-063"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "俄界会议旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503713817WOBY19S4ZP.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0048",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：974×1000，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0049",
+    "title": "腊子口专题配图",
+    "event_ids": [
+      "EVT-064"
+    ],
+    "type": "战斗地域配图（年代与对象待视觉核验）",
+    "date_text": "未注明拍摄时间",
+    "caption": "腊子口专题配图（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503687000QWYC91RS0M.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0049",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：425×611，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0050",
+    "title": "六盘山专题配图",
+    "event_ids": [
+      "EVT-068"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "六盘山专题配图（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503628598KA07CXMFCV.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0050",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1000×912，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0051",
+    "title": "吴起镇旧址配图",
+    "event_ids": [
+      "EVT-072"
+    ],
+    "type": "历史遗址照片（拍摄年代待核；不认定为1930年代现场实拍）",
+    "date_text": "未注明拍摄时间",
+    "caption": "吴起镇旧址配图（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503605137BITGM8GPXP.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0051",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：880×602，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0052",
+    "title": "1936年10月10日会合通电影像",
+    "event_ids": [
+      "EVT-076",
+      "EVT-077"
+    ],
+    "type": "历史文献/文物的复制影像（原件属性待核）",
+    "date_text": "文献形成于1930年代，复制/摄影时间未标",
+    "caption": "1936年10月10日会合通电影像（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503440302SOOTZOEWGC.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0052",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1000×682，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0053",
+    "title": "镰刀坝大草地",
+    "event_ids": [
+      "EVT-059"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "镰刀坝大草地（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/b191129cd84a4354a04b7f8d20b65904.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0053",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：628×299，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0054",
+    "title": "小森林遗址",
+    "event_ids": [
+      "EVT-059"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "小森林遗址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/37b6d1436ede4e74b162301c66d8c0f6.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0054",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：552×325，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0055",
+    "title": "班佑村",
+    "event_ids": [
+      "EVT-060"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "班佑村（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/6dd596df63434b4c89950ca9eac09193.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0055",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：552×235，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0056",
+    "title": "班佑旧居遗迹",
+    "event_ids": [
+      "EVT-060"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "班佑旧居遗迹（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/d5cb5e5b486b4346a20d492453bd2b0b.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0056",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：554×261，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0057",
+    "title": "巴西班佑寺筹粮会议会址",
+    "event_ids": [
+      "EVT-062"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "巴西班佑寺筹粮会议会址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/d697862a12d94a2bb49ddbafd31bcd26.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0057",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：552×332，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0058",
+    "title": "阿西牙弄紧急会议会址",
+    "event_ids": [
+      "EVT-062"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "阿西牙弄紧急会议会址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/1a6cbe678bce41d097660f174ed5cbf4.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0058",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：552×453，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0059",
+    "title": "包座求吉寺战斗遗址",
+    "event_ids": [
+      "EVT-061"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "包座求吉寺战斗遗址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/8b7d75363f464532a634442c6e80d141.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0059",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：563×232，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0060",
+    "title": "上包座主战场遗址",
+    "event_ids": [
+      "EVT-061"
+    ],
+    "type": "现代拍摄的历史遗址/遗迹照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "上包座主战场遗址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "source_url": "https://www.ruoergai.gov.cn/regxrmzf/c105376/202303/f66ee6ab86f044019bfbc9170a6fe707/images/4dc1e65ce7b44cb29a6e7e3fa6587246.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0060",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：551×338，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0061",
+    "title": "1935年战士报大渡河沿岸胜利总结影像",
+    "event_ids": [
+      "EVT-047",
+      "EVT-048",
+      "EVT-049"
+    ],
+    "type": "1935年同期文献的现代影像（中央档案馆供图）",
+    "date_text": "图面可见1935年5月31日、第1期；待馆藏编目复核",
+    "caption": "1935年战士报大渡河沿岸胜利总结影像（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0037"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1009/MAIN1791513498802MHU6O8HATR.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0061",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：中央档案馆作者文章提供的同期报纸数字图像候选。已目视查看上左报头日期/期号；不等于鉴定纸本原件，低分辨率不能逐字读全。；访问情况：公开数字文件已保存并目视检查，非馆藏原件鉴定；实际文件 768×479；SHA-256已登记\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0062",
+    "title": "俄界会议旧址",
+    "event_ids": [
+      "EVT-063"
+    ],
+    "type": "现代拍摄的历史旧址照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "俄界会议旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0042"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2021/1126/MAIN202111261358000466026435410.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0062",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：573×362，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0063",
+    "title": "榜羅会议旧址",
+    "event_ids": [
+      "EVT-066"
+    ],
+    "type": "现代拍摄的历史旧址照片（具体拍摄日未注明）",
+    "date_text": "未注明拍摄时间",
+    "caption": "榜羅会议旧址（原网页相邻图注定位；完整原说明请打开来源）",
+    "source_ids": [
+      "SRC-0042"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2021/1126/MAIN202111261359000141130745360.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0063",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：原网页图注和直链已对应；未核原底片、图像流转或修复情况，保持待审。；访问情况：HTTP 200，已核图像头；已读取原图文件头：561×297，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0064",
+    "title": "桑植刘家坪出发地",
+    "event_ids": [
+      "EVT-084"
+    ],
+    "type": "历史遗址照片（具体拍摄年代待核，不作为1930年代现场照片）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "桑植刘家坪出发地；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925035739762PL2S3I2D9.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0064",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×745，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0065",
+    "title": "黔西乌蒙山区",
+    "event_ids": [
+      "EVT-090",
+      "EVT-091",
+      "EVT-092",
+      "EVT-093",
+      "EVT-094"
+    ],
+    "type": "地理环境照片（具体位置、拍摄年代待核；不能当某战斗现场）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "黔西乌蒙山区；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503546467M085FPZABE.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0065",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×621，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0066",
+    "title": "甘孜地域",
+    "event_ids": [
+      "EVT-100",
+      "EVT-118"
+    ],
+    "type": "历史遗址照片（具体拍摄年代待核，不作为1930年代现场照片）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "甘孜地域；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503501998PV4A89B2GP.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0066",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：886×695，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0067",
+    "title": "1935年4月10日红星报捷报",
+    "event_ids": [
+      "EVT-106",
+      "EVT-107",
+      "EVT-108"
+    ],
+    "type": "1935年同期报刊的复制影像",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "1935年4月10日红星报捷报；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925045792114SILL9PGQI.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0067",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：726×999，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0068",
+    "title": "土门战役茂县三元桥",
+    "event_ids": [
+      "EVT-111"
+    ],
+    "type": "历史遗址照片（具体拍摄年代待核，不作为1930年代现场照片）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "土门战役茂县三元桥；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925038949103YHSK5M2NX.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0068",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1000×664，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0069",
+    "title": "何家冲出发地",
+    "event_ids": [
+      "EVT-125"
+    ],
+    "type": "历史遗址照片（具体拍摄年代待核，不作为1930年代现场照片）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "何家冲出发地；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792505373557CJWR31WRC2.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0069",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1000×564，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0070",
+    "title": "独树镇城门",
+    "event_ids": [
+      "EVT-128"
+    ],
+    "type": "历史遗址照片（具体拍摄年代待核，不作为1930年代现场照片）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "独树镇城门；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792505358369HC9ZFJ6RK1.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0070",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：900×703，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0071",
+    "title": "永坪会师相关影像",
+    "event_ids": [
+      "EVT-150"
+    ],
+    "type": "1930年代历史照片候选（专题称会师情景；拍摄年、人物和原件待核）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "永坪会师相关影像；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN17925037413668A7AQQ9K7S.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0071",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：797×1000，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0072",
+    "title": "会宁西关",
+    "event_ids": [
+      "EVT-076"
+    ],
+    "type": "历史遗址照片（具体拍摄年代待核，不作为1930年代现场照片）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "会宁西关；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/1020/MAIN1792503462031DOR0NJMYMK.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0072",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：883×705，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0073",
+    "title": "乌蒙回旋战要图",
+    "event_ids": [
+      "EVT-089",
+      "EVT-090",
+      "EVT-091",
+      "EVT-092",
+      "EVT-093",
+      "EVT-094",
+      "EVT-095"
+    ],
+    "type": "现代制作的历史军事示意图",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "乌蒙回旋战要图；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0050"
+    ],
+    "source_url": "http://www.people.com.cn/mediafile/pic/20161219/13/4542829627740044229.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0073",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：400×531，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0074",
+    "title": "红军西进云南及渡金沙江要图",
+    "event_ids": [
+      "EVT-036",
+      "EVT-037",
+      "EVT-038",
+      "EVT-039",
+      "EVT-040",
+      "EVT-042",
+      "EVT-043"
+    ],
+    "type": "现代制作的历史军事示意图",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "红军西进云南及渡金沙江要图；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0723/MAIN1784773893650JBWNWI4DRT.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0074",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1080×570，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0075",
+    "title": "渡金沙江政治工作指示影像",
+    "event_ids": [
+      "EVT-040",
+      "EVT-041",
+      "EVT-042"
+    ],
+    "type": "1935年同期文献的复制影像",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "渡金沙江政治工作指示影像；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0723/MAIN1784774012636TOZWKQ8MW6.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0075",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构网页图注支持1935年政治训令文献图像候选。已目视：多页叠放且文字清晰度有限，不能证明取得完整可读全文，原件编目与完整页数待核。；访问情况：公开数字文件已保存并目视检查，非馆藏原件鉴定；实际文件 1080×901；SHA-256已登记\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0076",
+    "title": "江口军部旧址",
+    "event_ids": [
+      "EVT-142"
+    ],
+    "type": "现代拍摄的历史建筑照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "江口军部旧址；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0063"
+    ],
+    "source_url": "https://ds.hanzhong.gov.cn/hzdswz/hsly/202401/5403517e3a47420e815f2133d41e08d9/images/红二十五军军部江口旧址.JPG",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0076",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：访问失败/待复核；访问/解析未完成：Truncated File Read\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0077",
+    "title": "江口军部旧址第二幅配图",
+    "event_ids": [
+      "EVT-142"
+    ],
+    "type": "现代旧址/陈列配图（具体对象待视觉核验）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "江口军部旧址第二幅配图；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0063"
+    ],
+    "source_url": "https://ds.hanzhong.gov.cn/hzdswz/hsly/202401/5403517e3a47420e815f2133d41e08d9/images/P00327-155220.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0077",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：3782×2460，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0078",
+    "title": "南腰界会师大会纪念亭",
+    "event_ids": [
+      "EVT-083"
+    ],
+    "type": "现代拍摄的纪念设施照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "南腰界会师大会纪念亭；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0051"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0918/MAIN17897170058824KEAK9DESN.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0078",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1080×1440，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0079",
+    "title": "黔江红军渡",
+    "event_ids": [
+      "EVT-105"
+    ],
+    "type": "现代拍摄的历史遗址照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "黔江红军渡；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0051"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0918/MAIN1789717068248S04I1BNKZE.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0079",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1080×810，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0080",
+    "title": "夹金山垭口",
+    "event_ids": [
+      "EVT-051"
+    ],
+    "type": "现代拍摄的地理环境照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "夹金山垭口；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0056"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0923/MAIN1790134299029WVFE0KXUE8.jpg",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0080",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1280×726，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0081",
+    "title": "红二十五军长征路线图",
+    "event_ids": [
+      "EVT-103",
+      "EVT-125",
+      "EVT-128",
+      "EVT-131",
+      "EVT-132",
+      "EVT-134",
+      "EVT-135",
+      "EVT-136",
+      "EVT-137",
+      "EVT-138",
+      "EVT-139",
+      "EVT-141",
+      "EVT-142",
+      "EVT-143",
+      "EVT-144",
+      "EVT-145",
+      "EVT-146",
+      "EVT-148",
+      "EVT-149",
+      "EVT-150"
+    ],
+    "type": "现代制作的历史路线示意图",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "红二十五军长征路线图；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2026/0903/MAIN1788401287513XAW1IWXPXG.png",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0081",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：743×486，PNG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0082",
+    "title": "百石战斗碉堡原址修复",
+    "event_ids": [
+      "EVT-007"
+    ],
+    "type": "现代拍摄的原址修复建筑照片（非1934现场照）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "百石战斗碉堡原址修复；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0066"
+    ],
+    "source_url": "https://www.jxxf.gov.cn/xfxxxgk/c101024/202610/837380270ab241d3aef0b59fb5ddcabe/images/5b25f6be34454f83ad6d47f7b349b5f1.png",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0082",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：546×540，PNG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0083",
+    "title": "洪超烈士墓",
+    "event_ids": [
+      "EVT-007"
+    ],
+    "type": "现代拍摄的纪念设施照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "洪超烈士墓；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0066"
+    ],
+    "source_url": "https://www.jxxf.gov.cn/xfxxxgk/c101024/202610/837380270ab241d3aef0b59fb5ddcabe/images/edc2fe48f826422da0e62ecd7512b0e0.png",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0083",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：518×389，PNG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0084",
+    "title": "红二十五军长征途中领导干部合影",
+    "event_ids": [
+      "EVT-125",
+      "EVT-144"
+    ],
+    "type": "1930年代历史照片候选（确切时间、地点、人物待核）",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "平凉网页图注将前排人物列为吴焕先、程子华、徐海东等；目视确认与AST-0093同图，另一机构版本说明含郭述申等不同身份。此处为摘记，完整原始图注见网页。",
+    "source_ids": [
+      "SRC-0067"
+    ],
+    "source_url": "https://wlj.pingliang.gov.cn/old/plswenlj/wwbh/202009/W020200926546791143933",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0084",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：两份文件目视确认为同一合影的不同裁切/清晰度版本。两机构图注的人物说明不一致，未据面貌裁定身份；拍摄地点和日期仍待原始出处。；访问情况：公开数字文件已保存并目视检查，非馆藏原件鉴定；实际文件 401×252；SHA-256已登记\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0085",
+    "title": "四坡村战斗指挥部遗址",
+    "event_ids": [
+      "EVT-146"
+    ],
+    "type": "现代拍摄的历史建筑照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "四坡村战斗指挥部遗址；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0067"
+    ],
+    "source_url": "https://wlj.pingliang.gov.cn/old/plswenlj/wwbh/202009/W020200926546792952561",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0085",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：462×314，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0086",
+    "title": "吴焕先纪念亭",
+    "event_ids": [
+      "EVT-146"
+    ],
+    "type": "现代拍摄的纪念设施照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "吴焕先纪念亭；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0067"
+    ],
+    "source_url": "https://wlj.pingliang.gov.cn/old/plswenlj/wwbh/202009/W020200926546793885650",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0086",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：640×350，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0087",
+    "title": "青石嘴战斗纪念碑",
+    "event_ids": [
+      "EVT-069"
+    ],
+    "type": "现代拍摄的纪念设施照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "青石嘴战斗纪念碑；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0067"
+    ],
+    "source_url": "https://wlj.pingliang.gov.cn/old/plswenlj/wwbh/202009/W020200926546798483407",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0087",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：302×373，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0088",
+    "title": "六盘山纪念碑亭",
+    "event_ids": [
+      "EVT-068"
+    ],
+    "type": "现代拍摄的纪念设施照片",
+    "date_text": "未注明拍摄/制图时间",
+    "caption": "六盘山纪念碑亭；完整图注及原文关系见来源网页",
+    "source_ids": [
+      "SRC-0067"
+    ],
+    "source_url": "https://wlj.pingliang.gov.cn/old/plswenlj/wwbh/202009/W020200926546798671664",
+    "rights": "未明确网站展示授权，保留候选链接待审查",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0088",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：机构页面图注与链接已定位；原底片、摄制年代、复制/修复状况待核。；访问情况：HTTP 200，已核图像头；已读取原图文件头：544×304，JPEG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0089",
+    "title": "鸭田战斗指挥所修缮前",
+    "event_ids": [
+      "EVT-086"
+    ],
+    "type": "现代拍摄的历史建筑照片（原状≠1935照片）",
+    "date_text": "照片摄制时间未注明；电报形成1935年12月",
+    "caption": "鸭田战斗指挥所修缮前（原文对应图注）",
+    "source_ids": [
+      "SRC-0052"
+    ],
+    "source_url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202111/21153738/images/69768eb557614b4194bbc404f2f72ac3.png",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0089",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：从已开网页图链取得，部分直链访问失败；未认定原件完整性。；访问情况：HTTP 200，已核图像头；已读取原图文件头：799×449，PNG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0090",
+    "title": "鸭田战斗指挥所修缮后",
+    "event_ids": [
+      "EVT-086"
+    ],
+    "type": "现代拍摄的修缮旧址照片",
+    "date_text": "照片摄制时间未注明；电报形成1935年12月",
+    "caption": "鸭田战斗指挥所修缮后（原文对应图注）",
+    "source_ids": [
+      "SRC-0052"
+    ],
+    "source_url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202111/21153738/images/bb1d4db62b9d4bf99f6d14555d412618.png",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0090",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：从已开网页图链取得，部分直链访问失败；未认定原件完整性。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1080×810，PNG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0091",
+    "title": "隆回相关电报配图一",
+    "event_ids": [
+      "EVT-086"
+    ],
+    "type": "1935年同期电报的展示影像候选（需逐字核对）",
+    "date_text": "照片摄制时间未注明；电报形成1935年12月",
+    "caption": "隆回相关电报配图一（原文对应图注）",
+    "source_ids": [
+      "SRC-0052"
+    ],
+    "source_url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202111/21153738/images/64e53978125d40db86e9aa1b7178c493.png",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0091",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：从已开网页图链取得，部分直链访问失败；未认定原件完整性。；访问情况：HTTP 200，已核图像头；已读取原图文件头：1080×1508，PNG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0092",
+    "title": "隆回相关电报配图二",
+    "event_ids": [
+      "EVT-086"
+    ],
+    "type": "1935年同期电报的展示影像候选（需逐字核对）",
+    "date_text": "照片摄制时间未注明；电报形成1935年12月",
+    "caption": "隆回相关电报配图二（原文对应图注）",
+    "source_ids": [
+      "SRC-0052"
+    ],
+    "source_url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202111/21153738/images/888b844d2a824541801b65093a90bd85.png",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0092",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：从已开网页图链取得，部分直链访问失败；未认定原件完整性。；访问情况：HTTP 200，已核图像头；已读取原图文件头：553×697，PNG；非HTML显示尺寸\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0093",
+    "title": "红二十五军部分领导人合影（郭述申等）",
+    "event_ids": [
+      "EVT-144"
+    ],
+    "type": "1930年代原始历史照片候选（官网图注支持，原底片和摄影者未核）",
+    "date_text": "具体日期未注明；两当1935年8月关联需原图互证",
+    "caption": "研究院/百年潮网页图注列吴焕先、郭述申、徐海东、戴季英、赵凌波等；与AST-0084同图，其人物身份说明不同。此处为图注摘记，完整原文见来源网页。",
+    "source_ids": [
+      "SRC-0078"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2020/0723/MAIN202007230924000472103105348.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0093",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：两份文件目视确认为同一合影的不同裁切/清晰度版本。两机构图注的人物说明不一致，未据面貌裁定身份；拍摄地点和日期仍待原始出处。；访问情况：公开数字文件已保存并目视检查，非馆藏原件鉴定；实际文件 600×369；SHA-256已登记\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  },
+  {
+    "id": "AST-0094",
+    "title": "徐海东红二十五军陕南留影候选",
+    "event_ids": [
+      "EVT-134",
+      "EVT-135",
+      "EVT-136",
+      "EVT-137"
+    ],
+    "type": "1930年代原始历史照片候选（官网图注支持，原底片和摄影者未核）",
+    "date_text": "图注标1935年，精确日与地点未注明",
+    "caption": "官网图注将其与1935年陕南活动相联系；不能绑定为所关联各地点的现场照。",
+    "source_ids": [
+      "SRC-0078"
+    ],
+    "source_url": "https://www.dswxyjy.org.cn/NMediaFile/2020/0723/MAIN202007230925000295395150196.jpg",
+    "rights": "待确认，未因官网公开而视为已授权",
+    "user_decision": "待审查",
+    "local_preview_url": "/__research-media/AST-0094",
+    "saved": true,
+    "rejected": false,
+    "publication_status": "draft",
+    "verification_status": "真实性核验：历史照片候选；已核网页图注和邻近非同期照片的区别，未宣称底片鉴定。；访问情况：公开数字文件已保存并目视检查，非馆藏原件鉴定；实际文件 400×742；SHA-256已登记\nv8本地保存：文件已保存并通过存在/格式/完整解码/尺寸/大小/SHA-256校验。 文件校验不替代历史真实性核验或版权授权。"
+  }
+]

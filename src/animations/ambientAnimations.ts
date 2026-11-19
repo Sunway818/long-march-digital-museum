@@ -12,6 +12,8 @@ export function createAmbientAnimations(scope: HTMLElement) {
   let elapsed = 0
   let previous: number | null = null
   let ticking = false
+  let lastPaint=-Infinity
+  const paintInterval=matchMedia('(any-pointer: coarse)').matches?1/30:0
   let flagPending = false
   let flagAttempted = false
   let flag: FlagRenderer | null = null
@@ -23,6 +25,8 @@ export function createAmbientAnimations(scope: HTMLElement) {
   const tick = (now: number) => {
     if (previous !== null) elapsed += Math.min(Math.max(now - previous, 0), 0.1)
     previous = now
+    if(now-lastPaint<paintInterval-.002)return
+    lastPaint=now
     motion?.totalTime(elapsed, false)
     flag?.render(elapsed)
     scope.dataset.ambientTime = elapsed.toFixed(5)
@@ -35,6 +39,7 @@ export function createAmbientAnimations(scope: HTMLElement) {
     if (shouldTick === ticking) return
     ticking = shouldTick
     previous = null
+    lastPaint=-Infinity
     if (shouldTick) gsap.ticker.add(tick)
     else gsap.ticker.remove(tick)
   }
@@ -59,8 +64,8 @@ export function createAmbientAnimations(scope: HTMLElement) {
     if (!reduced) {
       motion = gsap.timeline({ paused: true })
         .fromTo('.ambient-atmosphere', { opacity: 0 }, { opacity: 1, duration: 1.5 }, 0)
-        .fromTo('.ambient-sun', { opacity: 0.08, scale: 1 }, { opacity: 0.40, scale: 1.04, svgOrigin: '1496 440', duration: 3.8, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
-        .fromTo('.ambient-sun-halo', { opacity: 0.05, scale: 1 }, { opacity: 0.26, scale: 1.025, svgOrigin: '1496 425', duration: 3.8, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
+        .fromTo('.ambient-sun', { opacity: 0.08, scale: 1 }, { opacity: 0.40, scale: 1.04, svgOrigin: '1496 440', duration: 4.8, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
+        .fromTo('.ambient-sun-halo', { opacity: 0.05, scale: 1 }, { opacity: 0.26, scale: 1.025, svgOrigin: '1496 425', duration: 4.8, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
         .fromTo('.ambient-mist-far', { x: -40, opacity: 0.16 }, { x: 80, opacity: 0.28, duration: 16, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
         .fromTo('.ambient-mist-near', { x: 34, y: 0, opacity: 0.14 }, { x: -80, y: -8, opacity: 0.24, duration: 11, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)
         .fromTo('.ambient-mist-local', { x: -12, opacity: 0.06 }, { x: 24, opacity: 0.12, duration: 14, repeat: -1, yoyo: true, ease: 'sine.inOut' }, 0)

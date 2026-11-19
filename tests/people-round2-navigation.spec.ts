@@ -1,0 +1,46 @@
+import {test,expect} from '@playwright/test'
+import events from '../src/data/history/map/events.json' with {type:'json'}
+
+for(const [width,height] of [[932,430],[844,390],[740,320],[667,375]])test(`地图导航${width}横屏可触达并保持中心缩放和日期`,async({browser},info)=>{
+ const context=await browser.newContext({viewport:{width,height},isMobile:true,hasTouch:true,reducedMotion:'reduce',baseURL:'http://127.0.0.1:4173'})
+ const page=await context.newPage();await page.goto('/#map')
+ const map=page.locator('.history-map-canvas')
+ await expect(map).toHaveAttribute('data-map-state','local')
+ await page.getByRole('slider',{name:'全局历史日期'}).fill(String(Math.floor(Date.parse('1935-05-03T00:00:00Z')/86400000)))
+ await page.getByRole('button',{name:'放大地图',exact:true}).tap()
+ await page.waitForTimeout(400)
+ const center=await map.getAttribute('data-center'),zoom=await map.getAttribute('data-zoom'),day=await page.locator('.unified-timeline').getAttribute('data-current-day')
+ const entry=page.getByRole('navigation',{name:'地图导航'}).getByRole('link',{name:'英雄人物',exact:true})
+ // A 44px child centered in a 43px bordered toolbar can sit half a CSS pixel above 0.
+ await expect(entry).toBeInViewport({ratio:.98})
+ const rect=(await entry.boundingBox())!;expect(rect.height).toBeGreaterThanOrEqual(44)
+ expect(await page.locator('.history-map-page').evaluate(el=>el.scrollWidth<=el.clientWidth+1)).toBe(true)
+ await page.screenshot({path:`output/playwright/people-round2/${info.project.name}-${width}-map-entry.png`})
+ await entry.tap()
+ await expect(page.locator('.people-portrait')).toHaveCount(16)
+ await expect(page.locator('.people-memorial')).toHaveAttribute('data-intro','done')
+ await page.getByRole('link',{name:'时空长征',exact:true}).tap()
+ await expect(map).toHaveAttribute('data-center',center!)
+ await expect(map).toHaveAttribute('data-zoom',zoom!)
+ await expect(page.locator('.unified-timeline')).toHaveAttribute('data-current-day',day!)
+ await entry.tap()
+ await expect(page.locator('.people-memorial')).toHaveAttribute('data-intro','done')
+ await context.close()
+})
+
+test('关键瞬间低调入口使用已存在事件日期并可返回人物正文',async({page})=>{
+ await page.emulateMedia({reducedMotion:'reduce'})
+ await page.goto('/#people/peng-dehuai')
+ await page.getByRole('button',{name:'关键历史瞬间',exact:true}).click()
+ await page.locator('.person-moment').first().getByRole('link',{name:/在长征地图中查看/}).click()
+ await expect(page).toHaveURL(/#map\?event=EVT-012$/)
+ const event=events.find(event=>event.id==='EVT-012')!
+ await expect(page.locator('.history-detail h2')).toHaveText(event.title)
+ const day=String(Math.floor(Date.parse(event.start_date+'T00:00:00Z')/86400000))
+ await expect(page.locator('.unified-timeline')).toHaveAttribute('data-current-day',day)
+ await page.goBack()
+ await expect(page.locator('.person-archive h1')).toHaveText('彭德怀')
+ await page.locator('.person-citations button').first().click()
+ await expect(page.locator('.person-sources')).toHaveAttribute('open','')
+ await expect(page.locator('.person-sources li:focus')).toBeInViewport()
+})

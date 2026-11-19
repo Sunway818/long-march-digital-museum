@@ -1,0 +1,5 @@
+# Raw research and contact sheets stay local until explicit review permits tracking.
+originals/*
+!originals/.gitkeep
+contact-sheets/*
+!contact-sheets/.gitkeep

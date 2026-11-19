@@ -1,0 +1,32 @@
+{
+  "workbook": "长征历史素材总登记表_工作版_v8.xlsx",
+  "workbook_sha256": "737b7dd2eba84d97982d73cbb368d80d0e4d26e78481480f973b6d4eb7dadf1a",
+  "generated_date": "2026-11-10",
+  "start_date": "1934-08-07",
+  "end_date": "1936-11-30",
+  "armies": [
+    {
+      "id": "central",
+      "name": "中央红军",
+      "color": "#C65B50"
+    },
+    {
+      "id": "twentyfive",
+      "name": "红二十五军",
+      "color": "#D6A45D"
+    },
+    {
+      "id": "fourth",
+      "name": "红四方面军",
+      "color": "#7195AA"
+    },
+    {
+      "id": "second",
+      "name": "红二、红六军团",
+      "color": "#899A70"
+    }
+  ],
+  "online_style": "/assets/map/historical-terrain.json",
+  "terrain_url": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png",
+  "notes": "资料工作版：所有历史确址坐标仍待核，地图仅标出现有地名库可对照的现代区域参考点。虚线均为有来源的区域方向示意，不插值移动点。未授权影像只经本机研究预览接口读取，不进入构建目录。"
+}

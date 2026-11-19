@@ -1,0 +1,377 @@
+{
+  "locations": [
+    {
+      "placeId": "PLC-0053",
+      "geonamesId": 1800792,
+      "referenceName": "懋功地域（今小金美兴镇）",
+      "longitude": 102.36019,
+      "latitude": 30.99907,
+      "featureCode": "PPLA3",
+      "scopeNote": "小金县城美兴聚落，保留为地域参考；6月12日达维先头会师不等同于此点。"
+    },
+    {
+      "placeId": "PLC-0052",
+      "geonamesId": 1813370,
+      "referenceName": "小金达维聚落",
+      "longitude": 102.63413,
+      "latitude": 30.96655,
+      "featureCode": "PPL",
+      "scopeNote": "先头会师所在地达维的现代聚落，桥梁和会师现场仍待测证。"
+    },
+    {
+      "placeId": "PLC-0056",
+      "geonamesId": 1802095,
+      "referenceName": "黑水芦花聚落",
+      "longitude": 102.98786,
+      "latitude": 32.06708,
+      "featureCode": "PPLA3",
+      "scopeNote": "芦花会议与周边整编地域，非会址确址。"
+    },
+    {
+      "placeId": "PLC-0100",
+      "geonamesId": 1810271,
+      "referenceName": "甘孜镇",
+      "longitude": 99.99413,
+      "latitude": 31.62744,
+      "featureCode": "PPLA3",
+      "scopeNote": "甘孜镇聚落，经度99.99413纬度31.62744与原记录一致；各部会合、庆祝和编成分别记录。"
+    },
+    {
+      "placeId": "PLC-0115",
+      "geonamesId": 1817206,
+      "referenceName": "雅安名山百丈镇",
+      "longitude": 103.26072,
+      "latitude": 30.18732,
+      "featureCode": "PPL",
+      "scopeNote": "1935年红四方面军百丈关战役所在地域，非某座纪念园或所有战线的确址。"
+    },
+    {
+      "placeId": "PLC-0116",
+      "geonamesId": 1801667,
+      "referenceName": "芦山芦阳聚落",
+      "longitude": 102.92183,
+      "latitude": 30.1561,
+      "featureCode": "PPL",
+      "scopeNote": "冬季天全、芦山、宝兴多处休整的代表地域，不合并各纵队驻地。"
+    },
+    {
+      "placeId": "PLC-0125",
+      "geonamesId": 10889224,
+      "referenceName": "罗山铁铺地域",
+      "longitude": 114.25914,
+      "latitude": 31.81548,
+      "featureCode": "PPL",
+      "scopeNote": "何家冲所在铁铺镇的地域参照，非何氏祠或出发银杏树的确址。"
+    },
+    {
+      "placeId": "PLC-0126",
+      "geonamesId": 1812239,
+      "referenceName": "信阳东双河地域",
+      "longitude": 114.08,
+      "latitude": 32.01667,
+      "featureCode": "PPL",
+      "scopeNote": "东双河—柳林越铁路地域，非某一过轨点。"
+    },
+    {
+      "placeId": "PLC-0127",
+      "geonamesId": 1792714,
+      "referenceName": "桐柏聚落",
+      "longitude": 113.40407,
+      "latitude": 32.37498,
+      "featureCode": "PPLA3",
+      "scopeNote": "桐柏山区转移目标地域，枣阳佯攻为单独部队行动。"
+    },
+    {
+      "placeId": "PLC-0128",
+      "geonamesId": 1811783,
+      "referenceName": "方城独树镇",
+      "longitude": 113.15969,
+      "latitude": 33.32543,
+      "featureCode": "PPLA4",
+      "scopeNote": "独树镇现代聚落，七里岗战斗确址待核。"
+    },
+    {
+      "placeId": "PLC-0130",
+      "geonamesId": 1789780,
+      "referenceName": "鲁山下汤镇",
+      "longitude": 112.6798,
+      "latitude": 33.71987,
+      "featureCode": "PPLA4",
+      "scopeNote": "伏牛山区转移中的下汤地域。"
+    },
+    {
+      "placeId": "PLC-0132",
+      "geonamesId": 1785824,
+      "referenceName": "庾家河聚落",
+      "longitude": 110.41556,
+      "latitude": 33.86972,
+      "featureCode": "PPL",
+      "scopeNote": "庾家河聚落，会议日期差异继续保留。"
+    },
+    {
+      "placeId": "PLC-0134",
+      "geonamesId": 1784742,
+      "referenceName": "镇安县域",
+      "longitude": 109.06844,
+      "latitude": 33.38196,
+      "featureCode": "ADM3",
+      "scopeNote": "根据地时期镇安地域。"
+    },
+    {
+      "placeId": "PLC-0135",
+      "geonamesId": 1785665,
+      "referenceName": "郧西城关地域",
+      "longitude": 110.42306,
+      "latitude": 32.98276,
+      "featureCode": "PPLA3",
+      "scopeNote": "郧西多次往返，2月19日会议单列展示锚点。"
+    },
+    {
+      "placeId": "PLC-0136",
+      "geonamesId": 1806994,
+      "referenceName": "洋县华阳聚落",
+      "longitude": 107.53667,
+      "latitude": 33.59167,
+      "featureCode": "PPL",
+      "scopeNote": "洋县华阳，不采用华阴同名华阳记录。"
+    },
+    {
+      "placeId": "PLC-0137",
+      "geonamesId": 1810193,
+      "referenceName": "蓝田葛牌聚落",
+      "longitude": 109.5,
+      "latitude": 33.90722,
+      "featureCode": "PPL",
+      "scopeNote": "葛牌及九间房区域，不代表全部伏击阵地。"
+    },
+    {
+      "placeId": "PLC-0141",
+      "geonamesId": 1783694,
+      "referenceName": "长安子午地域",
+      "longitude": 108.89362,
+      "latitude": 34.05805,
+      "featureCode": "PPLA4",
+      "scopeNote": "子午镇—沣峪口决定西征阶段，会议旧址确址待核。"
+    }
+  ],
+  "waypoints": [
+    {
+      "placeId": "PLC-0165",
+      "geonamesId": 6958366,
+      "referenceName": "包座—求吉北进地域",
+      "longitude": 103.36714,
+      "latitude": 33.4746,
+      "featureCode": "PPL",
+      "armyIds": [
+        "second"
+      ],
+      "sourceId": "SRC-0091"
+    },
+    {
+      "placeId": "PLC-0166",
+      "geonamesId": 1801876,
+      "referenceName": "武山洛门渡渭地域",
+      "longitude": 105.02472,
+      "latitude": 34.75417,
+      "featureCode": "PPLA4",
+      "armyIds": [
+        "second"
+      ],
+      "sourceId": "SRC-0091"
+    },
+    {
+      "placeId": "PLC-0167",
+      "geonamesId": 1799100,
+      "referenceName": "甘谷磐安渡渭地域",
+      "longitude": 105.11167,
+      "latitude": 34.75472,
+      "featureCode": "PPLA4",
+      "armyIds": [
+        "second"
+      ],
+      "sourceId": "SRC-0091"
+    },
+    {
+      "placeId": "PLC-0168",
+      "geonamesId": 1792560,
+      "referenceName": "通渭城关地域",
+      "longitude": 105.25058,
+      "latitude": 35.2079,
+      "featureCode": "PPLA3",
+      "armyIds": [
+        "second",
+        "fourth"
+      ],
+      "sourceId": "SRC-0091"
+    },
+    {
+      "placeId": "PLC-0169",
+      "geonamesId": 1783557,
+      "referenceName": "临潭（洮州）地域",
+      "longitude": 103.35242,
+      "latitude": 34.68885,
+      "featureCode": "PPLA3",
+      "armyIds": [
+        "fourth"
+      ],
+      "sourceId": "SRC-0098"
+    },
+    {
+      "placeId": "PLC-0170",
+      "geonamesId": 1783862,
+      "referenceName": "卓克基地域",
+      "longitude": 102.28924,
+      "latitude": 31.86852,
+      "featureCode": "PPL",
+      "armyIds": [
+        "fourth"
+      ],
+      "sourceId": "SRC-0100"
+    },
+    {
+      "placeId": "PLC-0171",
+      "geonamesId": 10803136,
+      "referenceName": "甘肃迭部达拉乡高吉村",
+      "longitude": 103.314,
+      "latitude": 33.8767,
+      "featureCode": "PPL",
+      "armyIds": [
+        "second"
+      ],
+      "sourceId": "SRC-0091",
+      "scopeNote": "1936年红二方面军行动地域；与1935年中央红军事件分开。现代地域参照，非渡口、战场或道路确址。"
+    },
+    {
+      "placeId": "PLC-0172",
+      "geonamesId": 1804264,
+      "referenceName": "甘肃迭部腊子口镇",
+      "longitude": 103.89402,
+      "latitude": 34.06634,
+      "featureCode": "PPLA4",
+      "armyIds": [
+        "second"
+      ],
+      "sourceId": "SRC-0091",
+      "scopeNote": "1936年红二方面军行动地域；与1935年中央红军事件分开。现代地域参照，非渡口、战场或道路确址。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SRC-0101",
+      "title": "中国军事百科全书·大事记（1936年）",
+      "institution": "中国大百科全书出版社／中国军事百科全书数据库",
+      "url": "https://js.bkzx.cn/events?year=1936",
+      "date_text": "页面未列发布日期",
+      "author": "",
+      "status": "2026-11-12正文已读；2月11日条载至4月上旬进至道孚、炉霍、瞻化、甘孜；9月11日条载甘南战役至20日结束。用于阶段边界，不推断各部到达日；pending。"
+    },
+    {
+      "id": "SRC-0102",
+      "title": "红四方面军发展历程中的七大里程碑",
+      "institution": "中国军网／《党史纵览》",
+      "url": "https://www.81.mil.cn/2021zt/2021-10/17/content_10099994_2.htm",
+      "date_text": "2021-10-17",
+      "author": "胡遵远",
+      "status": "2026-11-12仅检索正文可读，打开超时；红军主力会师节载4月上旬攻占道孚、炉霍、甘孜后整编，与SRC-0101交叉；不是已取得原始档案，pending。"
+    },
+    {
+      "id": "SRC-0103",
+      "title": "甘谷县志·大事记（甘肃省地方史志办公室所载PDF分册）",
+      "institution": "甘肃省地方史志办公室",
+      "url": "https://www.gsdfszw.org.cn/gsxz/tss_270/ggx/201708/P020171123335863157442.pdf",
+      "date_text": "版本出版信息待查版权页，不以URL年份代替",
+      "author": "编纂机构待查版权页",
+      "status": "2026-11-12已读印刷页14—15民国二十五年10月9日条；右纵队与左纵队部分分路均经磐安。仅用于纠正渡渭方向的排他性表述，未核完整分路、精确渡口，pending。"
+    },
+    {
+      "id": "SRC-0091",
+      "title": "红二方面军长征在甘肃的历程",
+      "institution": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n1/2016/1020/c85037-28794827.html",
+      "date_text": "2016-10-20",
+      "author": "",
+      "status": "2026-11-12正文仍502，检索可读原文日程；阶段方向采用其包座—俄界—腊子口—哈达铺及9月6日到齐段，保持pending。"
+    },
+    {
+      "id": "SRC-0092",
+      "title": "三军过后尽开颜——哈达铺在红军长征中的历史地位和作用",
+      "institution": "共产党员网／中共中央党史和文献研究院",
+      "url": "https://www.12371.cn/2021/09/01/ARTI1630483179793838.shtml",
+      "date_text": "2021-09-01",
+      "author": "",
+      "status": "全文已读；1935与1936哈达铺、成徽两康及岷洮西固分开。 保持待审核。"
+    },
+    {
+      "id": "SRC-0093",
+      "title": "9356颗红星闪耀名山大地",
+      "institution": "雅安市社会科学界联合会／雅安日报",
+      "url": "https://www.yasskl.org.cn/news/yaskl_0604/2019122/1912216147253091104.html",
+      "date_text": "2019-12-02",
+      "author": "",
+      "status": "全文已读；百丈关参战军与11月16、19、21日节点。 保持待审核。"
+    },
+    {
+      "id": "SRC-0094",
+      "title": "红旗漫卷六盘山",
+      "institution": "中国共产党新闻网／解放军报",
+      "url": "https://cpc.people.com.cn/n1/2026/1101/c443712-40825293.html",
+      "date_text": "2026-11-01",
+      "author": "",
+      "status": "全文已读；红一1936西征接应与将台堡会师。 保持待审核。"
+    },
+    {
+      "id": "SRC-0095",
+      "title": "不忘初心再长征：红二十五军从这里踏上长征路",
+      "institution": "央广网",
+      "url": "https://m.cnr.cn/news/yctt/20160920/t20160920_523147886_tt.html",
+      "date_text": "2016-09-20",
+      "author": "",
+      "status": "何家冲地点交叉，非经纬度证据。 保持待审核。"
+    },
+    {
+      "id": "SRC-0096",
+      "title": "乡村休闲添新彩 文旅解锁新体验",
+      "institution": "罗山县人民政府",
+      "url": "https://www.luoshan.gov.cn/2025/10-13/700514.html",
+      "date_text": "2025-10-13",
+      "author": "",
+      "status": "何家冲与铁铺镇的现代行政对应，非历史现场坐标证据。 保持待审核。"
+    },
+    {
+      "id": "SRC-0097",
+      "title": "四渡赤水出奇兵",
+      "institution": "中央网信办／人民网",
+      "url": "https://www.cac.gov.cn/2016-08/22/c_1119430867.htm",
+      "date_text": "2016-08-22",
+      "author": "",
+      "status": "渡河地点、时间与SRC-0080交叉。 保持待审核。"
+    },
+    {
+      "id": "SRC-0098",
+      "title": "红军长征中有哪些重要战役战斗",
+      "institution": "中国军网",
+      "url": "https://www.81.mil.cn/yw_208727/16343466.html",
+      "date_text": "待核",
+      "author": "",
+      "status": "绥崇丹懋战役1935年10月8—20日，岷洮西固与其他阶段分列。 保持待审核。"
+    },
+    {
+      "id": "SRC-0099",
+      "title": "追溯红色足迹 重温革命历史",
+      "institution": "人民网党史学习教育",
+      "url": "https://dangshi.people.com.cn/n1/2021/0715/c436975-32158749.html",
+      "date_text": "2021-07-15",
+      "author": "",
+      "status": "检索摘录可读；红六军10月9日磐安渡渭及12—13日通渭。 保持待审核。"
+    },
+    {
+      "id": "SRC-0100",
+      "title": "长征胜利70周年展亮相广州 红色文物还原长征细节（5）",
+      "institution": "中国共产党新闻网",
+      "url": "https://cpc.people.com.cn/GB/67481/68751/68764/5174114.html",
+      "date_text": "2006-12-15",
+      "author": "",
+      "status": "8月15日左路军卓克基出发与21日右路军毛儿盖出发，编组分别说明。 保持待审核。"
+    }
+  ]
+}

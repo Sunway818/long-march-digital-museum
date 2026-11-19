@@ -1,0 +1,3605 @@
+{
+  "nodes": [
+    {
+      "route_id": "RTE-0001",
+      "army_id": "central",
+      "sequence": 1,
+      "place_id": "PLC-0020",
+      "date": "1935-01-07",
+      "start_date": "1935-01-07",
+      "end_date": "1935-01-07",
+      "date_precision": "day",
+      "action": "红军占领遵义，为中央领导机关随后进驻及会议召开创造条件。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ]
+    },
+    {
+      "route_id": "RTE-0002",
+      "army_id": "central",
+      "sequence": 2,
+      "place_id": "PLC-0020",
+      "date": "1935-01-09",
+      "start_date": "1935-01-09",
+      "end_date": "1935-01-09",
+      "date_precision": "day",
+      "action": "毛泽东、周恩来、朱德等随红军总司令部和军委纵队进驻遵义。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0013"
+      ]
+    },
+    {
+      "route_id": "RTE-0003",
+      "army_id": "central",
+      "sequence": 3,
+      "place_id": "PLC-0020",
+      "date": "1935-01-15至17",
+      "start_date": "1935-01-15",
+      "end_date": "1935-01-17",
+      "date_precision": "range",
+      "action": "中共中央政治局扩大会议召开。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0017",
+        "SRC-0004"
+      ]
+    },
+    {
+      "route_id": "RTE-0004",
+      "army_id": "central",
+      "sequence": 4,
+      "place_id": "PLC-0020",
+      "date": "1935-01-19起",
+      "start_date": "1935-01-19",
+      "end_date": null,
+      "date_precision": "range",
+      "action": "中央红军撤离遵义，按三路纵队向川黔边境土城、赤水地区推进，原计划北渡长江。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014",
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0005",
+      "army_id": "central",
+      "sequence": 5,
+      "place_id": "PLC-0020",
+      "date": "1935-01-28",
+      "start_date": "1935-01-28",
+      "end_date": "1935-01-28",
+      "date_precision": "day",
+      "action": "土城战斗；敌情变化后决定撤出战斗，调整原定北渡长江计划。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0014",
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0006",
+      "army_id": "central",
+      "sequence": 6,
+      "place_id": "PLC-0020",
+      "date": "1935-01-29凌晨",
+      "start_date": "1935-01-29",
+      "end_date": "1935-01-29",
+      "date_precision": "day",
+      "action": "中央红军主力分路西渡赤水河，第一次渡过赤水。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0014",
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0007",
+      "army_id": "central",
+      "sequence": 7,
+      "place_id": "PLC-0020",
+      "date": "1935-02-05",
+      "start_date": "1935-02-05",
+      "end_date": "1935-02-05",
+      "date_precision": "day",
+      "action": "中央政治局常委会议，讨论常委分工等问题。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0016"
+      ]
+    },
+    {
+      "route_id": "RTE-0008",
+      "army_id": "central",
+      "sequence": 8,
+      "place_id": "PLC-0026",
+      "date": "1935-02-06至08（2月8日通过决议）",
+      "start_date": "1935-02-06",
+      "end_date": "1935-02-08",
+      "date_precision": "range",
+      "action": "中央政治局会议，讨论并通过《遵义会议决议》。",
+      "related_event_ids": [
+        "EVT-002"
+      ],
+      "source_ids": [
+        "SRC-0014",
+        "SRC-0016",
+        "SRC-0018"
+      ]
+    },
+    {
+      "route_id": "RTE-0009",
+      "army_id": "central",
+      "sequence": 9,
+      "place_id": "PLC-0020",
+      "date": "1935-02-09",
+      "start_date": "1935-02-09",
+      "end_date": "1935-02-09",
+      "date_precision": "day",
+      "action": "中央政治局扩大会议，讨论新的战略方针及红军整编等问题。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0016"
+      ]
+    },
+    {
+      "route_id": "RTE-0010",
+      "army_id": "central",
+      "sequence": 10,
+      "place_id": "PLC-0020",
+      "date": "1935-02-11至21",
+      "start_date": "1935-02-11",
+      "end_date": "1935-02-21",
+      "date_precision": "range",
+      "action": "中央红军回师东进，2月18日至21日分批二渡赤水，重入贵州。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0014",
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0011",
+      "army_id": "central",
+      "sequence": 11,
+      "place_id": "PLC-0020",
+      "date": "1935-02-24至28",
+      "start_date": "1935-02-24",
+      "end_date": "1935-02-28",
+      "date_precision": "range",
+      "action": "中央红军再占桐梓、攻克娄山关并重新占领遵义。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0014",
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0012",
+      "army_id": "central",
+      "sequence": 12,
+      "place_id": "PLC-0020",
+      "date": "1935-03-16至17",
+      "start_date": "1935-03-16",
+      "end_date": "1935-03-17",
+      "date_precision": "range",
+      "action": "中央红军第三次渡过赤水河，再入川南。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0014",
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0013",
+      "army_id": "central",
+      "sequence": 13,
+      "place_id": "PLC-0020",
+      "date": "1935-03-21至22",
+      "start_date": "1935-03-21",
+      "end_date": "1935-03-22",
+      "date_precision": "range",
+      "action": "中央红军第四次渡过赤水河，随后南渡乌江。",
+      "related_event_ids": [
+        "EVT-001"
+      ],
+      "source_ids": [
+        "SRC-0014",
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0014",
+      "army_id": "central",
+      "sequence": 14,
+      "place_id": "PLC-0001",
+      "date": "1934年10月上中旬",
+      "start_date": "1934-10-01",
+      "end_date": "1934-10-31",
+      "date_precision": "month",
+      "action": "中央机关及部队向集结地域转移",
+      "related_event_ids": [
+        "EVT-003"
+      ],
+      "source_ids": [
+        "SRC-0025",
+        "SRC-0026"
+      ]
+    },
+    {
+      "route_id": "RTE-0015",
+      "army_id": "central",
+      "sequence": 15,
+      "place_id": "PLC-0002",
+      "date": "1934年10月7—9日前后",
+      "start_date": "1934-10-01",
+      "end_date": "1934-10-31",
+      "date_precision": "month",
+      "action": "红九军团按命令秘密西移",
+      "related_event_ids": [
+        "EVT-004"
+      ],
+      "source_ids": [
+        "SRC-0026"
+      ]
+    },
+    {
+      "route_id": "RTE-0016",
+      "army_id": "central",
+      "sequence": 16,
+      "place_id": "PLC-0003",
+      "date": "1934年10月上中旬",
+      "start_date": "1934-10-01",
+      "end_date": "1934-10-31",
+      "date_precision": "month",
+      "action": "驻宁化部队分路向西集中",
+      "related_event_ids": [
+        "EVT-005"
+      ],
+      "source_ids": [
+        "SRC-0026"
+      ]
+    },
+    {
+      "route_id": "RTE-0017",
+      "army_id": "central",
+      "sequence": 17,
+      "place_id": "PLC-0004",
+      "date": "1934年10月17—20日前后",
+      "start_date": "1934-10-01",
+      "end_date": "1934-10-31",
+      "date_precision": "month",
+      "action": "中央红军渡于都河出发",
+      "related_event_ids": [
+        "EVT-006"
+      ],
+      "source_ids": [
+        "SRC-0025"
+      ]
+    },
+    {
+      "route_id": "RTE-0018",
+      "army_id": "central",
+      "sequence": 18,
+      "place_id": "PLC-0005",
+      "date": "1934年10月下旬（逐日待核）",
+      "start_date": "1934-10-01",
+      "end_date": "1934-10-31",
+      "date_precision": "month",
+      "action": "突破第一道封锁线",
+      "related_event_ids": [
+        "EVT-007"
+      ],
+      "source_ids": [
+        "SRC-0031"
+      ]
+    },
+    {
+      "route_id": "RTE-0019",
+      "army_id": "central",
+      "sequence": 19,
+      "place_id": "PLC-0006",
+      "date": "1934年11月上旬",
+      "start_date": "1934-11-01",
+      "end_date": "1934-11-30",
+      "date_precision": "month",
+      "action": "通过第二道封锁线",
+      "related_event_ids": [
+        "EVT-008"
+      ],
+      "source_ids": [
+        "SRC-0027"
+      ]
+    },
+    {
+      "route_id": "RTE-0020",
+      "army_id": "central",
+      "sequence": 20,
+      "place_id": "PLC-0007",
+      "date": "1934年11月（具体日待核）",
+      "start_date": "1934-11-01",
+      "end_date": "1934-11-30",
+      "date_precision": "month",
+      "action": "半条被子相关军民故事",
+      "related_event_ids": [
+        "EVT-009"
+      ],
+      "source_ids": [
+        "SRC-0027"
+      ]
+    },
+    {
+      "route_id": "RTE-0021",
+      "army_id": "central",
+      "sequence": 21,
+      "place_id": "PLC-0008",
+      "date": "1934年11月13—15日",
+      "start_date": "1934-11-13",
+      "end_date": "1934-11-15",
+      "date_precision": "range",
+      "action": "突破第三道封锁线",
+      "related_event_ids": [
+        "EVT-010"
+      ],
+      "source_ids": [
+        "SRC-0027"
+      ]
+    },
+    {
+      "route_id": "RTE-0022",
+      "army_id": "central",
+      "sequence": 22,
+      "place_id": "PLC-0009",
+      "date": "1934年11月17—18日（该地接应叙事）",
+      "start_date": "1934-11-17",
+      "end_date": "1934-11-18",
+      "date_precision": "range",
+      "action": "水南架桥接应红军",
+      "related_event_ids": [
+        "EVT-011"
+      ],
+      "source_ids": [
+        "SRC-0027",
+        "SRC-0030"
+      ]
+    },
+    {
+      "route_id": "RTE-0023",
+      "army_id": "central",
+      "sequence": 23,
+      "place_id": "PLC-0010",
+      "date": "1934年11月下旬（战斗逐日待核）",
+      "start_date": "1934-11-01",
+      "end_date": "1934-11-30",
+      "date_precision": "month",
+      "action": "湘江战役新圩阻击战",
+      "related_event_ids": [
+        "EVT-012"
+      ],
+      "source_ids": [
+        "SRC-0028",
+        "SRC-0029"
+      ]
+    },
+    {
+      "route_id": "RTE-0024",
+      "army_id": "central",
+      "sequence": 24,
+      "place_id": "PLC-0011",
+      "date": "1934年11月下旬—12月1日前后",
+      "start_date": "1934-11-01",
+      "end_date": "1934-12-31",
+      "date_precision": "range",
+      "action": "湘江战役脚山铺阻击战",
+      "related_event_ids": [
+        "EVT-013"
+      ],
+      "source_ids": [
+        "SRC-0028",
+        "SRC-0029"
+      ]
+    },
+    {
+      "route_id": "RTE-0025",
+      "army_id": "central",
+      "sequence": 25,
+      "place_id": "PLC-0012",
+      "date": "1934年11月下旬（逐日待核）",
+      "start_date": "1934-11-01",
+      "end_date": "1934-11-30",
+      "date_precision": "month",
+      "action": "湘江战役光华铺阻击战",
+      "related_event_ids": [
+        "EVT-014"
+      ],
+      "source_ids": [
+        "SRC-0028",
+        "SRC-0029"
+      ]
+    },
+    {
+      "route_id": "RTE-0026",
+      "army_id": "central",
+      "sequence": 26,
+      "place_id": "PLC-0013",
+      "date": "1934年11月27日—12月1日（战役时段）",
+      "start_date": "1934-11-27",
+      "end_date": "1934-11-27",
+      "date_precision": "day",
+      "action": "中央红军抢渡湘江",
+      "related_event_ids": [
+        "EVT-015"
+      ],
+      "source_ids": [
+        "SRC-0028",
+        "SRC-0029"
+      ]
+    },
+    {
+      "route_id": "RTE-0027",
+      "army_id": "central",
+      "sequence": 27,
+      "place_id": "PLC-0014",
+      "date": "1934年12月上旬",
+      "start_date": "1934-12-01",
+      "end_date": "1934-12-31",
+      "date_precision": "month",
+      "action": "渡湘江后翻越越城岭",
+      "related_event_ids": [
+        "EVT-016"
+      ],
+      "source_ids": [
+        "SRC-0028"
+      ]
+    },
+    {
+      "route_id": "RTE-0028",
+      "army_id": "central",
+      "sequence": 28,
+      "place_id": "PLC-0015",
+      "date": "1934年12月上中旬",
+      "start_date": "1934-12-01",
+      "end_date": "1934-12-31",
+      "date_precision": "month",
+      "action": "中央红军向通道转移",
+      "related_event_ids": [
+        "EVT-017"
+      ],
+      "source_ids": [
+        "SRC-0028"
+      ]
+    },
+    {
+      "route_id": "RTE-0029",
+      "army_id": "central",
+      "sequence": 29,
+      "place_id": "PLC-0016",
+      "date": "1934-12-12",
+      "start_date": "1934-12-12",
+      "end_date": "1934-12-12",
+      "date_precision": "day",
+      "action": "中央负责人紧急会议、战略方向讨论",
+      "related_event_ids": [
+        "EVT-018"
+      ],
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0033"
+      ]
+    },
+    {
+      "route_id": "RTE-0030",
+      "army_id": "central",
+      "sequence": 30,
+      "place_id": "PLC-0017",
+      "date": "1934-12-18",
+      "start_date": "1934-12-18",
+      "end_date": "1934-12-18",
+      "date_precision": "day",
+      "action": "中央政治局会议",
+      "related_event_ids": [
+        "EVT-019"
+      ],
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0033"
+      ]
+    },
+    {
+      "route_id": "RTE-0031",
+      "army_id": "central",
+      "sequence": 31,
+      "place_id": "PLC-0018",
+      "date": "1934-12-31夜—1935-01-01凌晨",
+      "start_date": "1934-12-31",
+      "end_date": "1935-01-01",
+      "date_precision": "range",
+      "action": "猴场会议",
+      "related_event_ids": [
+        "EVT-020"
+      ],
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0033"
+      ]
+    },
+    {
+      "route_id": "RTE-0032",
+      "army_id": "central",
+      "sequence": 32,
+      "place_id": "PLC-0019",
+      "date": "1935年1月上旬",
+      "start_date": "1935-01-01",
+      "end_date": "1935-01-31",
+      "date_precision": "month",
+      "action": "中央红军突破乌江",
+      "related_event_ids": [
+        "EVT-021"
+      ],
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0036"
+      ]
+    },
+    {
+      "route_id": "RTE-0033",
+      "army_id": "central",
+      "sequence": 33,
+      "place_id": "PLC-0023",
+      "date": "1935年2月初（逐日待核）",
+      "start_date": "1935-02-01",
+      "end_date": "1935-02-28",
+      "date_precision": "month",
+      "action": "中央领导行军中会议线索",
+      "related_event_ids": [
+        "EVT-024"
+      ],
+      "source_ids": [
+        "SRC-0033"
+      ]
+    },
+    {
+      "route_id": "RTE-0034",
+      "army_id": "central",
+      "sequence": 34,
+      "place_id": "PLC-0024",
+      "date": "1935年2月上旬",
+      "start_date": "1935-02-01",
+      "end_date": "1935-02-28",
+      "date_precision": "month",
+      "action": "中央常委分工调整相关会议",
+      "related_event_ids": [
+        "EVT-025"
+      ],
+      "source_ids": [
+        "SRC-0034"
+      ]
+    },
+    {
+      "route_id": "RTE-0035",
+      "army_id": "central",
+      "sequence": 35,
+      "place_id": "PLC-0030",
+      "date": "1935-03-04",
+      "start_date": "1935-03-04",
+      "end_date": "1935-03-04",
+      "date_precision": "day",
+      "action": "前敌司令部成立相关会议",
+      "related_event_ids": [
+        "EVT-030"
+      ],
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0033"
+      ]
+    },
+    {
+      "route_id": "RTE-0036",
+      "army_id": "central",
+      "sequence": 36,
+      "place_id": "PLC-0031",
+      "date": "1935年3月上中旬（10—12日过程待核）",
+      "start_date": "1935-03-01",
+      "end_date": "1935-03-31",
+      "date_precision": "month",
+      "action": "讨论打鼓新场及指挥机构调整",
+      "related_event_ids": [
+        "EVT-031"
+      ],
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0033"
+      ]
+    },
+    {
+      "route_id": "RTE-0037",
+      "army_id": "central",
+      "sequence": 37,
+      "place_id": "PLC-0032",
+      "date": "1935-03-15",
+      "start_date": "1935-03-15",
+      "end_date": "1935-03-15",
+      "date_precision": "day",
+      "action": "鲁班场战斗",
+      "related_event_ids": [
+        "EVT-032"
+      ],
+      "source_ids": [
+        "SRC-0015"
+      ]
+    },
+    {
+      "route_id": "RTE-0038",
+      "army_id": "central",
+      "sequence": 38,
+      "place_id": "PLC-0035",
+      "date": "1935年3月底",
+      "start_date": "1935-03-01",
+      "end_date": "1935-03-31",
+      "date_precision": "month",
+      "action": "四渡赤水后南渡乌江",
+      "related_event_ids": [
+        "EVT-035"
+      ],
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0035"
+      ]
+    },
+    {
+      "route_id": "RTE-0039",
+      "army_id": "central",
+      "sequence": 39,
+      "place_id": "PLC-0036",
+      "date": "1935年4月上旬",
+      "start_date": "1935-04-01",
+      "end_date": "1935-04-30",
+      "date_precision": "month",
+      "action": "佯攻贵阳、清水江佯动",
+      "related_event_ids": [
+        "EVT-036"
+      ],
+      "source_ids": [
+        "SRC-0035"
+      ]
+    },
+    {
+      "route_id": "RTE-0040",
+      "army_id": "central",
+      "sequence": 40,
+      "place_id": "PLC-0037",
+      "date": "1935-04-18前后",
+      "start_date": "1935-04-01",
+      "end_date": "1935-04-30",
+      "date_precision": "month",
+      "action": "主力西进渡北盘江",
+      "related_event_ids": [
+        "EVT-037"
+      ],
+      "source_ids": [
+        "SRC-0035"
+      ]
+    },
+    {
+      "route_id": "RTE-0041",
+      "army_id": "central",
+      "sequence": 41,
+      "place_id": "PLC-0038",
+      "date": "1935年4月下旬",
+      "start_date": "1935-04-01",
+      "end_date": "1935-04-30",
+      "date_precision": "month",
+      "action": "分纵队入滇与牵制机动",
+      "related_event_ids": [
+        "EVT-038"
+      ],
+      "source_ids": [
+        "SRC-0035"
+      ]
+    },
+    {
+      "route_id": "RTE-0042",
+      "army_id": "central",
+      "sequence": 42,
+      "place_id": "PLC-0039",
+      "date": "1935-04-27",
+      "start_date": "1935-04-27",
+      "end_date": "1935-04-27",
+      "date_precision": "day",
+      "action": "红一军团一部攻克马龙",
+      "related_event_ids": [
+        "EVT-039"
+      ],
+      "source_ids": [
+        "SRC-0035"
+      ]
+    },
+    {
+      "route_id": "RTE-0043",
+      "army_id": "central",
+      "sequence": 43,
+      "place_id": "PLC-0040",
+      "date": "1935-04-30",
+      "start_date": "1935-04-30",
+      "end_date": "1935-04-30",
+      "date_precision": "day",
+      "action": "军委驻地及渡江部署",
+      "related_event_ids": [
+        "EVT-040"
+      ],
+      "source_ids": [
+        "SRC-0035"
+      ]
+    },
+    {
+      "route_id": "RTE-0044",
+      "army_id": "central",
+      "sequence": 44,
+      "place_id": "PLC-0041",
+      "date": "1935年5月上旬",
+      "start_date": "1935-05-01",
+      "end_date": "1935-05-31",
+      "date_precision": "month",
+      "action": "分路抢占渡口及调整",
+      "related_event_ids": [
+        "EVT-041"
+      ],
+      "source_ids": [
+        "SRC-0035"
+      ]
+    },
+    {
+      "route_id": "RTE-0045",
+      "army_id": "central",
+      "sequence": 45,
+      "place_id": "PLC-0042",
+      "date": "1935年5月上旬",
+      "start_date": "1935-05-01",
+      "end_date": "1935-05-31",
+      "date_precision": "month",
+      "action": "巧渡金沙江",
+      "related_event_ids": [
+        "EVT-042"
+      ],
+      "source_ids": [
+        "SRC-0035",
+        "SRC-0036"
+      ]
+    },
+    {
+      "route_id": "RTE-0046",
+      "army_id": "central",
+      "sequence": 46,
+      "place_id": "PLC-0043",
+      "date": "1935年5月上旬",
+      "start_date": "1935-05-01",
+      "end_date": "1935-05-31",
+      "date_precision": "month",
+      "action": "红九军团单独渡金沙江",
+      "related_event_ids": [
+        "EVT-043"
+      ],
+      "source_ids": [
+        "SRC-0035",
+        "SRC-0039"
+      ]
+    },
+    {
+      "route_id": "RTE-0047",
+      "army_id": "central",
+      "sequence": 47,
+      "place_id": "PLC-0044",
+      "date": "1935-05-12",
+      "start_date": "1935-05-12",
+      "end_date": "1935-05-12",
+      "date_precision": "day",
+      "action": "会理会议",
+      "related_event_ids": [
+        "EVT-044"
+      ],
+      "source_ids": [
+        "SRC-0033",
+        "SRC-0038"
+      ]
+    },
+    {
+      "route_id": "RTE-0048",
+      "army_id": "central",
+      "sequence": 48,
+      "place_id": "PLC-0045",
+      "date": "1935-05-20—21",
+      "start_date": "1935-05-20",
+      "end_date": "1935-05-21",
+      "date_precision": "range",
+      "action": "先遣队侦察与分兵",
+      "related_event_ids": [
+        "EVT-045"
+      ],
+      "source_ids": [
+        "SRC-0038"
+      ]
+    },
+    {
+      "route_id": "RTE-0049",
+      "army_id": "central",
+      "sequence": 49,
+      "place_id": "PLC-0046",
+      "date": "1935-05-22",
+      "start_date": "1935-05-22",
+      "end_date": "1935-05-22",
+      "date_precision": "day",
+      "action": "刘伯承与小叶丹结盟",
+      "related_event_ids": [
+        "EVT-046"
+      ],
+      "source_ids": [
+        "SRC-0038"
+      ]
+    },
+    {
+      "route_id": "RTE-0050",
+      "army_id": "central",
+      "sequence": 50,
+      "place_id": "PLC-0047",
+      "date": "1935-05-24抵达占渡口；25日强渡",
+      "start_date": "1935-05-24",
+      "end_date": "1935-05-24",
+      "date_precision": "day",
+      "action": "强渡大渡河",
+      "related_event_ids": [
+        "EVT-047"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0037"
+      ]
+    },
+    {
+      "route_id": "RTE-0051",
+      "army_id": "central",
+      "sequence": 51,
+      "place_id": "PLC-0048",
+      "date": "1935-05-26—29",
+      "start_date": "1935-05-26",
+      "end_date": "1935-05-29",
+      "date_precision": "range",
+      "action": "两纵队配合向泸定推进",
+      "related_event_ids": [
+        "EVT-048"
+      ],
+      "source_ids": [
+        "SRC-0037"
+      ]
+    },
+    {
+      "route_id": "RTE-0052",
+      "army_id": "central",
+      "sequence": 52,
+      "place_id": "PLC-0049",
+      "date": "1935-05-29；主力通过至6月2日",
+      "start_date": "1935-05-29",
+      "end_date": "1935-05-29",
+      "date_precision": "day",
+      "action": "飞夺泸定桥",
+      "related_event_ids": [
+        "EVT-049"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0037"
+      ]
+    },
+    {
+      "route_id": "RTE-0053",
+      "army_id": "central",
+      "sequence": 53,
+      "place_id": "PLC-0050",
+      "date": "1935年6月上中旬",
+      "start_date": "1935-06-01",
+      "end_date": "1935-06-30",
+      "date_precision": "month",
+      "action": "主力向夹金山进发",
+      "related_event_ids": [
+        "EVT-050"
+      ],
+      "source_ids": [
+        "SRC-0040"
+      ]
+    },
+    {
+      "route_id": "RTE-0054",
+      "army_id": "central",
+      "sequence": 54,
+      "place_id": "PLC-0051",
+      "date": "1935年6月中旬；先遣6月12日前后",
+      "start_date": "1935-06-01",
+      "end_date": "1935-06-30",
+      "date_precision": "month",
+      "action": "翻越夹金山",
+      "related_event_ids": [
+        "EVT-051"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0041"
+      ]
+    },
+    {
+      "route_id": "RTE-0055",
+      "army_id": "central",
+      "sequence": 55,
+      "place_id": "PLC-0052",
+      "date": "1935-06-12（先头会师）",
+      "start_date": "1935-06-12",
+      "end_date": "1935-06-12",
+      "date_precision": "day",
+      "action": "红一、红四方面军先头会师",
+      "related_event_ids": [
+        "EVT-052"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0041"
+      ]
+    },
+    {
+      "route_id": "RTE-0055",
+      "army_id": "fourth",
+      "sequence": 55,
+      "place_id": "PLC-0052",
+      "date": "1935-06-12（先头会师）",
+      "start_date": "1935-06-12",
+      "end_date": "1935-06-12",
+      "date_precision": "day",
+      "action": "红一、红四方面军先头会师",
+      "related_event_ids": [
+        "EVT-052"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0041"
+      ]
+    },
+    {
+      "route_id": "RTE-0056",
+      "army_id": "central",
+      "sequence": 56,
+      "place_id": "PLC-0053",
+      "date": "1935年6月中旬；主力18日前后",
+      "start_date": "1935-06-01",
+      "end_date": "1935-06-30",
+      "date_precision": "month",
+      "action": "红一、红四方面军主力会师",
+      "related_event_ids": [
+        "EVT-053"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0041",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0056",
+      "army_id": "fourth",
+      "sequence": 56,
+      "place_id": "PLC-0053",
+      "date": "1935年6月中旬；主力18日前后",
+      "start_date": "1935-06-01",
+      "end_date": "1935-06-30",
+      "date_precision": "month",
+      "action": "红一、红四方面军主力会师",
+      "related_event_ids": [
+        "EVT-053"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0041",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0057",
+      "army_id": "central",
+      "sequence": 57,
+      "place_id": "PLC-0054",
+      "date": "1935-06-26—28",
+      "start_date": "1935-06-26",
+      "end_date": "1935-06-28",
+      "date_precision": "range",
+      "action": "两河口会议",
+      "related_event_ids": [
+        "EVT-054"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0041",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0057",
+      "army_id": "fourth",
+      "sequence": 57,
+      "place_id": "PLC-0054",
+      "date": "1935-06-26—28",
+      "start_date": "1935-06-26",
+      "end_date": "1935-06-28",
+      "date_precision": "range",
+      "action": "两河口会议",
+      "related_event_ids": [
+        "EVT-054"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0041",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0058",
+      "army_id": "central",
+      "sequence": 58,
+      "place_id": "PLC-0055",
+      "date": "1935年6月底—7月",
+      "start_date": "1935-06-01",
+      "end_date": "1935-07-31",
+      "date_precision": "range",
+      "action": "中央部队北进行军",
+      "related_event_ids": [
+        "EVT-055"
+      ],
+      "source_ids": [
+        "SRC-0040"
+      ]
+    },
+    {
+      "route_id": "RTE-0059",
+      "army_id": "central",
+      "sequence": 59,
+      "place_id": "PLC-0056",
+      "date": "1935年7月；18日会议节点",
+      "start_date": "1935-07-01",
+      "end_date": "1935-07-31",
+      "date_precision": "month",
+      "action": "芦花会议及组织安排",
+      "related_event_ids": [
+        "EVT-056"
+      ],
+      "source_ids": [
+        "SRC-0040"
+      ]
+    },
+    {
+      "route_id": "RTE-0059",
+      "army_id": "fourth",
+      "sequence": 59,
+      "place_id": "PLC-0056",
+      "date": "1935年7月；18日会议节点",
+      "start_date": "1935-07-01",
+      "end_date": "1935-07-31",
+      "date_precision": "month",
+      "action": "芦花会议及组织安排",
+      "related_event_ids": [
+        "EVT-056"
+      ],
+      "source_ids": [
+        "SRC-0040"
+      ]
+    },
+    {
+      "route_id": "RTE-0060",
+      "army_id": "central",
+      "sequence": 60,
+      "place_id": "PLC-0057",
+      "date": "1935年8月上旬（6日起会议过程待核）",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "沙窝会议",
+      "related_event_ids": [
+        "EVT-057"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0060",
+      "army_id": "fourth",
+      "sequence": 60,
+      "place_id": "PLC-0057",
+      "date": "1935年8月上旬（6日起会议过程待核）",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "沙窝会议",
+      "related_event_ids": [
+        "EVT-057"
+      ],
+      "source_ids": [
+        "SRC-0040",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0061",
+      "army_id": "central",
+      "sequence": 61,
+      "place_id": "PLC-0058",
+      "date": "1935-08-20（会议）；8月下旬行军",
+      "start_date": "1935-08-20",
+      "end_date": "1935-08-20",
+      "date_precision": "day",
+      "action": "毛儿盖会议与右路军出发",
+      "related_event_ids": [
+        "EVT-058"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0061",
+      "army_id": "fourth",
+      "sequence": 61,
+      "place_id": "PLC-0058",
+      "date": "1935-08-20（会议）；8月下旬行军",
+      "start_date": "1935-08-20",
+      "end_date": "1935-08-20",
+      "date_precision": "day",
+      "action": "毛儿盖会议与右路军出发",
+      "related_event_ids": [
+        "EVT-058"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0062",
+      "army_id": "central",
+      "sequence": 62,
+      "place_id": "PLC-0059",
+      "date": "1935年8月下旬",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "右路军穿越草地",
+      "related_event_ids": [
+        "EVT-059"
+      ],
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0063",
+      "army_id": "central",
+      "sequence": 63,
+      "place_id": "PLC-0060",
+      "date": "1935年8月下旬；后续多次经过另列",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "过草地后集结",
+      "related_event_ids": [
+        "EVT-060"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0064",
+      "army_id": "central",
+      "sequence": 64,
+      "place_id": "PLC-0061",
+      "date": "1935年8月底（具体战斗日另核）",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "包座战斗及北进通道",
+      "related_event_ids": [
+        "EVT-061"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0064",
+      "army_id": "fourth",
+      "sequence": 64,
+      "place_id": "PLC-0061",
+      "date": "1935年8月底（具体战斗日另核）",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "包座战斗及北进通道",
+      "related_event_ids": [
+        "EVT-061"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0065",
+      "army_id": "central",
+      "sequence": 65,
+      "place_id": "PLC-0062",
+      "date": "1935年9月上旬",
+      "start_date": "1935-09-01",
+      "end_date": "1935-09-30",
+      "date_precision": "month",
+      "action": "巴西地区会议及中央北上",
+      "related_event_ids": [
+        "EVT-062"
+      ],
+      "source_ids": [
+        "SRC-0042",
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0065",
+      "army_id": "fourth",
+      "sequence": 65,
+      "place_id": "PLC-0062",
+      "date": "1935年9月上旬",
+      "start_date": "1935-09-01",
+      "end_date": "1935-09-30",
+      "date_precision": "month",
+      "action": "巴西地区会议及中央北上",
+      "related_event_ids": [
+        "EVT-062"
+      ],
+      "source_ids": [
+        "SRC-0042",
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0066",
+      "army_id": "central",
+      "sequence": 66,
+      "place_id": "PLC-0063",
+      "date": "1935-09-12",
+      "start_date": "1935-09-12",
+      "end_date": "1935-09-12",
+      "date_precision": "day",
+      "action": "俄界会议",
+      "related_event_ids": [
+        "EVT-063"
+      ],
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0067",
+      "army_id": "central",
+      "sequence": 67,
+      "place_id": "PLC-0064",
+      "date": "1935-09-16—17",
+      "start_date": "1935-09-16",
+      "end_date": "1935-09-17",
+      "date_precision": "range",
+      "action": "腊子口战斗",
+      "related_event_ids": [
+        "EVT-064"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0042"
+      ]
+    },
+    {
+      "route_id": "RTE-0068",
+      "army_id": "central",
+      "sequence": 68,
+      "place_id": "PLC-0065",
+      "date": "1935-09-18—20各梯队到达；22日干部会议",
+      "start_date": "1935-09-18",
+      "end_date": "1935-09-20",
+      "date_precision": "range",
+      "action": "休整、获知陕北消息及改编部署",
+      "related_event_ids": [
+        "EVT-065"
+      ],
+      "source_ids": [
+        "SRC-0042",
+        "SRC-0046",
+        "SRC-0047"
+      ]
+    },
+    {
+      "route_id": "RTE-0069",
+      "army_id": "central",
+      "sequence": 69,
+      "place_id": "PLC-0066",
+      "date": "1935-09-27",
+      "start_date": "1935-09-27",
+      "end_date": "1935-09-27",
+      "date_precision": "day",
+      "action": "榜罗镇会议",
+      "related_event_ids": [
+        "EVT-066"
+      ],
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042",
+        "SRC-0047"
+      ]
+    },
+    {
+      "route_id": "RTE-0070",
+      "army_id": "central",
+      "sequence": 70,
+      "place_id": "PLC-0067",
+      "date": "1935年10月3—5日前后",
+      "start_date": "1935-10-01",
+      "end_date": "1935-10-31",
+      "date_precision": "month",
+      "action": "休整与西兰公路附近机动",
+      "related_event_ids": [
+        "EVT-067"
+      ],
+      "source_ids": [
+        "SRC-0044"
+      ]
+    },
+    {
+      "route_id": "RTE-0071",
+      "army_id": "central",
+      "sequence": 71,
+      "place_id": "PLC-0068",
+      "date": "1935-10-07（中央领导通过日口径）",
+      "start_date": "1935-10-07",
+      "end_date": "1935-10-07",
+      "date_precision": "day",
+      "action": "翻越六盘山",
+      "related_event_ids": [
+        "EVT-068"
+      ],
+      "source_ids": [
+        "SRC-0044",
+        "SRC-0045",
+        "SRC-0046"
+      ]
+    },
+    {
+      "route_id": "RTE-0072",
+      "army_id": "central",
+      "sequence": 72,
+      "place_id": "PLC-0069",
+      "date": "1935-10-07前后",
+      "start_date": "1935-10-01",
+      "end_date": "1935-10-31",
+      "date_precision": "month",
+      "action": "六盘山地域作战",
+      "related_event_ids": [
+        "EVT-069"
+      ],
+      "source_ids": [
+        "SRC-0044"
+      ]
+    },
+    {
+      "route_id": "RTE-0073",
+      "army_id": "central",
+      "sequence": 73,
+      "place_id": "PLC-0070",
+      "date": "1935-10-09—11前后",
+      "start_date": "1935-10-01",
+      "end_date": "1935-10-31",
+      "date_precision": "month",
+      "action": "进入根据地边缘、继续分路北进",
+      "related_event_ids": [
+        "EVT-070"
+      ],
+      "source_ids": [
+        "SRC-0044"
+      ]
+    },
+    {
+      "route_id": "RTE-0074",
+      "army_id": "central",
+      "sequence": 74,
+      "place_id": "PLC-0071",
+      "date": "1935年10月中旬",
+      "start_date": "1935-10-01",
+      "end_date": "1935-10-31",
+      "date_precision": "month",
+      "action": "继续北上与阻击追敌",
+      "related_event_ids": [
+        "EVT-071"
+      ],
+      "source_ids": [
+        "SRC-0044"
+      ]
+    },
+    {
+      "route_id": "RTE-0075",
+      "army_id": "central",
+      "sequence": 75,
+      "place_id": "PLC-0072",
+      "date": "1935-10-19抵达；21日相关战斗、22日会议另核",
+      "start_date": "1935-10-19",
+      "end_date": "1935-10-19",
+      "date_precision": "day",
+      "action": "中央红军长征到达陕北",
+      "related_event_ids": [
+        "EVT-072"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0041",
+        "SRC-0042",
+        "SRC-0046"
+      ]
+    },
+    {
+      "route_id": "RTE-0076",
+      "army_id": "central",
+      "sequence": 76,
+      "place_id": "PLC-0073",
+      "date": "1935年11月初",
+      "start_date": "1935-11-01",
+      "end_date": "1935-11-30",
+      "date_precision": "month",
+      "action": "陕甘支队与红十五军团会师",
+      "related_event_ids": [
+        "EVT-073"
+      ],
+      "source_ids": [
+        "SRC-0046",
+        "SRC-0047"
+      ]
+    },
+    {
+      "route_id": "RTE-0077",
+      "army_id": "central",
+      "sequence": 77,
+      "place_id": "PLC-0074",
+      "date": "1935-11-07机关到达；12月会议另列",
+      "start_date": "1935-11-07",
+      "end_date": "1935-11-07",
+      "date_precision": "day",
+      "action": "中共中央机关驻地及后续会议",
+      "related_event_ids": [
+        "EVT-074"
+      ],
+      "source_ids": [
+        "SRC-0046"
+      ]
+    },
+    {
+      "route_id": "RTE-0078",
+      "army_id": "central",
+      "sequence": 78,
+      "place_id": "PLC-0075",
+      "date": "1935-11-20—24",
+      "start_date": "1935-11-20",
+      "end_date": "1935-11-24",
+      "date_precision": "range",
+      "action": "直罗镇战役",
+      "related_event_ids": [
+        "EVT-075"
+      ],
+      "source_ids": [
+        "SRC-0046"
+      ]
+    },
+    {
+      "route_id": "RTE-0079",
+      "army_id": "central",
+      "sequence": 79,
+      "place_id": "PLC-0076",
+      "date": "1936-10-09会师；10日庆祝大会",
+      "start_date": "1936-10-09",
+      "end_date": "1936-10-09",
+      "date_precision": "day",
+      "action": "红一、红四方面军会师",
+      "related_event_ids": [
+        "EVT-076"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0045",
+        "SRC-0047"
+      ]
+    },
+    {
+      "route_id": "RTE-0079",
+      "army_id": "fourth",
+      "sequence": 79,
+      "place_id": "PLC-0076",
+      "date": "1936-10-09会师；10日庆祝大会",
+      "start_date": "1936-10-09",
+      "end_date": "1936-10-09",
+      "date_precision": "day",
+      "action": "红一、红四方面军会师",
+      "related_event_ids": [
+        "EVT-076"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0045",
+        "SRC-0047"
+      ]
+    },
+    {
+      "route_id": "RTE-0080",
+      "army_id": "central",
+      "sequence": 80,
+      "place_id": "PLC-0077",
+      "date": "1936-10-22",
+      "start_date": "1936-10-22",
+      "end_date": "1936-10-22",
+      "date_precision": "day",
+      "action": "红一、红二方面军会师",
+      "related_event_ids": [
+        "EVT-077"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0045"
+      ]
+    },
+    {
+      "route_id": "RTE-0080",
+      "army_id": "second",
+      "sequence": 80,
+      "place_id": "PLC-0077",
+      "date": "1936-10-22",
+      "start_date": "1936-10-22",
+      "end_date": "1936-10-22",
+      "date_precision": "day",
+      "action": "红一、红二方面军会师",
+      "related_event_ids": [
+        "EVT-077"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0045"
+      ]
+    },
+    {
+      "route_id": "RTE-0081",
+      "army_id": "central",
+      "sequence": 81,
+      "place_id": "PLC-0078",
+      "date": "1936-11-21前后（战斗时段待核）",
+      "start_date": "1936-11-01",
+      "end_date": "1936-11-30",
+      "date_precision": "month",
+      "action": "会师后三大主力协同作战",
+      "related_event_ids": [
+        "EVT-078"
+      ],
+      "source_ids": [
+        "SRC-0047"
+      ]
+    },
+    {
+      "route_id": "RTE-0081",
+      "army_id": "fourth",
+      "sequence": 81,
+      "place_id": "PLC-0078",
+      "date": "1936-11-21前后（战斗时段待核）",
+      "start_date": "1936-11-01",
+      "end_date": "1936-11-30",
+      "date_precision": "month",
+      "action": "会师后三大主力协同作战",
+      "related_event_ids": [
+        "EVT-078"
+      ],
+      "source_ids": [
+        "SRC-0047"
+      ]
+    },
+    {
+      "route_id": "RTE-0082",
+      "army_id": "second",
+      "sequence": 82,
+      "place_id": "PLC-0079",
+      "date": "1934-08-07",
+      "start_date": "1934-08-07",
+      "end_date": "1934-08-07",
+      "date_precision": "day",
+      "action": "红六军团先遣西征出发",
+      "related_event_ids": [
+        "EVT-079"
+      ],
+      "source_ids": [
+        "SRC-0027",
+        "SRC-0049"
+      ]
+    },
+    {
+      "route_id": "RTE-0083",
+      "army_id": "second",
+      "sequence": 83,
+      "place_id": "PLC-0080",
+      "date": "1934-08-12",
+      "start_date": "1934-08-12",
+      "end_date": "1934-08-12",
+      "date_precision": "day",
+      "action": "西征誓师与组织动员",
+      "related_event_ids": [
+        "EVT-080"
+      ],
+      "source_ids": [
+        "SRC-0027"
+      ]
+    },
+    {
+      "route_id": "RTE-0084",
+      "army_id": "second",
+      "sequence": 84,
+      "place_id": "PLC-0081",
+      "date": "1934年9月上旬",
+      "start_date": "1934-09-01",
+      "end_date": "1934-09-30",
+      "date_precision": "month",
+      "action": "红六军团渡湘江和越岭",
+      "related_event_ids": [
+        "EVT-081"
+      ],
+      "source_ids": [
+        "SRC-0027"
+      ]
+    },
+    {
+      "route_id": "RTE-0085",
+      "army_id": "second",
+      "sequence": 85,
+      "place_id": "PLC-0082",
+      "date": "1934-10-24",
+      "start_date": "1934-10-24",
+      "end_date": "1934-10-24",
+      "date_precision": "day",
+      "action": "红六军团与红三军会合",
+      "related_event_ids": [
+        "EVT-082"
+      ],
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0051"
+      ]
+    },
+    {
+      "route_id": "RTE-0086",
+      "army_id": "second",
+      "sequence": 86,
+      "place_id": "PLC-0083",
+      "date": "1934-10-27（大会日主流记载）",
+      "start_date": "1934-10-27",
+      "end_date": "1934-10-27",
+      "date_precision": "day",
+      "action": "红二、红六军团会师大会",
+      "related_event_ids": [
+        "EVT-083"
+      ],
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ]
+    },
+    {
+      "route_id": "RTE-0087",
+      "army_id": "second",
+      "sequence": 87,
+      "place_id": "PLC-0084",
+      "date": "1935-11-19",
+      "start_date": "1935-11-19",
+      "end_date": "1935-11-19",
+      "date_precision": "day",
+      "action": "红二、红六军团突围誓师",
+      "related_event_ids": [
+        "EVT-084"
+      ],
+      "source_ids": [
+        "SRC-0027",
+        "SRC-0051",
+        "SRC-0052"
+      ]
+    },
+    {
+      "route_id": "RTE-0088",
+      "army_id": "second",
+      "sequence": 88,
+      "place_id": "PLC-0085",
+      "date": "1935年11月至12月",
+      "start_date": "1935-11-01",
+      "end_date": "1935-12-31",
+      "date_precision": "range",
+      "action": "南下湘中机动",
+      "related_event_ids": [
+        "EVT-085"
+      ],
+      "source_ids": [
+        "SRC-0027",
+        "SRC-0052"
+      ]
+    },
+    {
+      "route_id": "RTE-0089",
+      "army_id": "second",
+      "sequence": 89,
+      "place_id": "PLC-0086",
+      "date": "1935-12-13—20地域活动；16—17日战斗",
+      "start_date": "1935-12-13",
+      "end_date": "1935-12-20",
+      "date_precision": "range",
+      "action": "鸭田战斗与西进部署",
+      "related_event_ids": [
+        "EVT-086"
+      ],
+      "source_ids": [
+        "SRC-0052"
+      ]
+    },
+    {
+      "route_id": "RTE-0090",
+      "army_id": "second",
+      "sequence": 90,
+      "place_id": "PLC-0087",
+      "date": "1935-12-28/29—1936-01-06/07",
+      "start_date": "1935-12-28",
+      "end_date": "1936-01-07",
+      "date_precision": "range",
+      "action": "芷江境内行军与作战",
+      "related_event_ids": [
+        "EVT-087"
+      ],
+      "source_ids": [
+        "SRC-0053"
+      ]
+    },
+    {
+      "route_id": "RTE-0091",
+      "army_id": "second",
+      "sequence": 91,
+      "place_id": "PLC-0088",
+      "date": "1936年1月",
+      "start_date": "1936-01-01",
+      "end_date": "1936-01-31",
+      "date_precision": "month",
+      "action": "创建新根据地计划与行动",
+      "related_event_ids": [
+        "EVT-088"
+      ],
+      "source_ids": [
+        "SRC-0027",
+        "SRC-0049"
+      ]
+    },
+    {
+      "route_id": "RTE-0092",
+      "army_id": "second",
+      "sequence": 92,
+      "place_id": "PLC-0089",
+      "date": "1936年2月",
+      "start_date": "1936-02-01",
+      "end_date": "1936-02-29",
+      "date_precision": "month",
+      "action": "黔大毕地区活动",
+      "related_event_ids": [
+        "EVT-089"
+      ],
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ]
+    },
+    {
+      "route_id": "RTE-0093",
+      "army_id": "second",
+      "sequence": 93,
+      "place_id": "PLC-0090",
+      "date": "1936-03-02",
+      "start_date": "1936-03-02",
+      "end_date": "1936-03-02",
+      "date_precision": "day",
+      "action": "乌蒙回旋机动",
+      "related_event_ids": [
+        "EVT-090"
+      ],
+      "source_ids": [
+        "SRC-0050"
+      ]
+    },
+    {
+      "route_id": "RTE-0094",
+      "army_id": "second",
+      "sequence": 94,
+      "place_id": "PLC-0091",
+      "date": "1936-03-04",
+      "start_date": "1936-03-04",
+      "end_date": "1936-03-04",
+      "date_precision": "day",
+      "action": "乌蒙回旋机动",
+      "related_event_ids": [
+        "EVT-091"
+      ],
+      "source_ids": [
+        "SRC-0050"
+      ]
+    },
+    {
+      "route_id": "RTE-0095",
+      "army_id": "second",
+      "sequence": 95,
+      "place_id": "PLC-0092",
+      "date": "1936年3月上旬",
+      "start_date": "1936-03-01",
+      "end_date": "1936-03-31",
+      "date_precision": "month",
+      "action": "佯动北渡金沙江",
+      "related_event_ids": [
+        "EVT-092"
+      ],
+      "source_ids": [
+        "SRC-0050"
+      ]
+    },
+    {
+      "route_id": "RTE-0096",
+      "army_id": "second",
+      "sequence": 96,
+      "place_id": "PLC-0093",
+      "date": "1936年3月上中旬",
+      "start_date": "1936-03-01",
+      "end_date": "1936-03-31",
+      "date_precision": "month",
+      "action": "乌蒙回旋反击",
+      "related_event_ids": [
+        "EVT-093"
+      ],
+      "source_ids": [
+        "SRC-0050"
+      ]
+    },
+    {
+      "route_id": "RTE-0097",
+      "army_id": "second",
+      "sequence": 97,
+      "place_id": "PLC-0094",
+      "date": "1936-03-13前后",
+      "start_date": "1936-03-01",
+      "end_date": "1936-03-31",
+      "date_precision": "month",
+      "action": "回旋战中突围部署",
+      "related_event_ids": [
+        "EVT-094"
+      ],
+      "source_ids": [
+        "SRC-0050"
+      ]
+    },
+    {
+      "route_id": "RTE-0098",
+      "army_id": "second",
+      "sequence": 98,
+      "place_id": "PLC-0095",
+      "date": "1936年3月下旬",
+      "start_date": "1936-03-01",
+      "end_date": "1936-03-31",
+      "date_precision": "month",
+      "action": "脱围后休整及路线调整",
+      "related_event_ids": [
+        "EVT-095"
+      ],
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ]
+    },
+    {
+      "route_id": "RTE-0099",
+      "army_id": "second",
+      "sequence": 99,
+      "place_id": "PLC-0096",
+      "date": "1936年4月25—28日前后",
+      "start_date": "1936-04-01",
+      "end_date": "1936-04-30",
+      "date_precision": "month",
+      "action": "红二、红六军团渡金沙江",
+      "related_event_ids": [
+        "EVT-096"
+      ],
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0054"
+      ]
+    },
+    {
+      "route_id": "RTE-0100",
+      "army_id": "second",
+      "sequence": 100,
+      "place_id": "PLC-0097",
+      "date": "1936年5月上旬",
+      "start_date": "1936-05-01",
+      "end_date": "1936-05-31",
+      "date_precision": "month",
+      "action": "休整后分路北上",
+      "related_event_ids": [
+        "EVT-097"
+      ],
+      "source_ids": [
+        "SRC-0048"
+      ]
+    },
+    {
+      "route_id": "RTE-0101",
+      "army_id": "second",
+      "sequence": 101,
+      "place_id": "PLC-0098",
+      "date": "1936年5月至6月初",
+      "start_date": "1936-05-01",
+      "end_date": "1936-06-30",
+      "date_precision": "range",
+      "action": "红六军团越雪山接应会合",
+      "related_event_ids": [
+        "EVT-098"
+      ],
+      "source_ids": [
+        "SRC-0048"
+      ]
+    },
+    {
+      "route_id": "RTE-0102",
+      "army_id": "second",
+      "sequence": 102,
+      "place_id": "PLC-0099",
+      "date": "1936年6月下旬",
+      "start_date": "1936-06-01",
+      "end_date": "1936-06-30",
+      "date_precision": "month",
+      "action": "红二军团左路到达白玉",
+      "related_event_ids": [
+        "EVT-099"
+      ],
+      "source_ids": [
+        "SRC-0048"
+      ]
+    },
+    {
+      "route_id": "RTE-0103",
+      "army_id": "second",
+      "sequence": 103,
+      "place_id": "PLC-0100",
+      "date": "1936年6月下旬—7月初；组建7月5日待专核",
+      "start_date": "1936-06-01",
+      "end_date": "1936-07-31",
+      "date_precision": "range",
+      "action": "红二、红六军团与红四方面军会师",
+      "related_event_ids": [
+        "EVT-100"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0048",
+        "SRC-0049"
+      ]
+    },
+    {
+      "route_id": "RTE-0103",
+      "army_id": "fourth",
+      "sequence": 103,
+      "place_id": "PLC-0100",
+      "date": "1936年6月下旬—7月初；组建7月5日待专核",
+      "start_date": "1936-06-01",
+      "end_date": "1936-07-31",
+      "date_precision": "range",
+      "action": "红二、红六军团与红四方面军会师",
+      "related_event_ids": [
+        "EVT-100"
+      ],
+      "source_ids": [
+        "SRC-0036",
+        "SRC-0048",
+        "SRC-0049"
+      ]
+    },
+    {
+      "route_id": "RTE-0104",
+      "army_id": "second",
+      "sequence": 104,
+      "place_id": "PLC-0101",
+      "date": "1936年7月底—8月",
+      "start_date": "1936-07-01",
+      "end_date": "1936-08-31",
+      "date_precision": "range",
+      "action": "分梯队北上过草地",
+      "related_event_ids": [
+        "EVT-101"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0105",
+      "army_id": "second",
+      "sequence": 105,
+      "place_id": "PLC-0102",
+      "date": "1936年8月下旬",
+      "start_date": "1936-08-01",
+      "end_date": "1936-08-31",
+      "date_precision": "month",
+      "action": "出草地后集结休整",
+      "related_event_ids": [
+        "EVT-102"
+      ],
+      "source_ids": [
+        "SRC-0055"
+      ]
+    },
+    {
+      "route_id": "RTE-0106",
+      "army_id": "second",
+      "sequence": 106,
+      "place_id": "PLC-0103",
+      "date": "1936年9月起（11日部署）",
+      "start_date": "1936-09-01",
+      "end_date": "1936-09-30",
+      "date_precision": "month",
+      "action": "成徽两康战役",
+      "related_event_ids": [
+        "EVT-103"
+      ],
+      "source_ids": [
+        "SRC-0055"
+      ]
+    },
+    {
+      "route_id": "RTE-0107",
+      "army_id": "second",
+      "sequence": 107,
+      "place_id": "PLC-0104",
+      "date": "1936年10月",
+      "start_date": "1936-10-01",
+      "end_date": "1936-10-31",
+      "date_precision": "month",
+      "action": "北进渭河突围",
+      "related_event_ids": [
+        "EVT-104"
+      ],
+      "source_ids": [
+        "SRC-0055"
+      ]
+    },
+    {
+      "route_id": "RTE-0108",
+      "army_id": "second",
+      "sequence": 108,
+      "place_id": "PLC-0105",
+      "date": "1935年12月至1936年初",
+      "start_date": "1935-12-01",
+      "end_date": null,
+      "date_precision": "range",
+      "action": "后卫部队分路突围",
+      "related_event_ids": [
+        "EVT-105"
+      ],
+      "source_ids": [
+        "SRC-0051"
+      ]
+    },
+    {
+      "route_id": "RTE-0109",
+      "army_id": "fourth",
+      "sequence": 109,
+      "place_id": "PLC-0106",
+      "date": "1935-03-28起",
+      "start_date": "1935-03-28",
+      "end_date": null,
+      "date_precision": "range",
+      "action": "强渡嘉陵江",
+      "related_event_ids": [
+        "EVT-106"
+      ],
+      "source_ids": [
+        "SRC-0056",
+        "SRC-0057",
+        "SRC-0058"
+      ]
+    },
+    {
+      "route_id": "RTE-0110",
+      "army_id": "fourth",
+      "sequence": 110,
+      "place_id": "PLC-0107",
+      "date": "1935年3月底",
+      "start_date": "1935-03-01",
+      "end_date": "1935-03-31",
+      "date_precision": "month",
+      "action": "第九军渡嘉陵江",
+      "related_event_ids": [
+        "EVT-107"
+      ],
+      "source_ids": [
+        "SRC-0058"
+      ]
+    },
+    {
+      "route_id": "RTE-0111",
+      "army_id": "fourth",
+      "sequence": 111,
+      "place_id": "PLC-0108",
+      "date": "1935年4月初",
+      "start_date": "1935-04-01",
+      "end_date": "1935-04-30",
+      "date_precision": "month",
+      "action": "嘉陵江战役纵深作战",
+      "related_event_ids": [
+        "EVT-108"
+      ],
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ]
+    },
+    {
+      "route_id": "RTE-0112",
+      "army_id": "fourth",
+      "sequence": 112,
+      "place_id": "PLC-0109",
+      "date": "1935年4月",
+      "start_date": "1935-04-01",
+      "end_date": "1935-04-30",
+      "date_precision": "month",
+      "action": "川北纵深作战",
+      "related_event_ids": [
+        "EVT-109"
+      ],
+      "source_ids": [
+        "SRC-0057"
+      ]
+    },
+    {
+      "route_id": "RTE-0113",
+      "army_id": "fourth",
+      "sequence": 113,
+      "place_id": "PLC-0110",
+      "date": "1935年4月",
+      "start_date": "1935-04-01",
+      "end_date": "1935-04-30",
+      "date_precision": "month",
+      "action": "红三十军等北翼行动",
+      "related_event_ids": [
+        "EVT-110"
+      ],
+      "source_ids": [
+        "SRC-0057"
+      ]
+    },
+    {
+      "route_id": "RTE-0114",
+      "army_id": "fourth",
+      "sequence": 114,
+      "place_id": "PLC-0111",
+      "date": "1935年5月至7月",
+      "start_date": "1935-05-01",
+      "end_date": "1935-07-31",
+      "date_precision": "range",
+      "action": "土门战役与西进岷江",
+      "related_event_ids": [
+        "EVT-111"
+      ],
+      "source_ids": [
+        "SRC-0056",
+        "SRC-0057"
+      ]
+    },
+    {
+      "route_id": "RTE-0115",
+      "army_id": "fourth",
+      "sequence": 115,
+      "place_id": "PLC-0112",
+      "date": "1935年8月至9月",
+      "start_date": "1935-08-01",
+      "end_date": "1935-09-30",
+      "date_precision": "range",
+      "action": "左路军北上及随后南返",
+      "related_event_ids": [
+        "EVT-112"
+      ],
+      "source_ids": [
+        "SRC-0048"
+      ]
+    },
+    {
+      "route_id": "RTE-0116",
+      "army_id": "fourth",
+      "sequence": 116,
+      "place_id": "PLC-0113",
+      "date": "1935年秋",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "action": "南下过程中的另立中央相关会议",
+      "related_event_ids": [
+        "EVT-113"
+      ],
+      "source_ids": [
+        "SRC-0048"
+      ]
+    },
+    {
+      "route_id": "RTE-0117",
+      "army_id": "fourth",
+      "sequence": 117,
+      "place_id": "PLC-0114",
+      "date": "1935-10-08—20（战役范围）",
+      "start_date": "1935-10-08",
+      "end_date": "1935-10-20",
+      "date_precision": "range",
+      "action": "绥崇丹懋战役",
+      "related_event_ids": [
+        "EVT-114"
+      ],
+      "source_ids": [
+        "SRC-0056",
+        "SRC-0059"
+      ]
+    },
+    {
+      "route_id": "RTE-0118",
+      "army_id": "fourth",
+      "sequence": 118,
+      "place_id": "PLC-0115",
+      "date": "1935年11月；19—25日为常见激战口径",
+      "start_date": "1935-11-01",
+      "end_date": "1935-11-30",
+      "date_precision": "month",
+      "action": "百丈关战役",
+      "related_event_ids": [
+        "EVT-115"
+      ],
+      "source_ids": [
+        "SRC-0048",
+        "SRC-0059"
+      ]
+    },
+    {
+      "route_id": "RTE-0119",
+      "army_id": "fourth",
+      "sequence": 119,
+      "place_id": "PLC-0116",
+      "date": "1935年冬—1936年2月",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "action": "南下后休整与转移",
+      "related_event_ids": [
+        "EVT-116"
+      ],
+      "source_ids": [
+        "SRC-0056",
+        "SRC-0060"
+      ]
+    },
+    {
+      "route_id": "RTE-0120",
+      "army_id": "fourth",
+      "sequence": 120,
+      "place_id": "PLC-0117",
+      "date": "1936年2月至3月前后",
+      "start_date": "1936-02-01",
+      "end_date": "1936-03-31",
+      "date_precision": "range",
+      "action": "红四方面军西转越雪山",
+      "related_event_ids": [
+        "EVT-117"
+      ],
+      "source_ids": [
+        "SRC-0048",
+        "SRC-0060"
+      ]
+    },
+    {
+      "route_id": "RTE-0121",
+      "army_id": "fourth",
+      "sequence": 121,
+      "place_id": "PLC-0118",
+      "date": "1936年春至夏",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "action": "康北转移与接应红二、红六军团",
+      "related_event_ids": [
+        "EVT-118"
+      ],
+      "source_ids": [
+        "SRC-0056",
+        "SRC-0060"
+      ]
+    },
+    {
+      "route_id": "RTE-0122",
+      "army_id": "fourth",
+      "sequence": 122,
+      "place_id": "PLC-0119",
+      "date": "1936年7月",
+      "start_date": "1936-07-01",
+      "end_date": "1936-07-31",
+      "date_precision": "month",
+      "action": "1936年分纵队北上",
+      "related_event_ids": [
+        "EVT-119"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0122",
+      "army_id": "second",
+      "sequence": 122,
+      "place_id": "PLC-0119",
+      "date": "1936年7月",
+      "start_date": "1936-07-01",
+      "end_date": "1936-07-31",
+      "date_precision": "month",
+      "action": "1936年分纵队北上",
+      "related_event_ids": [
+        "EVT-119"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0123",
+      "army_id": "fourth",
+      "sequence": 123,
+      "place_id": "PLC-0120",
+      "date": "1936年7月",
+      "start_date": "1936-07-01",
+      "end_date": "1936-07-31",
+      "date_precision": "month",
+      "action": "1936年右纵队越岭过草地",
+      "related_event_ids": [
+        "EVT-120"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0123",
+      "army_id": "second",
+      "sequence": 123,
+      "place_id": "PLC-0120",
+      "date": "1936年7月",
+      "start_date": "1936-07-01",
+      "end_date": "1936-07-31",
+      "date_precision": "month",
+      "action": "1936年右纵队越岭过草地",
+      "related_event_ids": [
+        "EVT-120"
+      ],
+      "source_ids": [
+        "SRC-0043"
+      ]
+    },
+    {
+      "route_id": "RTE-0124",
+      "army_id": "fourth",
+      "sequence": 124,
+      "place_id": "PLC-0121",
+      "date": "1936年8月上旬",
+      "start_date": "1936-08-01",
+      "end_date": "1936-08-31",
+      "date_precision": "month",
+      "action": "出草地后川甘边集结",
+      "related_event_ids": [
+        "EVT-121"
+      ],
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0055"
+      ]
+    },
+    {
+      "route_id": "RTE-0125",
+      "army_id": "fourth",
+      "sequence": 125,
+      "place_id": "PLC-0122",
+      "date": "1936年8月起",
+      "start_date": "1936-08-01",
+      "end_date": "1936-08-31",
+      "date_precision": "month",
+      "action": "岷洮西战役",
+      "related_event_ids": [
+        "EVT-122"
+      ],
+      "source_ids": [
+        "SRC-0048",
+        "SRC-0055"
+      ]
+    },
+    {
+      "route_id": "RTE-0125",
+      "army_id": "second",
+      "sequence": 125,
+      "place_id": "PLC-0122",
+      "date": "1936年8月起",
+      "start_date": "1936-08-01",
+      "end_date": "1936-08-31",
+      "date_precision": "month",
+      "action": "岷洮西战役",
+      "related_event_ids": [
+        "EVT-122"
+      ],
+      "source_ids": [
+        "SRC-0048",
+        "SRC-0055"
+      ]
+    },
+    {
+      "route_id": "RTE-0126",
+      "army_id": "fourth",
+      "sequence": 126,
+      "place_id": "PLC-0123",
+      "date": "1936年8月至10月（分队）",
+      "start_date": "1936-08-01",
+      "end_date": "1936-10-31",
+      "date_precision": "range",
+      "action": "红三十一军等渡渭河与留驻",
+      "related_event_ids": [
+        "EVT-123"
+      ],
+      "source_ids": [
+        "SRC-0057"
+      ]
+    },
+    {
+      "route_id": "RTE-0127",
+      "army_id": "twentyfive",
+      "sequence": 127,
+      "place_id": "PLC-0124",
+      "date": "1934-11-11",
+      "start_date": "1934-11-11",
+      "end_date": "1934-11-11",
+      "date_precision": "day",
+      "action": "鄂豫皖省委常委会议决定战略转移",
+      "related_event_ids": [
+        "EVT-124"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0128",
+      "army_id": "twentyfive",
+      "sequence": 128,
+      "place_id": "PLC-0125",
+      "date": "1934-11-16",
+      "start_date": "1934-11-16",
+      "end_date": "1934-11-16",
+      "date_precision": "day",
+      "action": "红二十五军长征出发",
+      "related_event_ids": [
+        "EVT-125"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062",
+        "SRC-0064"
+      ]
+    },
+    {
+      "route_id": "RTE-0129",
+      "army_id": "twentyfive",
+      "sequence": 129,
+      "place_id": "PLC-0126",
+      "date": "1934-11-17夜",
+      "start_date": "1934-11-17",
+      "end_date": "1934-11-17",
+      "date_precision": "day",
+      "action": "越过平汉铁路",
+      "related_event_ids": [
+        "EVT-126"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0130",
+      "army_id": "twentyfive",
+      "sequence": 130,
+      "place_id": "PLC-0127",
+      "date": "1934-11-19—23前后",
+      "start_date": "1934-11-01",
+      "end_date": "1934-11-30",
+      "date_precision": "month",
+      "action": "选择根据地与佯动突围",
+      "related_event_ids": [
+        "EVT-127"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0131",
+      "army_id": "twentyfive",
+      "sequence": 131,
+      "place_id": "PLC-0128",
+      "date": "1934-11-26—27",
+      "start_date": "1934-11-26",
+      "end_date": "1934-11-27",
+      "date_precision": "range",
+      "action": "独树镇战斗及突围",
+      "related_event_ids": [
+        "EVT-128"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0132",
+      "army_id": "twentyfive",
+      "sequence": 132,
+      "place_id": "PLC-0129",
+      "date": "1934-11-26夜—27拂晓",
+      "start_date": "1934-11-26",
+      "end_date": "1934-11-27",
+      "date_precision": "range",
+      "action": "绕行突破许南公路",
+      "related_event_ids": [
+        "EVT-129"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0133",
+      "army_id": "twentyfive",
+      "sequence": 133,
+      "place_id": "PLC-0130",
+      "date": "1934年11月底",
+      "start_date": "1934-11-01",
+      "end_date": "1934-11-30",
+      "date_precision": "month",
+      "action": "进入伏牛山",
+      "related_event_ids": [
+        "EVT-130"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0134",
+      "army_id": "twentyfive",
+      "sequence": 134,
+      "place_id": "PLC-0131",
+      "date": "1934年12月上旬；8日入陕口径",
+      "start_date": "1934-12-01",
+      "end_date": "1934-12-31",
+      "date_precision": "month",
+      "action": "向导带路绕过朱阳关",
+      "related_event_ids": [
+        "EVT-131"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0135",
+      "army_id": "twentyfive",
+      "sequence": 135,
+      "place_id": "PLC-0132",
+      "date": "1934-12-09到达／9或10日会议记载待核",
+      "start_date": "1934-12-09",
+      "end_date": "1934-12-09",
+      "date_precision": "day",
+      "action": "省委会议与庾家河战斗",
+      "related_event_ids": [
+        "EVT-132"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0136",
+      "army_id": "twentyfive",
+      "sequence": 136,
+      "place_id": "PLC-0133",
+      "date": "1934年12月中旬",
+      "start_date": "1934-12-01",
+      "end_date": "1934-12-31",
+      "date_precision": "month",
+      "action": "战后整编休整",
+      "related_event_ids": [
+        "EVT-133"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0137",
+      "army_id": "twentyfive",
+      "sequence": 137,
+      "place_id": "PLC-0134",
+      "date": "1935年1月",
+      "start_date": "1935-01-01",
+      "end_date": "1935-01-31",
+      "date_precision": "month",
+      "action": "镇安作战与反围剿",
+      "related_event_ids": [
+        "EVT-134"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0138",
+      "army_id": "twentyfive",
+      "sequence": 138,
+      "place_id": "PLC-0135",
+      "date": "1934年底—1935年多次；2月19日会议",
+      "start_date": "1934-12-01",
+      "end_date": "1935-12-31",
+      "date_precision": "range",
+      "action": "鄂陕边回旋与会议",
+      "related_event_ids": [
+        "EVT-135"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0139",
+      "army_id": "twentyfive",
+      "sequence": 139,
+      "place_id": "PLC-0136",
+      "date": "1935-03-10前后",
+      "start_date": "1935-03-01",
+      "end_date": "1935-03-31",
+      "date_precision": "month",
+      "action": "华阳伏击战与根据地建设",
+      "related_event_ids": [
+        "EVT-136"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0140",
+      "army_id": "twentyfive",
+      "sequence": 140,
+      "place_id": "PLC-0137",
+      "date": "1935年4月前后",
+      "start_date": "1935-04-01",
+      "end_date": "1935-04-30",
+      "date_precision": "month",
+      "action": "反围剿与葛牌会议",
+      "related_event_ids": [
+        "EVT-137"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0141",
+      "army_id": "twentyfive",
+      "sequence": 141,
+      "place_id": "PLC-0138",
+      "date": "1935-05-04前后",
+      "start_date": "1935-05-01",
+      "end_date": "1935-05-31",
+      "date_precision": "month",
+      "action": "攻占及整训",
+      "related_event_ids": [
+        "EVT-138"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0142",
+      "army_id": "twentyfive",
+      "sequence": 142,
+      "place_id": "PLC-0139",
+      "date": "1935年6月中旬",
+      "start_date": "1935-06-01",
+      "end_date": "1935-06-30",
+      "date_precision": "month",
+      "action": "外线作战及远程奔袭",
+      "related_event_ids": [
+        "EVT-139"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0143",
+      "army_id": "twentyfive",
+      "sequence": 143,
+      "place_id": "PLC-0140",
+      "date": "1935-07-02",
+      "start_date": "1935-07-02",
+      "end_date": "1935-07-02",
+      "date_precision": "day",
+      "action": "伏击敌军",
+      "related_event_ids": [
+        "EVT-140"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0144",
+      "army_id": "twentyfive",
+      "sequence": 144,
+      "place_id": "PLC-0141",
+      "date": "1935-07-15会议；16日出发",
+      "start_date": "1935-07-15",
+      "end_date": "1935-07-15",
+      "date_precision": "day",
+      "action": "决定西征北上",
+      "related_event_ids": [
+        "EVT-141"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062",
+        "SRC-0063"
+      ]
+    },
+    {
+      "route_id": "RTE-0145",
+      "army_id": "twentyfive",
+      "sequence": 145,
+      "place_id": "PLC-0142",
+      "date": "1935年7月下旬（25／27日差异）",
+      "start_date": "1935-07-01",
+      "end_date": "1935-07-31",
+      "date_precision": "month",
+      "action": "击溃民团、休整整编",
+      "related_event_ids": [
+        "EVT-142"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0063"
+      ]
+    },
+    {
+      "route_id": "RTE-0146",
+      "army_id": "twentyfive",
+      "sequence": 146,
+      "place_id": "PLC-0143",
+      "date": "1935-07-31前后",
+      "start_date": "1935-07-01",
+      "end_date": "1935-07-31",
+      "date_precision": "month",
+      "action": "占领川陕公路要地",
+      "related_event_ids": [
+        "EVT-143"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0147",
+      "army_id": "twentyfive",
+      "sequence": 147,
+      "place_id": "PLC-0144",
+      "date": "1935年8月上旬；9日天水北关口径",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "攻占两当、牵制天水守军",
+      "related_event_ids": [
+        "EVT-144"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0148",
+      "army_id": "twentyfive",
+      "sequence": 148,
+      "place_id": "PLC-0145",
+      "date": "1935-08-14—17前后",
+      "start_date": "1935-08-01",
+      "end_date": "1935-08-31",
+      "date_precision": "month",
+      "action": "切断西兰公路与民族工作",
+      "related_event_ids": [
+        "EVT-145"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0149",
+      "army_id": "twentyfive",
+      "sequence": 149,
+      "place_id": "PLC-0146",
+      "date": "1935-08-21",
+      "start_date": "1935-08-21",
+      "end_date": "1935-08-21",
+      "date_precision": "day",
+      "action": "四坡村战斗、吴焕先牺牲",
+      "related_event_ids": [
+        "EVT-146"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0150",
+      "army_id": "twentyfive",
+      "sequence": 150,
+      "place_id": "PLC-0147",
+      "date": "1935-08-31夜",
+      "start_date": "1935-08-31",
+      "end_date": "1935-08-31",
+      "date_precision": "day",
+      "action": "渡泾河北进",
+      "related_event_ids": [
+        "EVT-147"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0151",
+      "army_id": "twentyfive",
+      "sequence": 151,
+      "place_id": "PLC-0148",
+      "date": "1935-09-03宿营；4日战斗",
+      "start_date": "1935-09-03",
+      "end_date": "1935-09-03",
+      "date_precision": "day",
+      "action": "板桥战斗",
+      "related_event_ids": [
+        "EVT-148"
+      ],
+      "source_ids": [
+        "SRC-0061"
+      ]
+    },
+    {
+      "route_id": "RTE-0152",
+      "army_id": "twentyfive",
+      "sequence": 152,
+      "place_id": "PLC-0149",
+      "date": "1935-09-07",
+      "start_date": "1935-09-07",
+      "end_date": "1935-09-07",
+      "date_precision": "day",
+      "action": "省委会议及会师前动员",
+      "related_event_ids": [
+        "EVT-149"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ]
+    },
+    {
+      "route_id": "RTE-0153",
+      "army_id": "twentyfive",
+      "sequence": 153,
+      "place_id": "PLC-0150",
+      "date": "1935-09-15抵达；16日会师口径",
+      "start_date": "1935-09-15",
+      "end_date": "1935-09-15",
+      "date_precision": "day",
+      "action": "红二十五军与红二十六、二十七军会师",
+      "related_event_ids": [
+        "EVT-150"
+      ],
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062",
+        "SRC-0065"
+      ]
+    },
+    {
+      "route_id": "RTE-0154",
+      "army_id": "central",
+      "sequence": 154,
+      "place_id": "PLC-0151",
+      "date": "1935年1月中旬",
+      "start_date": "1935-01-01",
+      "end_date": "1935-01-31",
+      "date_precision": "month",
+      "action": "北翼警戒与保卫遵义会议",
+      "related_event_ids": [
+        "EVT-151"
+      ],
+      "source_ids": [
+        "SRC-0051"
+      ]
+    },
+    {
+      "route_id": "RTE-0155",
+      "army_id": "central",
+      "sequence": 155,
+      "place_id": "PLC-0152",
+      "date": "1935-01-21—22",
+      "start_date": "1935-01-21",
+      "end_date": "1935-01-22",
+      "date_precision": "range",
+      "action": "红一军团驻扎石壕并西进",
+      "related_event_ids": [
+        "EVT-152"
+      ],
+      "source_ids": [
+        "SRC-0051"
+      ]
+    },
+    {
+      "route_id": "RTE-0156",
+      "army_id": "central",
+      "sequence": 156,
+      "place_id": "PLC-0153",
+      "date": "1935-02-15—16",
+      "start_date": "1935-02-15",
+      "end_date": "1935-02-16",
+      "date_precision": "range",
+      "action": "白沙会议及回师黔北部署",
+      "related_event_ids": [
+        "EVT-153"
+      ],
+      "source_ids": [
+        "SRC-0076"
+      ]
+    },
+    {
+      "route_id": "RTE-0157",
+      "army_id": "second",
+      "sequence": 157,
+      "place_id": "PLC-0154",
+      "date": "1936-06-03（来源记载）",
+      "start_date": "1936-06-03",
+      "end_date": "1936-06-03",
+      "date_precision": "day",
+      "action": "先头接应会合",
+      "related_event_ids": [
+        "EVT-154"
+      ],
+      "source_ids": [
+        "SRC-0075"
+      ]
+    },
+    {
+      "route_id": "RTE-0157",
+      "army_id": "fourth",
+      "sequence": 157,
+      "place_id": "PLC-0154",
+      "date": "1936-06-03（来源记载）",
+      "start_date": "1936-06-03",
+      "end_date": "1936-06-03",
+      "date_precision": "day",
+      "action": "先头接应会合",
+      "related_event_ids": [
+        "EVT-154"
+      ],
+      "source_ids": [
+        "SRC-0075"
+      ]
+    },
+    {
+      "route_id": "RTE-0158",
+      "army_id": "second",
+      "sequence": 158,
+      "place_id": "PLC-0155",
+      "date": "1936-06-30（来源记载）",
+      "start_date": "1936-06-30",
+      "end_date": "1936-06-30",
+      "date_precision": "day",
+      "action": "红二军团接应会合",
+      "related_event_ids": [
+        "EVT-155"
+      ],
+      "source_ids": [
+        "SRC-0075"
+      ]
+    },
+    {
+      "route_id": "RTE-0158",
+      "army_id": "fourth",
+      "sequence": 158,
+      "place_id": "PLC-0155",
+      "date": "1936-06-30（来源记载）",
+      "start_date": "1936-06-30",
+      "end_date": "1936-06-30",
+      "date_precision": "day",
+      "action": "红二军团接应会合",
+      "related_event_ids": [
+        "EVT-155"
+      ],
+      "source_ids": [
+        "SRC-0075"
+      ]
+    },
+    {
+      "route_id": "RTE-0159",
+      "army_id": "fourth",
+      "sequence": 159,
+      "place_id": "PLC-0156",
+      "date": "1936年10月下旬（23日抵达，战斗起讫待核）",
+      "start_date": "1936-10-01",
+      "end_date": "1936-10-31",
+      "date_precision": "month",
+      "action": "大墩梁阻击战",
+      "related_event_ids": [
+        "EVT-156"
+      ],
+      "source_ids": [
+        "SRC-0077"
+      ]
+    }
+  ],
+  "segments": [
+    {
+      "id": "DIR-central-16-17",
+      "army_id": "central",
+      "from_place_id": "PLC-0016",
+      "to_place_id": "PLC-0017",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.68749,
+            26.24389
+          ],
+          [
+            109.03934,
+            26.206
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0033"
+      ],
+      "evidence_locator": "通道、黎平会议两段，战略方向转向贵州",
+      "display_style": "dashed",
+      "start_date": "1934-12-12",
+      "reveal_date": "1934-12-18",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-central-17-18",
+      "army_id": "central",
+      "from_place_id": "PLC-0017",
+      "to_place_id": "PLC-0018",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.03934,
+            26.206
+          ],
+          [
+            107.40636,
+            27.14594
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0033"
+      ],
+      "evidence_locator": "黎平、猴场会议两段，会议前奏次序",
+      "display_style": "dashed",
+      "start_date": "1934-12-18",
+      "reveal_date": "1935-01-01",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-central-18-20",
+      "army_id": "central",
+      "from_place_id": "PLC-0018",
+      "to_place_id": "PLC-0020",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.40636,
+            27.14594
+          ],
+          [
+            106.90722,
+            27.68667
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0032",
+        "SRC-0033"
+      ],
+      "evidence_locator": "猴场会议后北渡乌江、进遵义",
+      "display_style": "dashed",
+      "start_date": "1934-12-31",
+      "reveal_date": "1935-01-17",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-central-49-53",
+      "army_id": "central",
+      "from_place_id": "PLC-0049",
+      "to_place_id": "PLC-0053",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.234,
+            29.914
+          ],
+          [
+            102.49419,
+            31.14288
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0041"
+      ],
+      "evidence_locator": "第三、四节，夺泸定桥后翻夹金山至懋功；中间山口未定位",
+      "display_style": "dashed",
+      "start_date": "1935-05-29",
+      "reveal_date": "1935-06-30",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-central-63-65",
+      "army_id": "central",
+      "from_place_id": "PLC-0063",
+      "to_place_id": "PLC-0065",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.5502,
+            33.99057
+          ],
+          [
+            104.4303,
+            33.96241
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "evidence_locator": "俄界、哈达铺两节，9月13日出发经腊子口北上",
+      "display_style": "dashed",
+      "start_date": "1935-09-12",
+      "reveal_date": "1935-09-20",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-central-65-66",
+      "army_id": "central",
+      "from_place_id": "PLC-0065",
+      "to_place_id": "PLC-0066",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.4303,
+            33.96241
+          ],
+          [
+            105.18532,
+            35.21175
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "evidence_locator": "榜罗镇节，离开哈达铺后渡渭河到榜罗镇",
+      "display_style": "dashed",
+      "start_date": "1935-09-18",
+      "reveal_date": "1935-09-27",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-central-66-72",
+      "army_id": "central",
+      "from_place_id": "PLC-0066",
+      "to_place_id": "PLC-0072",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.18532,
+            35.21175
+          ],
+          [
+            108.17171,
+            36.92631
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0042"
+      ],
+      "evidence_locator": "榜罗镇节末，经静宁、隆德、六盘山到吴起；不是直达路径",
+      "display_style": "dashed",
+      "start_date": "1935-09-27",
+      "reveal_date": "1935-10-19",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-twentyfive-125-128",
+      "army_id": "twentyfive",
+      "from_place_id": "PLC-0125",
+      "to_place_id": "PLC-0128",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.43589,
+            32.02022
+          ],
+          [
+            113.05379,
+            33.30227
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "evidence_locator": "出发节：何家冲经桐柏山区到独树镇，过境细路未定位",
+      "display_style": "dashed",
+      "start_date": "1934-11-16",
+      "reveal_date": "1934-11-27",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-twentyfive-142-143",
+      "army_id": "twentyfive",
+      "from_place_id": "PLC-0142",
+      "to_place_id": "PLC-0143",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.95333,
+            33.59111
+          ],
+          [
+            106.77,
+            34.01472
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0061"
+      ],
+      "evidence_locator": "西征北上节：江口休整后进入双石铺；江口日程差异保留",
+      "display_style": "dashed",
+      "start_date": "1935-07-01",
+      "reveal_date": "1935-07-31",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-twentyfive-143-144",
+      "army_id": "twentyfive",
+      "from_place_id": "PLC-0143",
+      "to_place_id": "PLC-0144",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.77,
+            34.01472
+          ],
+          [
+            105.74238,
+            34.57952
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0061"
+      ],
+      "evidence_locator": "西征北上节：双石铺后经两当、麦积山到天水",
+      "display_style": "dashed",
+      "start_date": "1935-07-01",
+      "reveal_date": "1935-08-31",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-twentyfive-144-146",
+      "army_id": "twentyfive",
+      "from_place_id": "PLC-0144",
+      "to_place_id": "PLC-0146",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.74238,
+            34.57952
+          ],
+          [
+            107.43136,
+            35.34809
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0061"
+      ],
+      "evidence_locator": "天水后经静宁兴隆镇到泾川四坡；中间停驻未定位",
+      "display_style": "dashed",
+      "start_date": "1935-08-01",
+      "reveal_date": "1935-08-21",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-fourth-106-109",
+      "army_id": "fourth",
+      "from_place_id": "PLC-0106",
+      "to_place_id": "PLC-0109",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.04278,
+            31.92032
+          ],
+          [
+            104.86212,
+            31.89905
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0058"
+      ],
+      "evidence_locator": "实现懋功会师节：嘉陵江后向梓潼、江油发展，分路不得合为全军精确线",
+      "display_style": "dashed",
+      "start_date": "1935-03-28",
+      "reveal_date": "1935-04-30",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-fourth-109-111",
+      "army_id": "fourth",
+      "from_place_id": "PLC-0109",
+      "to_place_id": "PLC-0111",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.86212,
+            31.89905
+          ],
+          [
+            103.64464,
+            31.85668
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0058"
+      ],
+      "evidence_locator": "实现懋功会师节：由江油地区经北川河谷至茂县",
+      "display_style": "dashed",
+      "start_date": "1935-04-01",
+      "reveal_date": "1935-07-31",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-fourth-111-53",
+      "army_id": "fourth",
+      "from_place_id": "PLC-0111",
+      "to_place_id": "PLC-0053",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.64464,
+            31.85668
+          ],
+          [
+            102.49419,
+            31.14288
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0058"
+      ],
+      "evidence_locator": "实现懋功会师节：茂县派第30、第9军一部南进接应中央红军，仅为接应部队",
+      "display_style": "dashed",
+      "start_date": "1935-05-01",
+      "reveal_date": "1935-06-30",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-second-84-87",
+      "army_id": "second",
+      "from_place_id": "PLC-0084",
+      "to_place_id": "PLC-0087",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.188,
+            29.52488
+          ],
+          [
+            109.59047,
+            27.35029
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0027",
+        "SRC-0053"
+      ],
+      "evidence_locator": "桑植突围后至芷江地域；两军团入出境日不同",
+      "display_style": "dashed",
+      "start_date": "1935-11-19",
+      "reveal_date": "1936-01-07",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-second-87-89",
+      "army_id": "second",
+      "from_place_id": "PLC-0087",
+      "to_place_id": "PLC-0089",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.59047,
+            27.35029
+          ],
+          [
+            105.35603,
+            27.44935
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0049"
+      ],
+      "evidence_locator": "三次改变战略计划节：便水之后西移黔大毕",
+      "display_style": "dashed",
+      "start_date": "1935-12-28",
+      "reveal_date": "1936-02-29",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    },
+    {
+      "id": "DIR-second-89-95",
+      "army_id": "second",
+      "from_place_id": "PLC-0089",
+      "to_place_id": "PLC-0095",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.35603,
+            27.44935
+          ],
+          [
+            104.6031,
+            25.8678
+          ]
+        ]
+      },
+      "geometry_confidence": "regional-direction-only",
+      "source_ids": [
+        "SRC-0049"
+      ],
+      "evidence_locator": "三次改变战略计划节：乌蒙回旋后进盘县，非直达或精确回旋轨迹",
+      "display_style": "dashed",
+      "start_date": "1936-02-01",
+      "reveal_date": "1936-03-31",
+      "verification_status": "pending",
+      "note": "区域间行进方向示意，非具体行军路线；中间停驻、分路和历史确址仍待核验。"
+    }
+  ]
+}

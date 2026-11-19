@@ -1,0 +1,85 @@
+/* 沿用现有展墙、书法标题、宋体、纸面和暗红分析区，只扩展专题编排。 */
+.campaign-open{display:flex;align-items:center;justify-content:space-between;width:100%;border:0;border-bottom:1px solid #a78b59;background:none;color:#7d382c;padding:12px 0;margin:12px 0;min-height:44px;font:14px/1.8 var(--serif);cursor:pointer}
+.campaign-open:hover{color:#4b302a}
+.campaign-open:focus-visible{outline:2px solid #8b4d30;outline-offset:3px}
+.exhibition-catalogue{margin:16px 0;font:13px/1.8 var(--serif);color:#735139}
+.exhibition-catalogue summary{cursor:pointer;min-height:44px;padding:10px 0;color:#773d30}
+.exhibition-catalogue button{display:block;width:100%;text-align:left;padding:10px 0;border:0;background:none;color:#573c2b;cursor:pointer;font:14px/1.7 var(--serif)}
+.exhibition-catalogue button:hover{color:#8b3327}
+.exhibition-catalogue small{display:block;font-size:11px;color:#78654d}
+.event-exhibition[data-long-title=true] .exhibit-opening-copy h2{font-size:clamp(44px,4.2vw,80px);white-space:normal;line-height:1.4}
+.event-exhibition .exhibit-opening-line{max-width:24em}
+.exhibit-opening-context{justify-content:space-between;gap:48px;padding-right:var(--exhibit-edge)}
+.exhibit-opening-context .exhibit-opening-copy{width:58%;max-width:none}
+.event-opening-context{width:32%;padding:40px 0;color:#d2c8b7}
+.history-exhibition-dialog .event-opening-context h3{font:400 22px/1.8 var(--serif);color:#c4ac7d;margin:0 0 32px}
+.event-opening-context ol{list-style:none;padding:0;margin:0}
+.event-opening-context li{margin:32px 0;padding:0 0 0 20px;border-left:1px solid #7a6b55}
+.event-opening-context li[data-current=true]{border-left:2px solid #c4ac7d;color:#eee9df}
+.event-opening-context time{display:block;font:14px/1.8 var(--serif);color:#c4ac7d}
+.event-opening-context strong{display:block;font:400 24px/1.8 var(--serif);margin:8px 0}
+.event-opening-context p{font:14px/1.8 var(--serif);margin:0}
+.event-exhibit-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:48px;padding:64px var(--exhibit-edge) 80px;align-items:start;background:#e3dccf}
+.event-exhibit-gallery .exhibit-image img{max-height:640px;object-fit:contain;background:#d4cfc5}
+.event-gallery-meeting{grid-template-columns:.9fr 1.1fr;background:#ded7cb}
+.event-gallery-meeting .exhibit-image:last-child img{max-height:740px}
+.event-gallery-march{grid-template-columns:1fr;max-width:1100px;margin:auto;background:none}
+.event-gallery-march .exhibit-image img{max-height:700px}
+.event-exhibit-map-action{padding:32px var(--exhibit-edge);font:14px/1.9 var(--serif)}
+.event-exhibition .exhibit-background .exhibit-prose{margin-top:32px}
+.chishui-campaign{background:var(--exhibit-ink);color:var(--exhibit-paper)}
+.campaign-chapter-nav{position:sticky;top:0;z-index:4;display:flex;gap:16px;padding:8px var(--exhibit-edge);background:#191818f5;border-bottom:1px solid #c4ac7d33}
+.history-exhibition-dialog .campaign-chapter-nav button{font:15px/1.8 var(--serif);padding:8px 12px;color:#d2c8b7}
+.history-exhibition-dialog .campaign-chapter-nav button[aria-current=step]{color:#f0d39d;border-bottom:2px solid #c4ac7d}
+.campaign-reading-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(290px,.52fr);align-items:start;background:#eee9df}
+.campaign-scenes{min-width:0}
+.campaign-scene{padding:72px clamp(28px,4vw,80px);scroll-margin-top:64px;color:#292522}
+.campaign-scene-prologue{background:#eee9df}
+.campaign-scene-first{background:#e3dccf}
+.campaign-scene-second{background:#eee9df}
+.campaign-scene-third{background:#252322;color:#eee9df}
+.campaign-scene-fourth{background:#e3dccf}
+.campaign-scene-epilogue{background:#552524;color:#eee9df}
+.campaign-scene-meta{font:14px/1.9 var(--serif);color:#7b563d;margin:0 0 20px}
+.campaign-scene-third .campaign-scene-meta,.campaign-scene-epilogue .campaign-scene-meta{color:#d3b987}
+.history-exhibition-dialog .campaign-scene h3{font:400 clamp(28px,2.3vw,40px)/1.6 var(--serif);color:inherit;letter-spacing:0;margin:0 0 36px;text-wrap:balance}
+.campaign-scene h3:focus-visible{outline:2px solid #bb8b35;outline-offset:8px}
+.campaign-scene .exhibit-prose{max-width:38em}
+.campaign-scene .exhibit-prose p{font-size:18px;line-height:2;margin-bottom:24px}
+.campaign-scene>.exhibit-prose,.campaign-scene-text>.exhibit-prose{margin-top:32px}
+.campaign-scene-pair,.campaign-scene-text,.campaign-scene-images{display:contents}
+.campaign-scene .exhibit-image{margin-top:48px;margin-bottom:48px}
+.campaign-scene .exhibit-image-open img{max-height:720px;object-fit:contain;background:#c5beb2}
+.campaign-scene-third figcaption{color:#d2c8b7}
+.campaign-analysis{margin-top:64px;padding-top:32px;border-top:1px solid #8c514577}
+.campaign-analysis>p{font-size:14px;line-height:1.8;color:#85392e;margin:0 0 20px}
+.campaign-analysis h4{font:400 26px/1.7 var(--serif);margin:0 0 12px;color:inherit}
+.campaign-analysis>small{font-size:13px;color:#746454}
+.campaign-analysis .exhibit-prose{margin-top:32px}
+.campaign-scene-third .campaign-analysis>p,.campaign-scene-third .campaign-analysis>small{color:#d3b987}
+.campaign-scene-third .exhibit-map-compare,.campaign-scene-epilogue .exhibit-map-compare{color:#e2c797}
+.campaign-aftermath{margin-top:64px;padding-top:40px;border-top:1px solid #9b806655}
+.campaign-aftermath>h4{font:400 28px/1.6 var(--serif);margin:0 0 20px}
+.campaign-aftermath>p{font-size:15px;line-height:1.8}
+.campaign-aftermath>div{margin-top:40px}
+.campaign-aftermath h5{font:400 24px/1.7 var(--serif);margin:8px 0}
+.campaign-aftermath .exhibit-image img{max-height:500px}
+.campaign-map-column{position:sticky;top:66px;min-width:0;padding:40px 24px 40px 0;max-height:calc(92dvh - 130px);overflow:auto;scrollbar-color:#9e8c70 #252321}
+.campaign-route-map{padding:28px 18px;background:#252322;color:#eee9df}
+.campaign-map-heading>span{color:#c4ac7d;font-size:13px}
+.history-exhibition-dialog .campaign-map-heading h3{font:400 22px/1.8 var(--serif);color:#eee9df;margin:8px 0}
+.campaign-map-heading>p{font:14px/1.8 var(--serif);color:#cfc3b0;margin:12px 0 0}
+.campaign-route-map svg{width:100%;height:auto;display:block;margin:24px 0 16px;overflow:visible}
+.campaign-route-map nav{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:4px}
+.history-exhibition-dialog .campaign-route-map nav button{font:15px/1.7 var(--serif);padding:8px 2px;color:#ded4c3;border-bottom:1px solid transparent}
+.history-exhibition-dialog .campaign-route-map nav button[aria-pressed=true]{border-bottom-color:#c4ac7d;color:#f1d3a4}
+.campaign-route-map nav small{display:block;font-size:11px;line-height:1.8}
+.campaign-route-map>p{font:12px/1.9 var(--serif);color:#c2b8a8;margin:20px 0 0}
+.campaign-map-point{cursor:pointer;touch-action:manipulation}
+.campaign-map-point:focus-visible{outline:2px solid #edcf97;outline-offset:4px}
+.campaign-scene-navigation{display:flex;justify-content:space-between;gap:24px;padding-top:40px;font-size:14px}
+.history-exhibition-dialog .campaign-scene-navigation button{padding:8px 0;color:inherit;text-align:left}
+@media(min-width:1800px){.campaign-reading-layout{grid-template-columns:minmax(0,1fr) minmax(340px,.48fr)}.campaign-scene .exhibit-prose p{font-size:20px}.campaign-map-column{padding:48px 32px 48px 0}}
+@media(max-width:1000px){.campaign-reading-layout{grid-template-columns:1fr}.campaign-map-column{position:static;padding:24px;max-height:none;grid-row:1}.campaign-route-map{display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:center}.campaign-route-map svg{grid-row:1/5;grid-column:2;margin:0}.campaign-route-map nav{grid-column:1}.campaign-route-map>p{margin:0}.campaign-scene{padding:48px 28px}.campaign-chapter-nav{gap:4px;padding:8px 16px}.history-exhibition-dialog .campaign-chapter-nav button{font-size:14px;padding:8px}.event-exhibit-gallery{gap:24px;padding:48px 24px}}
+@media(max-width:650px){.event-exhibit-gallery{grid-template-columns:1fr}.campaign-route-map{display:block}.campaign-route-map svg{max-height:280px;margin:16px 0}.campaign-route-map>p{margin-top:16px}.campaign-map-column{padding:16px}.campaign-chapter-nav{gap:0;justify-content:space-between}.history-exhibition-dialog .campaign-chapter-nav button{font-size:12px;padding:8px 5px}.campaign-scene{padding:40px 24px}.campaign-scene .exhibit-prose p{font-size:17px}.campaign-scene-navigation{gap:12px}.event-exhibition[data-long-title=true] .exhibit-opening-copy h2{font-size:48px}}
+@media(max-width:760px){.exhibit-opening-context{padding-right:0;gap:0}.exhibit-opening-context .exhibit-opening-copy{width:100%}.event-opening-context{width:100%;padding:0 24px 40px}.event-opening-context ol{display:flex;gap:24px;flex-wrap:wrap}.event-opening-context li{flex:1;min-width:160px;margin:12px 0}}

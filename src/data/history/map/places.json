@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "PLC-0001",
+    "name": "瑞金云石山及相关驻地",
+    "historical_name": "瑞金云石山及相关驻地",
+    "modern_location": "江西省瑞金市",
+    "longitude": 115.97991,
+    "latitude": 25.91607,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1797053/",
+    "coordinate_record_name": "Ruijin Shi",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-003"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0025",
+      "SRC-0026"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0002",
+    "name": "长汀河田—汀州地域",
+    "historical_name": "长汀河田—汀州地域",
+    "modern_location": "福建省龙岩市长汀县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-004"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0026"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0003",
+    "name": "宁化淮土等驻地",
+    "historical_name": "宁化淮土等驻地",
+    "modern_location": "福建省三明市宁化县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-005"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0026"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0004",
+    "name": "于都河各渡口",
+    "historical_name": "于都河各渡口",
+    "modern_location": "江西省赣州市于都县",
+    "longitude": 115.48706,
+    "latitude": 25.95774,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1785956/",
+    "coordinate_record_name": "Yudu Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-006"
+    ],
+    "image_ids": [
+      "AST-0024",
+      "AST-0025",
+      "AST-0026"
+    ],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0025",
+      "SRC-0026"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0005",
+    "name": "信丰新田—古陂一线",
+    "historical_name": "信丰新田—古陂一线",
+    "modern_location": "江西省赣州市信丰县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-007"
+    ],
+    "image_ids": [
+      "AST-0082",
+      "AST-0083"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0031",
+      "SRC-0066",
+      "SRC-0069"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0006",
+    "name": "汝城—城口地区",
+    "historical_name": "汝城—城口地区",
+    "modern_location": "湖南省郴州市汝城县及广东省韶关市仁化县城口镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-008"
+    ],
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0007",
+    "name": "汝城沙洲村",
+    "historical_name": "汝城沙洲村",
+    "modern_location": "湖南省郴州市汝城县文明瑶族乡沙洲村",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-009"
+    ],
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [
+      "DOC-0027"
+    ],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0068"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0008",
+    "name": "郴县—良田—宜章—乐昌一线",
+    "historical_name": "郴县—良田—宜章—乐昌一线",
+    "modern_location": "今湖南省郴州市苏仙区、宜章县及广东省乐昌市相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-010"
+    ],
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0009",
+    "name": "道县水南潇水渡口",
+    "historical_name": "道县水南潇水渡口",
+    "modern_location": "湖南省永州市道县水南一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-011"
+    ],
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [
+      "DOC-0005",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0028",
+      "SRC-0030"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0010",
+    "name": "灌阳新圩",
+    "historical_name": "灌阳新圩",
+    "modern_location": "广西壮族自治区桂林市灌阳县新圩镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-012"
+    ],
+    "image_ids": [
+      "AST-0028"
+    ],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0011",
+    "name": "全州脚山铺",
+    "historical_name": "全州脚山铺",
+    "modern_location": "广西壮族自治区桂林市全州县相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-013"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0012",
+    "name": "兴安光华铺",
+    "historical_name": "兴安光华铺",
+    "modern_location": "广西壮族自治区桂林市兴安县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-014"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0013",
+    "name": "兴安界首渡口",
+    "historical_name": "兴安界首渡口",
+    "modern_location": "广西壮族自治区桂林市兴安县界首镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-015"
+    ],
+    "image_ids": [
+      "AST-0027"
+    ],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0014",
+    "name": "老山界及越城岭",
+    "historical_name": "老山界及越城岭",
+    "modern_location": "广西桂林兴安、资源及相邻越城岭区域（山口待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-016"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0028"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0015",
+    "name": "龙胜—湘桂边转移地域",
+    "historical_name": "龙胜—湘桂边转移地域",
+    "modern_location": "广西桂林龙胜各族自治县及湘桂边",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-017"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0028"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0016",
+    "name": "通道",
+    "historical_name": "通道",
+    "modern_location": "湖南省怀化市通道侗族自治县",
+    "longitude": 109.68749,
+    "latitude": 26.24389,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1792689/",
+    "coordinate_record_name": "Tongdao Dongzu Zizhixian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-018"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0017",
+    "name": "黎平",
+    "historical_name": "黎平",
+    "modern_location": "贵州省黔东南州黎平县",
+    "longitude": 109.03934,
+    "latitude": 26.206,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1803292/",
+    "coordinate_record_name": "Liping Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-019"
+    ],
+    "image_ids": [
+      "AST-0030"
+    ],
+    "document_ids": [
+      "DOC-0008"
+    ],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0018",
+    "name": "瓮安猴场",
+    "historical_name": "瓮安猴场",
+    "modern_location": "贵州省黔南州瓮安县猴场镇",
+    "longitude": 107.40636,
+    "latitude": 27.14594,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1791513/",
+    "coordinate_record_name": "Weng’an Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-020"
+    ],
+    "image_ids": [
+      "AST-0031"
+    ],
+    "document_ids": [
+      "DOC-0009"
+    ],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0019",
+    "name": "乌江北渡地域",
+    "historical_name": "乌江北渡地域",
+    "modern_location": "贵州乌江中游相关渡口（逐口待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-021"
+    ],
+    "image_ids": [
+      "AST-0032"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0020",
+    "name": "遵义柏公馆会址",
+    "historical_name": "遵义柏公馆会址",
+    "modern_location": "贵州省遵义市红花岗区子尹路96号（现代地址）",
+    "longitude": 106.90722,
+    "latitude": 27.68667,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1783621/",
+    "coordinate_record_name": "Zunyi",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-001"
+    ],
+    "image_ids": [
+      "AST-0001",
+      "AST-0002",
+      "AST-0003",
+      "AST-0004",
+      "AST-0005",
+      "AST-0006",
+      "AST-0007",
+      "AST-0008",
+      "AST-0009",
+      "AST-0010",
+      "AST-0011",
+      "AST-0012",
+      "AST-0013",
+      "AST-0014",
+      "AST-0015",
+      "AST-0016",
+      "AST-0017",
+      "AST-0018",
+      "AST-0019",
+      "AST-0020"
+    ],
+    "document_ids": [
+      "DOC-0001",
+      "DOC-0002",
+      "DOC-0003"
+    ],
+    "source_ids": [
+      "SRC-0002",
+      "SRC-0003",
+      "SRC-0004",
+      "SRC-0005",
+      "SRC-0006",
+      "SRC-0007",
+      "SRC-0008",
+      "SRC-0009",
+      "SRC-0010",
+      "SRC-0011",
+      "SRC-0012",
+      "SRC-0013",
+      "SRC-0014",
+      "SRC-0015",
+      "SRC-0016",
+      "SRC-0017",
+      "SRC-0018",
+      "SRC-0032",
+      "SRC-0033"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0021",
+    "name": "土城青杠坡",
+    "historical_name": "土城青杠坡",
+    "modern_location": "贵州省遵义市习水县土城镇青杠坡一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-022"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0010"
+    ],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0034"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0022",
+    "name": "土城—元厚场渡河地域",
+    "historical_name": "土城—元厚场渡河地域",
+    "modern_location": "贵州习水土城与赤水市元厚镇等渡河地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-023"
+    ],
+    "image_ids": [
+      "AST-0033"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0034",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0023",
+    "name": "石厢子",
+    "historical_name": "石厢子",
+    "modern_location": "四川省泸州市叙永县石厢子一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-024"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0033"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0024",
+    "name": "鸡鸣三省地域",
+    "historical_name": "鸡鸣三省地域",
+    "modern_location": "川滇黔交界地域；具体村庄不确定",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-025"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0034"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0025",
+    "name": "威信水田寨花房子",
+    "historical_name": "威信水田寨花房子",
+    "modern_location": "云南省昭通市威信县水田镇相关村落",
+    "longitude": 104.94992,
+    "latitude": 27.89784,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1791581/",
+    "coordinate_record_name": "Weixin Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-026"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0016",
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0026",
+    "name": "威信大河滩庄子上",
+    "historical_name": "威信大河滩庄子上",
+    "modern_location": "云南省昭通市威信县大河滩庄子上（现代行政归属待复核）",
+    "longitude": 104.94992,
+    "latitude": 27.89784,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1791581/",
+    "coordinate_record_name": "Weixin Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-002"
+    ],
+    "image_ids": [
+      "AST-0003",
+      "AST-0021",
+      "AST-0022",
+      "AST-0023",
+      "AST-0020"
+    ],
+    "document_ids": [
+      "DOC-0001",
+      "DOC-0002"
+    ],
+    "source_ids": [
+      "SRC-0002",
+      "SRC-0014",
+      "SRC-0016",
+      "SRC-0018",
+      "SRC-0020",
+      "SRC-0021",
+      "SRC-0024",
+      "SRC-0035"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0027",
+    "name": "扎西江西会馆",
+    "historical_name": "扎西江西会馆",
+    "modern_location": "云南省昭通市威信县扎西镇",
+    "longitude": 104.94992,
+    "latitude": 27.89784,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1791581/",
+    "coordinate_record_name": "Weixin Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-027"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0016",
+      "SRC-0021",
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0028",
+    "name": "太平渡—二郎滩（二渡）",
+    "historical_name": "太平渡—二郎滩（二渡）",
+    "modern_location": "四川古蔺与贵州习水相关赤水河渡口",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-028"
+    ],
+    "image_ids": [
+      "AST-0034"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0029",
+    "name": "桐梓—娄山关—遵义（二占）",
+    "historical_name": "桐梓—娄山关—遵义（二占）",
+    "modern_location": "贵州省遵义市桐梓县及娄山关、遵义地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-029"
+    ],
+    "image_ids": [
+      "AST-0035"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0014",
+      "SRC-0015",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0030",
+    "name": "鸭溪",
+    "historical_name": "鸭溪",
+    "modern_location": "贵州省遵义市播州区鸭溪镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-030"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0033"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0031",
+    "name": "苟坝",
+    "historical_name": "苟坝",
+    "modern_location": "贵州省遵义市播州区枫香镇苟坝村",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-031"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0032",
+    "name": "鲁班场",
+    "historical_name": "鲁班场",
+    "modern_location": "贵州省遵义市仁怀市鲁班一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-032"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0033",
+    "name": "茅台渡口",
+    "historical_name": "茅台渡口",
+    "modern_location": "贵州省遵义市仁怀市茅台镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-033"
+    ],
+    "image_ids": [
+      "AST-0036"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0034",
+    "name": "二郎滩—太平渡（四渡）",
+    "historical_name": "二郎滩—太平渡（四渡）",
+    "modern_location": "川黔赤水河二郎滩、太平渡等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-034"
+    ],
+    "image_ids": [
+      "AST-0037"
+    ],
+    "document_ids": [
+      "DOC-0011"
+    ],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0035",
+    "name": "乌江南渡地域",
+    "historical_name": "乌江南渡地域",
+    "modern_location": "贵州乌江中游江口、梯子岩等渡口名称待逐口核对",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-035"
+    ],
+    "image_ids": [
+      "AST-0038"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0036",
+    "name": "贵阳近郊—清水江机动地域",
+    "historical_name": "贵阳近郊—清水江机动地域",
+    "modern_location": "贵州贵阳近郊及开阳相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-036"
+    ],
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0037",
+    "name": "北盘江渡河地域",
+    "historical_name": "北盘江渡河地域",
+    "modern_location": "贵州北盘江流域，具体渡口待核",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-037"
+    ],
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0038",
+    "name": "富源—沾益—曲靖地域",
+    "historical_name": "富源—沾益—曲靖地域",
+    "modern_location": "云南省曲靖市富源、沾益等地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-038"
+    ],
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0039",
+    "name": "马龙",
+    "historical_name": "马龙",
+    "modern_location": "云南省曲靖市马龙区",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-039"
+    ],
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0040",
+    "name": "寻甸柯渡丹桂村",
+    "historical_name": "寻甸柯渡丹桂村",
+    "modern_location": "云南省昆明市寻甸县柯渡镇丹桂村",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-040"
+    ],
+    "image_ids": [
+      "AST-0074",
+      "AST-0075"
+    ],
+    "document_ids": [
+      "DOC-0013"
+    ],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0041",
+    "name": "龙街渡—洪门渡（预定渡口）",
+    "historical_name": "龙街渡—洪门渡（预定渡口）",
+    "modern_location": "云南元谋、禄劝相关金沙江渡口，历史水位地貌另核",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-041"
+    ],
+    "image_ids": [
+      "AST-0075"
+    ],
+    "document_ids": [
+      "DOC-0013"
+    ],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0042",
+    "name": "皎平渡",
+    "historical_name": "皎平渡",
+    "modern_location": "云南省昆明市禄劝县与四川省凉山州会理市交界金沙江两岸",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-042"
+    ],
+    "image_ids": [
+      "AST-0039",
+      "AST-0040",
+      "AST-0074",
+      "AST-0075"
+    ],
+    "document_ids": [
+      "DOC-0013"
+    ],
+    "source_ids": [
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0043",
+    "name": "会泽—树桔渡",
+    "historical_name": "会泽—树桔渡",
+    "modern_location": "云南会泽县至昆明市东川区树桔渡一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-043"
+    ],
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035",
+      "SRC-0039"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0044",
+    "name": "会理铁厂",
+    "historical_name": "会理铁厂",
+    "modern_location": "四川省凉山州会理市铁厂一带",
+    "longitude": 102.12678,
+    "latitude": 26.58683,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1806848/",
+    "coordinate_record_name": "Huili Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-044"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0033",
+      "SRC-0038"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0045",
+    "name": "泸沽镇",
+    "historical_name": "泸沽镇",
+    "modern_location": "四川省凉山州冕宁县泸沽镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-045"
+    ],
+    "image_ids": [
+      "AST-0043"
+    ],
+    "document_ids": [
+      "DOC-0014"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0038"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0046",
+    "name": "彝海（袁居海子）",
+    "historical_name": "袁居海子／乌勒苏泊（依该报道，地方语名待核）",
+    "modern_location": "四川省凉山州冕宁县彝海相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-046"
+    ],
+    "image_ids": [
+      "AST-0043"
+    ],
+    "document_ids": [
+      "DOC-0014"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0038"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0047",
+    "name": "安顺场",
+    "historical_name": "安顺场",
+    "modern_location": "四川省雅安市石棉县安顺场镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-047"
+    ],
+    "image_ids": [
+      "AST-0041",
+      "AST-0061"
+    ],
+    "document_ids": [
+      "DOC-0012"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0037"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0048",
+    "name": "冷碛—泸定大渡河两岸",
+    "historical_name": "冷碛—泸定大渡河两岸",
+    "modern_location": "四川省甘孜州泸定县沿河地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-048"
+    ],
+    "image_ids": [
+      "AST-0061"
+    ],
+    "document_ids": [
+      "DOC-0012"
+    ],
+    "source_ids": [
+      "SRC-0037"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0049",
+    "name": "泸定桥",
+    "historical_name": "泸定桥",
+    "modern_location": "四川省甘孜州泸定县泸桥镇",
+    "longitude": 102.234,
+    "latitude": 29.914,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1802142/",
+    "coordinate_record_name": "Luding Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-049"
+    ],
+    "image_ids": [
+      "AST-0042",
+      "AST-0061"
+    ],
+    "document_ids": [
+      "DOC-0012"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0037"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0050",
+    "name": "芦山—宝兴—硗碛",
+    "historical_name": "芦山—宝兴—硗碛",
+    "modern_location": "四川省雅安市芦山县、宝兴县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-050"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0051",
+    "name": "夹金山垭口地域",
+    "historical_name": "夹金山垭口地域",
+    "modern_location": "四川雅安宝兴与阿坝小金交界山地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-051"
+    ],
+    "image_ids": [
+      "AST-0044",
+      "AST-0080"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041",
+      "SRC-0056"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0052",
+    "name": "达维",
+    "historical_name": "达维",
+    "modern_location": "四川省阿坝州小金县达维镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-052"
+    ],
+    "image_ids": [
+      "AST-0045"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0053",
+    "name": "懋功（今小金）",
+    "historical_name": "懋功",
+    "modern_location": "四川省阿坝州小金县",
+    "longitude": 102.49419,
+    "latitude": 31.14288,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1790120/",
+    "coordinate_record_name": "Xiaojin Xian",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-053"
+    ],
+    "image_ids": [
+      "AST-0045"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0054",
+    "name": "两河口",
+    "historical_name": "两河口",
+    "modern_location": "四川省阿坝州小金县两河口镇",
+    "longitude": 102.49419,
+    "latitude": 31.14288,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1790120/",
+    "coordinate_record_name": "Xiaojin Xian",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-054"
+    ],
+    "image_ids": [
+      "AST-0046"
+    ],
+    "document_ids": [
+      "DOC-0015"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0055",
+    "name": "梦笔山—卓克基",
+    "historical_name": "梦笔山—卓克基",
+    "modern_location": "四川阿坝州小金、马尔康等相关山地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-055"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0056",
+    "name": "黑水芦花",
+    "historical_name": "黑水芦花",
+    "modern_location": "四川省阿坝州黑水县芦花一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-056"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0057",
+    "name": "沙窝",
+    "historical_name": "沙窝",
+    "modern_location": "四川省阿坝州松潘县毛儿盖附近（今具体村界待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-057"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0058",
+    "name": "毛儿盖",
+    "historical_name": "毛儿盖",
+    "modern_location": "四川省阿坝州松潘县毛儿盖地域",
+    "longitude": 103.59183,
+    "latitude": 32.60981,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1793997/",
+    "coordinate_record_name": "Songpan Xian",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-058"
+    ],
+    "image_ids": [
+      "AST-0047"
+    ],
+    "document_ids": [
+      "DOC-0016"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0059",
+    "name": "镰刀坝—大草地",
+    "historical_name": "镰刀坝—大草地",
+    "modern_location": "四川阿坝州松潘、红原、若尔盖交界草地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-059"
+    ],
+    "image_ids": [
+      "AST-0053",
+      "AST-0054"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0041",
+      "SRC-0043"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0060",
+    "name": "班佑",
+    "historical_name": "班佑",
+    "modern_location": "四川省阿坝州若尔盖县班佑一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-060"
+    ],
+    "image_ids": [
+      "AST-0055",
+      "AST-0056"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0061",
+    "name": "包座—求吉地域",
+    "historical_name": "包座—求吉地域",
+    "modern_location": "四川省阿坝州若尔盖县包座、求吉一带",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-061"
+    ],
+    "image_ids": [
+      "AST-0059",
+      "AST-0060"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0062",
+    "name": "巴西—阿西牙弄",
+    "historical_name": "巴西—阿西牙弄",
+    "modern_location": "四川省阿坝州若尔盖县巴西等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-062"
+    ],
+    "image_ids": [
+      "AST-0057",
+      "AST-0058"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0042",
+      "SRC-0043"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0063",
+    "name": "俄界（高吉）",
+    "historical_name": "俄界（高吉）",
+    "modern_location": "甘肃省甘南州迭部县达拉乡高吉村（依2021资料）",
+    "longitude": 103.5502,
+    "latitude": 33.99057,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1793028/",
+    "coordinate_record_name": "Diebu Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-063"
+    ],
+    "image_ids": [
+      "AST-0048",
+      "AST-0062"
+    ],
+    "document_ids": [
+      "DOC-0017"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0041",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0064",
+    "name": "腊子口",
+    "historical_name": "腊子口",
+    "modern_location": "甘肃省甘南州迭部县腊子口一带",
+    "longitude": 103.5502,
+    "latitude": 33.99057,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1793028/",
+    "coordinate_record_name": "Diebu Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-064"
+    ],
+    "image_ids": [
+      "AST-0049"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0065",
+    "name": "哈达铺",
+    "historical_name": "哈达铺",
+    "modern_location": "甘肃省陇南市宕昌县哈达铺镇",
+    "longitude": 104.4303,
+    "latitude": 33.96241,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1813874/",
+    "coordinate_record_name": "Dangchang Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-065"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0042",
+      "SRC-0046",
+      "SRC-0047"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0066",
+    "name": "榜罗镇",
+    "historical_name": "榜罗镇",
+    "modern_location": "甘肃省定西市通渭县榜罗镇",
+    "longitude": 105.18532,
+    "latitude": 35.21175,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1792559/",
+    "coordinate_record_name": "Tongwei Xian",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-066"
+    ],
+    "image_ids": [
+      "AST-0063"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0041",
+      "SRC-0042",
+      "SRC-0047"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0067",
+    "name": "静宁界石铺",
+    "historical_name": "静宁界石铺",
+    "modern_location": "甘肃省平凉市静宁县界石铺镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-067"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0068",
+    "name": "六盘山翻越地域",
+    "historical_name": "六盘山翻越地域",
+    "modern_location": "宁夏回族自治区固原市隆德、原州等相关山地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-068"
+    ],
+    "image_ids": [
+      "AST-0050",
+      "AST-0088"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0044",
+      "SRC-0045",
+      "SRC-0046",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0069",
+    "name": "青石嘴",
+    "historical_name": "青石嘴",
+    "modern_location": "宁夏固原相关地点（今村界待专核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-069"
+    ],
+    "image_ids": [
+      "AST-0087"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0070",
+    "name": "镇原三岔",
+    "historical_name": "镇原三岔",
+    "modern_location": "甘肃省庆阳市镇原县三岔等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-070"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0071",
+    "name": "环县河连湾地域",
+    "historical_name": "环县河连湾地域",
+    "modern_location": "甘肃省庆阳市环县河连湾等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-071"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0072",
+    "name": "吴起镇",
+    "historical_name": "吴起镇",
+    "modern_location": "陕西省延安市吴起县",
+    "longitude": 108.17171,
+    "latitude": 36.92631,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1791043/",
+    "coordinate_record_name": "Wuqi",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-072"
+    ],
+    "image_ids": [
+      "AST-0051"
+    ],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0041",
+      "SRC-0042",
+      "SRC-0046"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0073",
+    "name": "甘泉地区",
+    "historical_name": "甘泉地区",
+    "modern_location": "陕西省延安市甘泉县相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-073"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0046",
+      "SRC-0047"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0074",
+    "name": "瓦窑堡",
+    "historical_name": "瓦窑堡",
+    "modern_location": "陕西省延安市子长市瓦窑堡街道",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-074"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0046"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0075",
+    "name": "直罗镇",
+    "historical_name": "鄜县直罗镇",
+    "modern_location": "陕西省延安市富县直罗镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-075"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0046"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0076",
+    "name": "会宁",
+    "historical_name": "会宁",
+    "modern_location": "甘肃省白银市会宁县",
+    "longitude": 105.09062,
+    "latitude": 35.88612,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1806817/",
+    "coordinate_record_name": "Huining Xian",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-076"
+    ],
+    "image_ids": [
+      "AST-0052",
+      "AST-0072"
+    ],
+    "document_ids": [
+      "DOC-0019"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0045",
+      "SRC-0047"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0077",
+    "name": "将台堡",
+    "historical_name": "甘肃隆德将台堡",
+    "modern_location": "宁夏回族自治区固原市西吉县将台堡镇",
+    "longitude": 105.7173,
+    "latitude": 35.96833,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/7576744/",
+    "coordinate_record_name": "Xiji Xian",
+    "army_ids": [
+      "central",
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-077"
+    ],
+    "image_ids": [
+      "AST-0052"
+    ],
+    "document_ids": [
+      "DOC-0019"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0045"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0078",
+    "name": "山城堡",
+    "historical_name": "山城堡",
+    "modern_location": "甘肃省庆阳市环县山城堡地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-078"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0047"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0079",
+    "name": "遂川横石—新江口",
+    "historical_name": "遂川横石—新江口",
+    "modern_location": "江西省吉安市遂川县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-079"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0049"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0080",
+    "name": "桂东寨前圩",
+    "historical_name": "桂东寨前圩",
+    "modern_location": "湖南省郴州市桂东县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-080"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0081",
+    "name": "广西界首—资源（先遣）",
+    "historical_name": "广西界首—资源（先遣）",
+    "modern_location": "广西桂林相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-081"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0082",
+    "name": "印江木黄",
+    "historical_name": "印江木黄",
+    "modern_location": "贵州省铜仁市印江县木黄镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-082"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0051"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0083",
+    "name": "酉阳南腰界",
+    "historical_name": "酉阳南腰界",
+    "modern_location": "重庆市酉阳县南腰界镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-083"
+    ],
+    "image_ids": [
+      "AST-0078"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0051",
+      "SRC-0052"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0084",
+    "name": "桑植刘家坪—瑞塔铺",
+    "historical_name": "桑植刘家坪—瑞塔铺",
+    "modern_location": "湖南省张家界市桑植县",
+    "longitude": 110.188,
+    "latitude": 29.52488,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1796840/",
+    "coordinate_record_name": "Sangzhi Xian",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-084"
+    ],
+    "image_ids": [
+      "AST-0064"
+    ],
+    "document_ids": [
+      "DOC-0020",
+      "DOC-0021"
+    ],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0036",
+      "SRC-0049",
+      "SRC-0051",
+      "SRC-0052"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0085",
+    "name": "辰溪—溆浦—锡矿山—新化",
+    "historical_name": "辰溪—溆浦—锡矿山—新化",
+    "modern_location": "湖南怀化、娄底相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-085"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0052"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0086",
+    "name": "隆回金石桥—鸭田",
+    "historical_name": "隆回金石桥—鸭田",
+    "modern_location": "湖南省邵阳市隆回县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-086"
+    ],
+    "image_ids": [
+      "AST-0089",
+      "AST-0090",
+      "AST-0091",
+      "AST-0092"
+    ],
+    "document_ids": [
+      "DOC-0021"
+    ],
+    "source_ids": [
+      "SRC-0052"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0087",
+    "name": "芷江便水—冷水铺",
+    "historical_name": "芷江便水—冷水铺",
+    "modern_location": "湖南省怀化市芷江县",
+    "longitude": 109.59047,
+    "latitude": 27.35029,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1784524/",
+    "coordinate_record_name": "Zhijiang Dongzu Zizhixian",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-087"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0053"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0088",
+    "name": "石阡—镇远—黄平地域",
+    "historical_name": "石阡—镇远—黄平地域",
+    "modern_location": "贵州省铜仁市、黔东南州相关县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-088"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0049"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0089",
+    "name": "黔西—大定—毕节",
+    "historical_name": "黔西、大定、毕节",
+    "modern_location": "贵州省毕节市黔西市、大方县、七星关区",
+    "longitude": 105.35603,
+    "latitude": 27.44935,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1816371/",
+    "coordinate_record_name": "Bijie Shi",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-089"
+    ],
+    "image_ids": [
+      "AST-0073"
+    ],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0090",
+    "name": "赫章野马川",
+    "historical_name": "赫章野马川",
+    "modern_location": "贵州省毕节市赫章县野马川镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-090"
+    ],
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0091",
+    "name": "妈姑—回水塘",
+    "historical_name": "妈姑—回水塘",
+    "modern_location": "贵州省毕节市赫章县等（具体村界待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-091"
+    ],
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0092",
+    "name": "奎香—彝良地域",
+    "historical_name": "奎香—彝良地域",
+    "modern_location": "云南省昭通市彝良县等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-092"
+    ],
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0093",
+    "name": "以则河—得章坝",
+    "historical_name": "以则河—得章坝",
+    "modern_location": "滇黔交界地域（历史地名对应待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-093"
+    ],
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0094",
+    "name": "财神塘",
+    "historical_name": "财神塘",
+    "modern_location": "贵州省毕节市赫章县财神一带（旧址待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-094"
+    ],
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0095",
+    "name": "盘县",
+    "historical_name": "盘县",
+    "modern_location": "贵州省六盘水市盘州市",
+    "longitude": 104.6031,
+    "latitude": 25.8678,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1799006/",
+    "coordinate_record_name": "Pan Xian",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-095"
+    ],
+    "image_ids": [
+      "AST-0073"
+    ],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0096",
+    "name": "丽江石鼓—巨甸渡河地域",
+    "historical_name": "丽江石鼓—巨甸渡河地域",
+    "modern_location": "云南省丽江市玉龙县石鼓、巨甸等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-096"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0054"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0097",
+    "name": "中甸",
+    "historical_name": "中甸",
+    "modern_location": "云南省迪庆州香格里拉市",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-097"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0049"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0098",
+    "name": "乡城—理塘以南",
+    "historical_name": "乡城—理塘以南",
+    "modern_location": "四川省甘孜州乡城、理塘等县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-098"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0099",
+    "name": "白玉北上地域",
+    "historical_name": "白玉北上地域",
+    "modern_location": "四川省甘孜州白玉县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-099"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0100",
+    "name": "甘孜",
+    "historical_name": "西康甘孜（历史行政归属需按当年制度核对）",
+    "modern_location": "四川省甘孜州甘孜县",
+    "longitude": 99.99413,
+    "latitude": 31.62744,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1810271/",
+    "coordinate_record_name": "Ganzi",
+    "army_ids": [
+      "second",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-100"
+    ],
+    "image_ids": [
+      "AST-0066"
+    ],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0048",
+      "SRC-0049"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0101",
+    "name": "1936年红二方面军北上草地地域",
+    "historical_name": "1936年红二方面军北上草地地域",
+    "modern_location": "川西北阿坝、若尔盖等草地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-101"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0102",
+    "name": "哈达铺（红二方面军）",
+    "historical_name": "哈达铺（红二方面军）",
+    "modern_location": "甘肃省陇南市宕昌县",
+    "longitude": 104.4303,
+    "latitude": 33.96241,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1813874/",
+    "coordinate_record_name": "Dangchang Xian",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-102"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0103",
+    "name": "成县—徽县—两当—康县",
+    "historical_name": "成县—徽县—两当—康县",
+    "modern_location": "甘肃省陇南市相关县及陕西相邻地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-103"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0055",
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0104",
+    "name": "天水—甘谷武山渭河突围地域",
+    "historical_name": "天水—甘谷武山渭河突围地域",
+    "modern_location": "甘肃天水、甘谷、武山相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-104"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0105",
+    "name": "湘鄂边—来凤—黔江（红十八师）",
+    "historical_name": "湘鄂边—来凤—黔江（红十八师）",
+    "modern_location": "湖南、湖北、重庆交界地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-105"
+    ],
+    "image_ids": [
+      "AST-0079"
+    ],
+    "document_ids": [
+      "DOC-0021"
+    ],
+    "source_ids": [
+      "SRC-0051",
+      "SRC-0052"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0106",
+    "name": "苍溪塔子山—鸳溪口",
+    "historical_name": "苍溪塔子山—鸳溪口",
+    "modern_location": "四川省广元市苍溪县",
+    "longitude": 106.04278,
+    "latitude": 31.92032,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1816082/",
+    "coordinate_record_name": "Cangxi Xian",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-106"
+    ],
+    "image_ids": [
+      "AST-0067"
+    ],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0056",
+      "SRC-0057",
+      "SRC-0058"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0107",
+    "name": "阆中涧溪口",
+    "historical_name": "阆中涧溪口",
+    "modern_location": "四川省南充市阆中市相关渡口",
+    "longitude": 106.05002,
+    "latitude": 31.58824,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1804485/",
+    "coordinate_record_name": "Langzhong Shi",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-107"
+    ],
+    "image_ids": [
+      "AST-0067"
+    ],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0058"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0108",
+    "name": "剑门关—昭化",
+    "historical_name": "剑门关—昭化",
+    "modern_location": "四川省广元市剑阁县、昭化区",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-108"
+    ],
+    "image_ids": [
+      "AST-0067"
+    ],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0057",
+      "SRC-0058"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0109",
+    "name": "江油—中坝—梓潼",
+    "historical_name": "江油—中坝—梓潼",
+    "modern_location": "四川省绵阳市江油市、梓潼县",
+    "longitude": 104.86212,
+    "latitude": 31.89905,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1806207/",
+    "coordinate_record_name": "Jiangyou Shi",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-109"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0110",
+    "name": "青川—平武",
+    "historical_name": "青川—平武",
+    "modern_location": "四川省广元市青川县、绵阳市平武县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-110"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0111",
+    "name": "土门—茂县三元桥地域",
+    "historical_name": "土门—茂县三元桥地域",
+    "modern_location": "四川阿坝州茂县及北川相邻地域（历史土门精确点待核）",
+    "longitude": 103.64464,
+    "latitude": 31.85668,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1801130/",
+    "coordinate_record_name": "Mao Xian",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-111"
+    ],
+    "image_ids": [
+      "AST-0068"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0056",
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0112",
+    "name": "阿坝（1935年左路军地域）",
+    "historical_name": "阿坝（1935年左路军地域）",
+    "modern_location": "四川省阿坝州阿坝县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-112"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0113",
+    "name": "卓木碉地域",
+    "historical_name": "卓木碉地域",
+    "modern_location": "今四川省阿坝州马尔康等地域（确址待专题核对）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-113"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0114",
+    "name": "绥靖—崇化—丹巴—懋功南下地域",
+    "historical_name": "绥靖—崇化—丹巴—懋功南下地域",
+    "modern_location": "今四川甘孜州丹巴、阿坝州金川、小金等相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-114"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0056",
+      "SRC-0059"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0115",
+    "name": "名山百丈关",
+    "historical_name": "名山百丈关",
+    "modern_location": "四川省雅安市名山区百丈镇及周边",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-115"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0059"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0116",
+    "name": "天全—芦山—宝兴（南下后）",
+    "historical_name": "天全—芦山—宝兴（南下后）",
+    "modern_location": "四川省雅安市三县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-116"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0056",
+      "SRC-0060"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0117",
+    "name": "丹巴—党岭山",
+    "historical_name": "丹巴—党岭山",
+    "modern_location": "四川省甘孜州丹巴、道孚相关山地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-117"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0060"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0118",
+    "name": "道孚—炉霍—甘孜休整地域",
+    "historical_name": "道孚—炉霍—甘孜休整地域",
+    "modern_location": "四川省甘孜州相关县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-118"
+    ],
+    "image_ids": [
+      "AST-0066"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0056",
+      "SRC-0060"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0119",
+    "name": "壤塘—班玛—阿坝北上地域",
+    "historical_name": "壤塘—班玛—阿坝北上地域",
+    "modern_location": "四川阿坝州壤塘、阿坝及青海果洛班玛等相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth",
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-119"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0120",
+    "name": "丹巴—卓克基—刷经寺—亚克夏地域",
+    "historical_name": "丹巴—卓克基—刷经寺—亚克夏地域",
+    "modern_location": "四川甘孜、阿坝相关山地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth",
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-120"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0121",
+    "name": "包座—班佑—求吉（1936年）",
+    "historical_name": "包座—班佑—求吉（1936年）",
+    "modern_location": "四川省阿坝州若尔盖县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-121"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0023"
+    ],
+    "source_ids": [
+      "SRC-0043",
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0122",
+    "name": "岷州—洮州—西固",
+    "historical_name": "岷州、洮州、西固（非今兰州西固区）",
+    "modern_location": "今甘肃岷县、临潭、舟曲等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth",
+      "second"
+    ],
+    "related_event_ids": [
+      "EVT-122"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0023"
+    ],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0123",
+    "name": "武山鸳鸯镇及渭河地域",
+    "historical_name": "武山鸳鸯镇及渭河地域",
+    "modern_location": "甘肃省天水市武山县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-123"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0124",
+    "name": "花山寨",
+    "historical_name": "光山县花山寨",
+    "modern_location": "河南省信阳市光山县文殊乡花山村（2018官方保护范围登记）",
+    "longitude": 114.87582,
+    "latitude": 31.91901,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1809880/",
+    "coordinate_record_name": "Guangshan Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-124"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0029"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0072"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0125",
+    "name": "罗山何家冲",
+    "historical_name": "罗山何家冲",
+    "modern_location": "河南省信阳市罗山县何家冲",
+    "longitude": 114.43589,
+    "latitude": 32.02022,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1801844/",
+    "coordinate_record_name": "Luoshan Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-125"
+    ],
+    "image_ids": [
+      "AST-0069",
+      "AST-0081",
+      "AST-0084"
+    ],
+    "document_ids": [
+      "DOC-0024",
+      "DOC-0025"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0064",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0126",
+    "name": "信阳东双河—柳林",
+    "historical_name": "信阳东双河—柳林",
+    "modern_location": "河南省信阳市南部东双河、柳林间",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-126"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0127",
+    "name": "桐柏山区—枣阳佯攻",
+    "historical_name": "桐柏山区—枣阳佯攻",
+    "modern_location": "河南桐柏、湖北枣阳等地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-127"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0128",
+    "name": "方城独树镇七里岗",
+    "historical_name": "方城独树镇七里岗",
+    "modern_location": "河南省南阳市方城县独树镇七里岗",
+    "longitude": 113.05379,
+    "latitude": 33.30227,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1811590/",
+    "coordinate_record_name": "Fangcheng Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-128"
+    ],
+    "image_ids": [
+      "AST-0070",
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0025"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0129",
+    "name": "叶县保安寨—沈庄",
+    "historical_name": "叶县保安寨—沈庄",
+    "modern_location": "河南省平顶山市叶县相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-129"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0130",
+    "name": "鲁山下汤—伏牛山区",
+    "historical_name": "鲁山下汤—伏牛山区",
+    "modern_location": "河南省平顶山市鲁山县等山地",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-130"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0131",
+    "name": "卢氏叫河—文峪河—铁锁关",
+    "historical_name": "卢氏叫河—文峪河—铁锁关",
+    "modern_location": "河南省三门峡市卢氏县至陕豫边界",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-131"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0132",
+    "name": "庾家河",
+    "historical_name": "雒南县庾家河",
+    "modern_location": "陕西省商洛市丹凤县庾岭一带",
+    "longitude": 110.435,
+    "latitude": 33.70528,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1813883/",
+    "coordinate_record_name": "Danfeng Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-132"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0028"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0070"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0133",
+    "name": "蔡家川",
+    "historical_name": "蔡家川",
+    "modern_location": "陕西商洛相关村落（今行政归属待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-133"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0134",
+    "name": "镇安—蔡玉窑—文公岭",
+    "historical_name": "镇安—蔡玉窑—文公岭",
+    "modern_location": "陕西省商洛市镇安及相邻地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-134"
+    ],
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0135",
+    "name": "郧西",
+    "historical_name": "郧西",
+    "modern_location": "湖北省十堰市郧西县",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-135"
+    ],
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0136",
+    "name": "华阳",
+    "historical_name": "华阳",
+    "modern_location": "陕西省汉中市洋县华阳镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-136"
+    ],
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0137",
+    "name": "蓝田葛牌—九间房",
+    "historical_name": "蓝田葛牌—九间房",
+    "modern_location": "陕西省西安市蓝田县相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-137"
+    ],
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [
+      "DOC-0028"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0070",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0138",
+    "name": "龙驹寨",
+    "historical_name": "龙驹寨",
+    "modern_location": "陕西省商洛市丹凤县城相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-138"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0139",
+    "name": "商南—富水关—荆紫关",
+    "historical_name": "商南—富水关—荆紫关",
+    "modern_location": "陕西省商洛市商南县与河南省南阳市淅川县荆紫关等",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-139"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0140",
+    "name": "袁家沟口",
+    "historical_name": "袁家沟口",
+    "modern_location": "陕西鄂豫陕根据地相关地域（现县村待专核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-140"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0141",
+    "name": "长安子午镇—沣峪口",
+    "historical_name": "长安子午镇—沣峪口",
+    "modern_location": "陕西省西安市长安区相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-141"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0063"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0142",
+    "name": "留坝江口",
+    "historical_name": "留坝江口",
+    "modern_location": "陕西省汉中市留坝县江口镇河西村罗家院等",
+    "longitude": 106.95333,
+    "latitude": 33.59111,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1803208/",
+    "coordinate_record_name": "Liuba Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-142"
+    ],
+    "image_ids": [
+      "AST-0076",
+      "AST-0077",
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0026"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0063",
+      "SRC-0071"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0143",
+    "name": "凤县双石铺",
+    "historical_name": "凤县双石铺",
+    "modern_location": "陕西省宝鸡市凤县双石铺镇",
+    "longitude": 106.77,
+    "latitude": 34.01472,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1811202/",
+    "coordinate_record_name": "Feng Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-143"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0144",
+    "name": "两当—天水北关",
+    "historical_name": "两当—天水北关",
+    "modern_location": "甘肃省陇南市两当县与天水市相关地域",
+    "longitude": 105.74238,
+    "latitude": 34.57952,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1792892/",
+    "coordinate_record_name": "Tianshui",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-144"
+    ],
+    "image_ids": [
+      "AST-0081",
+      "AST-0084",
+      "AST-0093"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0067",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0145",
+    "name": "静宁—兴隆镇",
+    "historical_name": "静宁—兴隆镇",
+    "modern_location": "甘肃静宁及今宁夏西吉兴隆镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-145"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0146",
+    "name": "泾川四坡村—汭河",
+    "historical_name": "泾川四坡村—汭河",
+    "modern_location": "甘肃省平凉市泾川县相关地域",
+    "longitude": 107.43136,
+    "latitude": 35.34809,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1805686/",
+    "coordinate_record_name": "Jingchuan Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-146"
+    ],
+    "image_ids": [
+      "AST-0081",
+      "AST-0085",
+      "AST-0086"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0147",
+    "name": "四十里铺泾河渡河地域",
+    "historical_name": "四十里铺泾河渡河地域",
+    "modern_location": "甘肃省平凉市相关地域（具体渡口待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-147"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0148",
+    "name": "合水板桥",
+    "historical_name": "合水板桥",
+    "modern_location": "甘肃省庆阳市合水县板桥镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-148"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0149",
+    "name": "豹子川",
+    "historical_name": "豹子川",
+    "modern_location": "陕甘交界豹子川地域（今归属待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-149"
+    ],
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0150",
+    "name": "延川永坪",
+    "historical_name": "延川永坪",
+    "modern_location": "陕西省延安市延川县永坪镇",
+    "longitude": 110.02194,
+    "latitude": 36.88194,
+    "coordinate_precision": "regional",
+    "coordinate_source_ids": [
+      "SRC-0079"
+    ],
+    "coordinate_note": "现代地域参考点，非历史事件发生点；历史确址待核。",
+    "coordinate_record_url": "https://www.geonames.org/1787734/",
+    "coordinate_record_name": "Yanchuan Xian",
+    "army_ids": [
+      "twentyfive"
+    ],
+    "related_event_ids": [
+      "EVT-150"
+    ],
+    "image_ids": [
+      "AST-0071",
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0025",
+      "DOC-0028"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0065",
+      "SRC-0070"
+    ],
+    "verification_status": "disputed",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0151",
+    "name": "綦江羊角",
+    "historical_name": "綦江羊角",
+    "modern_location": "重庆市綦江区相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-151"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0051"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0152",
+    "name": "綦江石壕",
+    "historical_name": "綦江石壕",
+    "modern_location": "重庆市綦江区石壕镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-152"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0051"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0153",
+    "name": "古蔺白沙场",
+    "historical_name": "古蔺白沙场",
+    "modern_location": "四川省泸州市古蔺县双沙镇",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "central"
+    ],
+    "related_event_ids": [
+      "EVT-153"
+    ],
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0031"
+    ],
+    "source_ids": [
+      "SRC-0076"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0154",
+    "name": "理化以南甲洼",
+    "historical_name": "理化以南甲洼",
+    "modern_location": "四川省甘孜州理塘县甲洼等地域（旧地名具体界线待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-154"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0075"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0155",
+    "name": "甘孜绒坝岔",
+    "historical_name": "甘孜绒坝岔",
+    "modern_location": "四川省甘孜州甘孜县以西绒坝岔地域（今归属待核）",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "second",
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-155"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0075"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  },
+  {
+    "id": "PLC-0156",
+    "name": "会宁大墩梁",
+    "historical_name": "会宁大墩梁",
+    "modern_location": "甘肃省白银市会宁县中川相关地域",
+    "longitude": null,
+    "latitude": null,
+    "coordinate_precision": "unverified",
+    "coordinate_source_ids": [],
+    "coordinate_note": "坐标缺失，不在地图上放置位置标记。",
+    "coordinate_record_url": "",
+    "coordinate_record_name": "",
+    "army_ids": [
+      "fourth"
+    ],
+    "related_event_ids": [
+      "EVT-156"
+    ],
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0077"
+    ],
+    "verification_status": "pending",
+    "publication_status": "draft"
+  }
+]

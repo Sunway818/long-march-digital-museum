@@ -32,6 +32,7 @@ export function Hero({ onSource }: { onSource: () => void }) {
       <div className="hero-subtitle" data-intro="subtitle"><span className="gold-rule" aria-hidden="true" /><p>纪念中国工农红军<br className="subtitle-break" />长征胜利九十周年</p></div>
       <p className="hero-year" data-intro="year"><span>1936</span><span className="year-line" aria-hidden="true" /><span className="sr-only">—</span><span>2026</span></p>
       <WoodenCta />
+      {!imageFailed && <p className="hero-art-credit" data-intro="controls">画面为长征主题艺术示意</p>}
       {imageFailed && <p role="status" className="image-fallback">首页影像暂未加载，仍可进入展馆入口。</p>}
     </div>
     <div className="hero-footer"><p data-intro="controls">NINETY YEARS OF VICTORY</p><ScrollIndicator /><div className="hero-tools" data-intro="controls">

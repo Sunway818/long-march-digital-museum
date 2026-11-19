@@ -1,0 +1,450 @@
+{
+  "locations": [
+    {
+      "placeId": "PLC-0001",
+      "geonamesId": 7650835,
+      "referenceName": "瑞金云石山乡",
+      "longitude": 115.86332,
+      "latitude": 25.86411,
+      "featureCode": "PPLA4"
+    },
+    {
+      "placeId": "PLC-0047",
+      "geonamesId": 1795102,
+      "referenceName": "石棉县域（安顺场渡口待核）",
+      "longitude": 102.31927,
+      "latitude": 29.21714,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0051",
+      "geonamesId": 1804625,
+      "referenceName": "夹金山山系",
+      "longitude": 102.41667,
+      "latitude": 30.33333,
+      "featureCode": "MTS"
+    },
+    {
+      "placeId": "PLC-0058",
+      "geonamesId": 1801234,
+      "referenceName": "毛儿盖",
+      "longitude": 103.04583,
+      "latitude": 32.59389,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0061",
+      "geonamesId": 6958366,
+      "referenceName": "若尔盖包座",
+      "longitude": 103.36714,
+      "latitude": 33.4746,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0062",
+      "geonamesId": 1816836,
+      "referenceName": "若尔盖巴西",
+      "longitude": 103.23396,
+      "latitude": 33.60697,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0063",
+      "geonamesId": 10803136,
+      "referenceName": "甘肃迭部达拉乡高吉村",
+      "longitude": 103.314,
+      "latitude": 33.8767,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0064",
+      "geonamesId": 1804264,
+      "referenceName": "甘肃迭部腊子口镇",
+      "longitude": 103.89402,
+      "latitude": 34.06634,
+      "featureCode": "PPLA4"
+    },
+    {
+      "placeId": "PLC-0065",
+      "geonamesId": 7516804,
+      "referenceName": "宕昌哈达铺镇",
+      "longitude": 104.22301,
+      "latitude": 34.23132,
+      "featureCode": "PPLA4"
+    },
+    {
+      "placeId": "PLC-0066",
+      "geonamesId": 1817088,
+      "referenceName": "通渭榜罗镇",
+      "longitude": 104.94139,
+      "latitude": 35.035,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0073",
+      "geonamesId": 1810679,
+      "referenceName": "甘泉县域",
+      "longitude": 109.12528,
+      "latitude": 36.36833,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0076",
+      "geonamesId": 1806807,
+      "referenceName": "会宁县会师镇",
+      "longitude": 105.04858,
+      "latitude": 35.69196,
+      "featureCode": "PPLA3"
+    },
+    {
+      "placeId": "PLC-0077",
+      "geonamesId": 1806259,
+      "referenceName": "西吉将台堡地域",
+      "longitude": 105.85,
+      "latitude": 35.78333,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0085",
+      "geonamesId": 1788859,
+      "referenceName": "湖南新化县域",
+      "longitude": 111.28338,
+      "latitude": 27.83896,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0088",
+      "geonamesId": 1795056,
+      "referenceName": "贵州石阡县域",
+      "longitude": 108.20554,
+      "latitude": 27.49001,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0090",
+      "geonamesId": 1786808,
+      "referenceName": "赫章野马川",
+      "longitude": 104.83306,
+      "latitude": 27.1375,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0096",
+      "geonamesId": 1280006,
+      "referenceName": "石鼓镇（石鼓至巨甸多处渡口）",
+      "longitude": 99.95628,
+      "latitude": 26.86852,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0097",
+      "geonamesId": 1279460,
+      "referenceName": "中甸地域（今香格里拉）",
+      "longitude": 99.84905,
+      "latitude": 28.0557,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0098",
+      "geonamesId": 1279737,
+      "referenceName": "乡城县域（红六军团方向）",
+      "longitude": 99.60814,
+      "latitude": 29.28274,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0102",
+      "geonamesId": 7516804,
+      "referenceName": "宕昌哈达铺镇",
+      "longitude": 104.22301,
+      "latitude": 34.23132,
+      "featureCode": "PPLA4"
+    },
+    {
+      "placeId": "PLC-0103",
+      "geonamesId": 1815189,
+      "referenceName": "成县县域",
+      "longitude": 105.70323,
+      "latitude": 33.6781,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0104",
+      "geonamesId": 1810722,
+      "referenceName": "甘谷县域",
+      "longitude": 105.25989,
+      "latitude": 34.8032,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0112",
+      "geonamesId": 1818177,
+      "referenceName": "阿坝镇",
+      "longitude": 101.70625,
+      "latitude": 32.90594,
+      "featureCode": "PPLA3"
+    },
+    {
+      "placeId": "PLC-0114",
+      "geonamesId": 1813896,
+      "referenceName": "丹巴县域",
+      "longitude": 101.88869,
+      "latitude": 30.881,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0115",
+      "geonamesId": 1817206,
+      "referenceName": "雅安名山百丈镇",
+      "longitude": 103.26072,
+      "latitude": 30.18732,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0117",
+      "geonamesId": 1813896,
+      "referenceName": "丹巴县域",
+      "longitude": 101.88869,
+      "latitude": 30.881,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0118",
+      "geonamesId": 1802087,
+      "referenceName": "炉霍县域",
+      "longitude": 100.72976,
+      "latitude": 31.5569,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0119",
+      "geonamesId": 1818177,
+      "referenceName": "阿坝地域（1936年左纵队方向）",
+      "longitude": 101.70625,
+      "latitude": 32.90594,
+      "featureCode": "PPLA3"
+    },
+    {
+      "placeId": "PLC-0121",
+      "geonamesId": 6958366,
+      "referenceName": "若尔盖包座（1936年）",
+      "longitude": 103.36714,
+      "latitude": 33.4746,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0122",
+      "geonamesId": 1800454,
+      "referenceName": "岷县地域",
+      "longitude": 104.17566,
+      "latitude": 34.4349,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0150",
+      "geonamesId": 1786276,
+      "referenceName": "延川永坪镇",
+      "longitude": 109.81278,
+      "latitude": 37.00444,
+      "featureCode": "PPL"
+    },
+    {
+      "placeId": "PLC-0099",
+      "geonamesId": 1281695,
+      "referenceName": "白玉县域（红二军团方向）",
+      "longitude": 98.82317,
+      "latitude": 31.21326,
+      "featureCode": "ADM3"
+    },
+    {
+      "placeId": "PLC-0028",
+      "geonamesId": 1793591,
+      "referenceName": "古蔺太平镇（二渡的多处渡口之一）",
+      "longitude": 106.03771,
+      "latitude": 28.14083,
+      "featureCode": "PPL"
+    }
+  ],
+  "waypoints": [
+    {
+      "placeId": "PLC-0157",
+      "geonamesId": 1816762,
+      "referenceName": "北川地域",
+      "longitude": 104.29346,
+      "latitude": 31.97191,
+      "featureCode": "ADM3",
+      "sourceId": "SRC-0088",
+      "armyIds": [
+        "fourth"
+      ]
+    },
+    {
+      "placeId": "PLC-0158",
+      "geonamesId": 1802816,
+      "referenceName": "理番（今理县）",
+      "longitude": 103.02104,
+      "latitude": 31.58803,
+      "featureCode": "ADM3",
+      "sourceId": "SRC-0088",
+      "armyIds": [
+        "fourth"
+      ]
+    },
+    {
+      "placeId": "PLC-0159",
+      "geonamesId": 1788059,
+      "referenceName": "云南宣威",
+      "longitude": 104.1841,
+      "latitude": 26.2674,
+      "featureCode": "ADM3",
+      "sourceId": "SRC-0082",
+      "armyIds": [
+        "second"
+      ]
+    },
+    {
+      "placeId": "PLC-0160",
+      "geonamesId": 1810956,
+      "referenceName": "云南富民",
+      "longitude": 102.48511,
+      "latitude": 25.28848,
+      "featureCode": "ADM3",
+      "sourceId": "SRC-0082",
+      "armyIds": [
+        "second"
+      ]
+    },
+    {
+      "placeId": "PLC-0161",
+      "geonamesId": 8354851,
+      "referenceName": "西吉硝河城地域",
+      "longitude": 105.8413,
+      "latitude": 35.88409,
+      "featureCode": "PPL",
+      "sourceId": "SRC-0085",
+      "armyIds": [
+        "central"
+      ]
+    },
+    {
+      "placeId": "PLC-0162",
+      "geonamesId": 1809363,
+      "referenceName": "会宁郭城驿地域",
+      "longitude": 104.89111,
+      "latitude": 36.22806,
+      "featureCode": "PPL",
+      "sourceId": "SRC-0085",
+      "armyIds": [
+        "central"
+      ]
+    },
+    {
+      "placeId": "PLC-0163",
+      "geonamesId": 1785513,
+      "referenceName": "壤塘地域",
+      "longitude": 101.13105,
+      "latitude": 32.29115,
+      "featureCode": "ADM3",
+      "sourceId": "SRC-0043",
+      "armyIds": [
+        "fourth"
+      ]
+    },
+    {
+      "placeId": "PLC-0164",
+      "geonamesId": 1817513,
+      "referenceName": "青海班玛县域",
+      "longitude": 100.54179,
+      "latitude": 32.89347,
+      "featureCode": "ADM3",
+      "armyIds": [
+        "second",
+        "fourth"
+      ],
+      "sourceId": "SRC-0090"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SRC-0082",
+      "title": "红二、六军团过云南",
+      "institution": "云南人大网／云南发布",
+      "url": "https://www.ynrd.gov.cn/html/2021/bainiandangshi_0629/13010.html",
+      "date_text": "2021-06-29",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0083",
+      "title": "长征胜利 三军会师",
+      "institution": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n1/2016/0918/c85037-28721467.html",
+      "date_text": "2016-09-18",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0084",
+      "title": "丹巴红色遗址 · 党岭雪山",
+      "institution": "丹巴县人民政府",
+      "url": "https://www.danba.gov.cn/czdb/article/712678",
+      "date_text": "待核",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0085",
+      "title": "三大主力红军胜利会师，结束了具有伟大历史意义的长征",
+      "institution": "国防部网",
+      "url": "https://www.mod.gov.cn/gfbw/gfjy_index/js_214151/16260741.html",
+      "date_text": "待核",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0086",
+      "title": "巴西：见证红军路线斗争",
+      "institution": "若尔盖县人民政府",
+      "url": "https://www.ruoergai.gov.cn/regxrmzf/c100133/201106/d439c0d2e0b84e8589a919fa3f00d1ab.shtml",
+      "date_text": "2011-06",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0087",
+      "title": "迭部县国土空间总体规划 · 俄界景区",
+      "institution": "迭部县人民政府",
+      "url": "https://www.tewo.gov.cn/__local/7/57/C0/77A6D03211897B7F50D4127D766_23AC508B_544735.pdf",
+      "date_text": "待核",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0088",
+      "title": "徐向前 · 红四方面军西进",
+      "institution": "中国共产党新闻网",
+      "url": "https://cpc.people.com.cn/GB/67481/71472/4844494.html",
+      "date_text": "2006-09-21",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0089",
+      "title": "会议审时势，决策明方向",
+      "institution": "文化和旅游部",
+      "url": "https://zhuanti.mct.gov.cn/history_detail/773.html",
+      "date_text": "待核",
+      "author": "",
+      "status": "阶段方向与编制参照，待审核"
+    },
+    {
+      "id": "SRC-0090",
+      "title": "红军长征在青海藏乡",
+      "institution": "中共青海省委党史研究室",
+      "author": "王旭臻",
+      "date_text": "2026-09-23",
+      "url": "https://www.dswxyjy.org.cn/n1/2026/0923/c244516-40804309.html",
+      "status": "已对照左纵队四部分经班玛与先后抵达阿坝的段落，地域方向待审核"
+    }
+  ]
+}

@@ -151,6 +151,17 @@ section:focus {
   letter-spacing:.06em;
 }
 
+.navbar-controls { display:flex; align-items:center; gap:28px; min-width:0; }
+.home-fullscreen { flex-shrink:0; position:relative; }
+.home-fullscreen-button { display:flex; align-items:center; justify-content:center; gap:8px; min-height:44px; min-width:100px; padding:8px 12px; border:1px solid #b99a6170; background:#241814a6; color:#f4e8d2; font:14px/1.5 var(--serif); cursor:pointer; touch-action:manipulation; }
+.home-fullscreen-button:hover { background:#543029; border-color:#b99a61; }
+.home-fullscreen-button:focus-visible { outline:2px solid #e6c58e; outline-offset:4px; }
+.home-fullscreen-button:active { background:#6c382f; }
+.home-fullscreen-button:disabled { cursor:wait; opacity:.7; }
+.home-fullscreen-message { position:absolute; top:calc(100% + 8px); right:0; width:min(320px,calc(100vw - 32px)); display:flex; align-items:flex-start; padding:10px; background:#241814; color:#f4e8d2; border:1px solid #b99a6170; font:14px/1.7 var(--serif); }
+.home-fullscreen-message p { margin:0; }
+.home-fullscreen-message button { flex-shrink:0; width:44px; min-height:44px; border:0; background:none; color:inherit; font-size:24px; cursor:pointer; }
+
 .navbar nav a {
   position:relative;
   padding:8px 0;
@@ -397,6 +408,13 @@ section:focus {
   background:none;
   padding:10px 0 10px 24px;
   letter-spacing:.1em;
+}
+
+.hero-content .hero-art-credit {
+  margin: 8px 0 0;
+  color: #f0e0c7;
+  font: 12px/1.5 'Source Han Sans SC', sans-serif;
+  text-shadow: 0 1px 4px #17140f;
 }
 
 .source-button:hover {

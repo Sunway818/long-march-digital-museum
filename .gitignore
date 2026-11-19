@@ -3,6 +3,10 @@ node_modules/
 dist/
 coverage/
 .vite/
+.cache/
+.npm/
+*.tsbuildinfo
+.vercel/
 
 # Local environment and credentials
 .env
@@ -10,19 +14,46 @@ coverage/
 !.env.example
 *.pem
 *.key
+*.p12
+*.pfx
+*.jks
+.netrc
+.pypirc
+id_rsa
+id_ed25519
 .npmrc
 
 # OS and logs
 .DS_Store
 Thumbs.db
+Desktop.ini
 *.log
 
 # Local test artifacts and runtime caches
 playwright-report/
 test-results/
-output/playwright/
+/output/
+/artifacts/
+/.local/
+.pytest_cache/
 __pycache__/
 *.pyc
+*.pyo
+*.tmp
+*.bak
+*.orig
+*.rej
+*.swp
+*~
+~$*
+*.pid
+.eslintcache
+.stylelintcache
+.venv/
+venv/
+.playwright/
+.direnv/
+.envrc
 
 # Editor personal state; project recommendations may be tracked explicitly
 .idea/
@@ -30,4 +61,21 @@ __pycache__/
 !.vscode/extensions.json
 !.vscode/settings.example.json
 
-# Project documents, source, licenses and .agents/skills are intentionally tracked.
+# Keep raw research local. Vite requires only the registered archive images
+# and their integrity manifest. AST-0005 is a rejected portrait candidate.
+/research/*
+!/research/.gitignore
+!/research/overnight_20261110/
+/research/overnight_20261110/*
+!/research/overnight_20261110/images/
+/research/overnight_20261110/images/*
+!/research/overnight_20261110/images/data/
+!/research/overnight_20261110/images/downloaded_originals/
+/research/overnight_20261110/images/data/*
+!/research/overnight_20261110/images/data/download-results.json
+/research/overnight_20261110/images/downloaded_originals/*
+!/research/overnight_20261110/images/downloaded_originals/AST-*.jpg
+!/research/overnight_20261110/images/downloaded_originals/AST-*.png
+/research/overnight_20261110/images/downloaded_originals/AST-0005_*
+
+# Project source, documents, pictures, licenses and .agents/skills stay eligible.

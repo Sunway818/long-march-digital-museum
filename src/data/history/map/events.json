@@ -1,0 +1,5538 @@
+[
+  {
+    "id": "EVT-003",
+    "title": "中央机关及部队向集结地域转移",
+    "start_date": "1934-10-01",
+    "end_date": "1934-10-31",
+    "date_precision": "month",
+    "date_text": "1934年10月上中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0001"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：出发是分驻地、分梯队的过程。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0025",
+      "SRC-0026"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": true,
+    "batch": 1,
+    "relation": "与于都河渡江集结相衔接，不能用同一天概括所有部队。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-004",
+    "title": "红九军团按命令秘密西移",
+    "start_date": "1934-10-01",
+    "end_date": "1934-10-31",
+    "date_precision": "month",
+    "date_text": "1934年10月7—9日前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0002"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红九军团等中央红军部队",
+    "summary": "经过：红九军团由长汀驻地转移。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0026"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "向古城、瑞金方向；须区分松毛岭撤退和正式集中转移。",
+    "disputes": "",
+    "gaps": "具体出发点、各团日程及古地名比对；不能把松毛岭战斗结束日直接当作全军出发日。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-005",
+    "title": "驻宁化部队分路向西集中",
+    "start_date": "1934-10-01",
+    "end_date": "1934-10-31",
+    "date_precision": "month",
+    "date_text": "1934年10月上中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0003"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红三军团一部、红一军团第十五师一部及后方机关等",
+    "summary": "经过：不同建制分别向于都、长汀等地转移。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0026"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "宁化并非所有部队同一条出发路线。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-006",
+    "title": "中央红军渡于都河出发",
+    "start_date": "1934-10-01",
+    "end_date": "1934-10-31",
+    "date_precision": "month",
+    "date_text": "1934年10月17—20日前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0004"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：中央主力及机关分渡口渡江。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0024",
+      "AST-0025",
+      "AST-0026"
+    ],
+    "document_ids": [
+      "DOC-0004"
+    ],
+    "source_ids": [
+      "SRC-0025",
+      "SRC-0026"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": true,
+    "batch": 1,
+    "relation": "此前分散集结，随后南进突破封锁。",
+    "disputes": "资料有20日傍晚、21日拂晓等结束时段口径；八个主要渡口不等于所有小渡口。需按梯队核对，不强行统一。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-007",
+    "title": "突破第一道封锁线",
+    "start_date": "1934-10-21",
+    "end_date": null,
+    "date_precision": "range",
+    "date_text": "1934年10月21日起突破；25—27日完成口径待核",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0005"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：百石、新田、古陂等不同战斗与桃江各梯队渡河相联系。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0082",
+      "AST-0083"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0031",
+      "SRC-0066",
+      "SRC-0069"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "于都之后进入赣粤边。",
+    "disputes": "概述常以21—25日标记；信丰史志专题将25日中央纵队渡河、27日全军渡完分开。按梯队核对，不能压为统一完成日。",
+    "gaps": "补开广东文史专题并对照军委电令；“新田”须区分同名地。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-008",
+    "title": "通过第二道封锁线",
+    "start_date": "1934-11-01",
+    "end_date": "1934-11-30",
+    "date_precision": "month",
+    "date_text": "1934年11月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0006"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：经湘粤边突破封锁。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "向郴县—宜章间开进；范围节点不是一处坐标。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-009",
+    "title": "半条被子相关军民故事",
+    "start_date": "1934-11-01",
+    "end_date": "1934-11-30",
+    "date_precision": "month",
+    "date_text": "1934年11月上旬（口述文章记6日晚，尚待原采访记录对照）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0007"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：罗开富1984年采访徐解秀的记录链可定位；后期口述文章叙述三名女红军借宿、赠被。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [
+      "DOC-0027"
+    ],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0068"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "故事地点与主力各路经过日不直接等同。",
+    "disputes": "",
+    "gaps": "三名女红军真实姓名、1984原报版面及原始录音/笔记、被子原物流转和图片许可未取得。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-010",
+    "title": "突破第三道封锁线",
+    "start_date": "1934-11-13",
+    "end_date": "1934-11-15",
+    "date_precision": "range",
+    "date_text": "1934年11月13—15日",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0008"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：红军通过郴宜间缺口西进。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "接道县与潇水行动；不能以县城点连线代替各纵队行程。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-011",
+    "title": "水南架桥接应红军",
+    "start_date": "1934-11-17",
+    "end_date": "1934-11-18",
+    "date_precision": "range",
+    "date_text": "1934年11月17—18日（该地接应叙事）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0009"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：地方报道保存接应与架桥回忆。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0029"
+    ],
+    "document_ids": [
+      "DOC-0005",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0028",
+      "SRC-0030"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "分队渡河、占城、中央纵队渡河应分别记。",
+    "disputes": "地方文章写17日到水南、18日架桥；湖南综述写22日拂晓先占道县。可能涉及梯队或地点，但未核对前不作裁定。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-012",
+    "title": "湘江战役新圩阻击战",
+    "start_date": "1934-11-01",
+    "end_date": "1934-11-30",
+    "date_precision": "month",
+    "date_text": "1934年11月下旬（战斗逐日待核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0010"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：湘江战役阻击地域之一。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0028"
+    ],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 1,
+    "relation": "担负渡江侧翼掩护，与纪念馆所在地须分开。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-013",
+    "title": "湘江战役脚山铺阻击战",
+    "start_date": "1934-11-01",
+    "end_date": "1934-12-31",
+    "date_precision": "range",
+    "date_text": "1934年11月下旬—12月1日前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0011"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：右翼阻击与渡河安全相关。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 1,
+    "relation": "不同阵地分属战斗地域，不以纪念园代替全部战场。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-014",
+    "title": "湘江战役光华铺阻击战",
+    "start_date": "1934-11-01",
+    "end_date": "1934-11-30",
+    "date_precision": "month",
+    "date_text": "1934年11月下旬（逐日待核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0012"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：主要阻击战之一。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 1,
+    "relation": "与界首渡口相互掩护，具体阵地需档案图补充。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-015",
+    "title": "中央红军抢渡湘江",
+    "start_date": "1934-11-27",
+    "end_date": "1934-11-27",
+    "date_precision": "day",
+    "date_text": "1934年11月27日—12月1日（战役时段）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0013"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：战役期间重要渡口。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [
+      "AST-0027"
+    ],
+    "document_ids": [
+      "DOC-0006",
+      "DOC-0007"
+    ],
+    "source_ids": [
+      "SRC-0028",
+      "SRC-0029"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "红六军团9月先遣过境与中央红军11月行动分列。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-016",
+    "title": "渡湘江后翻越越城岭",
+    "start_date": "1934-12-01",
+    "end_date": "1934-12-31",
+    "date_precision": "month",
+    "date_text": "1934年12月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0014"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：突破湘江后向西越岭。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0028"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "向龙胜—通道方向转移；山系、山口和现代景区不能混同。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-017",
+    "title": "中央红军向通道转移",
+    "start_date": "1934-12-01",
+    "end_date": "1934-12-31",
+    "date_precision": "month",
+    "date_text": "1934年12月上中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0015"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：广西境内后续转移地域。 背景：第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "background": "第五次反围剿后中央红军战略转移、分纵队突破封锁的背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0028"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 1,
+    "relation": "应按各军团分路补齐，暂不绘连续路线。",
+    "disputes": "",
+    "gaps": "具体乡村、入出境日及不同军团经过顺序待核。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-018",
+    "title": "中央负责人紧急会议、战略方向讨论",
+    "start_date": "1934-12-12",
+    "end_date": "1934-12-12",
+    "date_precision": "day",
+    "date_text": "1934-12-12",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0016"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：会议讨论向贵州转兵。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033"
+    ],
+    "verification_status": "disputed",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "湘江之后，黎平之前。",
+    "disputes": "会议赞成西进不等于当场完成所有战略决策；具体会议地点、与恭城书院的对应需原始证据。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-019",
+    "title": "中央政治局会议",
+    "start_date": "1934-12-18",
+    "end_date": "1934-12-18",
+    "date_precision": "day",
+    "date_text": "1934-12-18",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0017"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：通过战略方针决定。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0030"
+    ],
+    "document_ids": [
+      "DOC-0008"
+    ],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "通道之后，经黔东向猴场、乌江。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-020",
+    "title": "猴场会议",
+    "start_date": "1934-12-31",
+    "end_date": "1935-01-01",
+    "date_precision": "range",
+    "date_text": "1934-12-31夜—1935-01-01凌晨",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0018"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：明确渡江后行动方针。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0031"
+    ],
+    "document_ids": [
+      "DOC-0009"
+    ],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "北渡乌江前；不要和土城猴场同名点混淆。",
+    "disputes": "简表常写1月1日，详细记述跨年夜。历史猴场、今镇名与资料中的草塘称谓须按年代区分。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-021",
+    "title": "中央红军突破乌江",
+    "start_date": "1935-01-01",
+    "end_date": "1935-01-31",
+    "date_precision": "month",
+    "date_text": "1935年1月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0019"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：渡江后进占遵义。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0032"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "本次北渡与3月底南渡是两次相反方向行动。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-001",
+    "title": "遵义会议",
+    "start_date": "1935-01-15",
+    "end_date": "1935-01-17",
+    "date_precision": "range",
+    "date_text": "1935-01-15—17",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0020"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "1935年1月15日至17日，中共中央政治局在贵州遵义召开扩大会议，总结第五次反“围剿”和长征初期的经验教训，重点讨论军事和组织问题；会议推动纠正军事领导错误，事实上确立毛泽东在党中央和红军中的领导地位。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0001",
+      "AST-0002",
+      "AST-0003",
+      "AST-0004",
+      "AST-0005",
+      "AST-0006",
+      "AST-0007",
+      "AST-0008",
+      "AST-0009",
+      "AST-0010",
+      "AST-0011",
+      "AST-0012",
+      "AST-0013",
+      "AST-0014",
+      "AST-0015",
+      "AST-0016",
+      "AST-0017",
+      "AST-0018",
+      "AST-0019",
+      "AST-0020"
+    ],
+    "document_ids": [
+      "DOC-0001",
+      "DOC-0002",
+      "DOC-0003"
+    ],
+    "source_ids": [
+      "SRC-0002",
+      "SRC-0003",
+      "SRC-0004",
+      "SRC-0005",
+      "SRC-0006",
+      "SRC-0007",
+      "SRC-0008",
+      "SRC-0009",
+      "SRC-0010",
+      "SRC-0011",
+      "SRC-0012",
+      "SRC-0013",
+      "SRC-0014",
+      "SRC-0015",
+      "SRC-0016",
+      "SRC-0017",
+      "SRC-0018",
+      "SRC-0032",
+      "SRC-0033"
+    ],
+    "verification_status": "disputed",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "1月7日占城、9日机关到达与会议日期分开。",
+    "disputes": "本轮文物报道将子尹路曾用名称为枇杷桥；v6注记1935梧桐街、1937改称子尹路。不同历史时段称谓须查地方志，不直接覆盖。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-022",
+    "title": "土城战斗",
+    "start_date": "1935-01-28",
+    "end_date": "1935-01-28",
+    "date_precision": "day",
+    "date_text": "1935-01-28",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0021"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：作战未达预期后改变部署。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0010"
+    ],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0034"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 2,
+    "relation": "随后分路西渡赤水。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-023",
+    "title": "一渡赤水",
+    "start_date": "1935-01-29",
+    "end_date": "1935-01-29",
+    "date_precision": "day",
+    "date_text": "1935-01-29",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0022"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：中央红军分路西渡。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0033"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0034",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "向古蔺、叙永转移，原计划北渡长江未实现。",
+    "disputes": "元厚场/袁厚场等异写见旧资料；原v6亦提示历史称谓，须保留原文并核定。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-024",
+    "title": "中央领导行军中会议线索",
+    "start_date": "1935-02-01",
+    "end_date": "1935-02-28",
+    "date_precision": "month",
+    "date_text": "1935年2月初（逐日待核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0023"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：后续会议序列中的一站。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0033"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "一渡之后向扎西地区集中。",
+    "disputes": "",
+    "gaps": "与鸡鸣三省组织分工的时间、具体地点及命名关系需专题证据。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-025",
+    "title": "中央常委分工调整相关会议",
+    "start_date": "1935-02-01",
+    "end_date": "1935-02-28",
+    "date_precision": "month",
+    "date_text": "1935年2月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0024"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：当事人回忆提及领导分工变化。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0034"
+    ],
+    "verification_status": "disputed",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "一渡赤水至威信途中；不与任一现存纪念建筑强绑定。",
+    "disputes": "存在不同会址解释及回忆年代差异；2017研究与云南专题用法不完全相同，保留广义地域，不填坐标。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-026",
+    "title": "扎西地区系列会议之一",
+    "start_date": "1935-02-05",
+    "end_date": "1935-02-05",
+    "date_precision": "day",
+    "date_text": "1935-02-05（v6既有记载）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0025"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：系列会议分别发生于不同地点。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0016",
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "花房子之后至大河滩、扎西；不能把所有决议都归于一址。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-002",
+    "title": "《遵义会议决议》通过",
+    "start_date": "1935-02-06",
+    "end_date": "1935-02-08",
+    "date_precision": "range",
+    "date_text": "1935-02-06—08；决议通过日2月8日（v6）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0026"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "1935年2月8日，中央政治局在云南省威信县大河滩庄子上召开会议，通过张闻天起草的《关于反对敌人五次“围剿”的总结的决议》。决议系统总结第五次反“围剿”失利和长征初期的经验教训。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0003",
+      "AST-0021",
+      "AST-0022",
+      "AST-0023",
+      "AST-0020"
+    ],
+    "document_ids": [
+      "DOC-0001",
+      "DOC-0002"
+    ],
+    "source_ids": [
+      "SRC-0002",
+      "SRC-0014",
+      "SRC-0016",
+      "SRC-0018",
+      "SRC-0020",
+      "SRC-0021",
+      "SRC-0024",
+      "SRC-0035"
+    ],
+    "verification_status": "disputed",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "花房子与江西会馆之间。",
+    "disputes": "遵义会议开会日不等于决议成文通过日；不以地图众包点作确切旧址坐标。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-027",
+    "title": "扎西系列会议及回师部署",
+    "start_date": "1935-02-09",
+    "end_date": "1935-02-09",
+    "date_precision": "day",
+    "date_text": "1935-02-09（v6）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0027"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：扎西会议是多地多次会议的统称。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0016",
+      "SRC-0021",
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "后回师黔北二渡赤水。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-028",
+    "title": "二渡赤水",
+    "start_date": "1935-02-18",
+    "end_date": "1935-02-21",
+    "date_precision": "range",
+    "date_text": "1935-02-18—21",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0028"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：红军回师东进。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0034"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "扎西后，桐梓娄山关遵义之前。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-029",
+    "title": "娄山关与遵义战斗",
+    "start_date": "1935-02-01",
+    "end_date": "1935-02-28",
+    "date_precision": "month",
+    "date_text": "1935年2月下旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0029"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：回师黔北后连续作战。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0035"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0014",
+      "SRC-0015",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 2,
+    "relation": "二渡之后；不同于1月首次取娄山关。",
+    "disputes": "",
+    "gaps": "精确分日与各战斗阵地待专项核对；不把2月底全部行动归为一个战斗点。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-030",
+    "title": "前敌司令部成立相关会议",
+    "start_date": "1935-03-04",
+    "end_date": "1935-03-04",
+    "date_precision": "day",
+    "date_text": "1935-03-04",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0030"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：设置前敌司令部。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0033"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "在遵义战斗后、苟坝之前。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-031",
+    "title": "讨论打鼓新场及指挥机构调整",
+    "start_date": "1935-03-01",
+    "end_date": "1935-03-31",
+    "date_precision": "month",
+    "date_text": "1935年3月上中旬（10—12日过程待核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0031"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：会议过程与新三人团形成须分阶段记述。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0032",
+      "SRC-0033"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "之后鲁班场、三渡赤水。",
+    "disputes": "简表“3月12日”与按10—12日分日叙述层级不同；三人团建立具体日和参与者须核对原文。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-032",
+    "title": "鲁班场战斗",
+    "start_date": "1935-03-15",
+    "end_date": "1935-03-15",
+    "date_precision": "day",
+    "date_text": "1935-03-15",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0032"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：攻坚未克后寻求机动。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 2,
+    "relation": "继而三渡赤水。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-033",
+    "title": "三渡赤水",
+    "start_date": "1935-03-16",
+    "end_date": "1935-03-17",
+    "date_precision": "range",
+    "date_text": "1935-03-16—17（v6范围）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0033"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：向川南机动。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0036"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "随后折返四渡。",
+    "disputes": "纪念馆本文用17日概括，v6记16—17日；须按开始、主力完成与各分队区分。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-034",
+    "title": "四渡赤水",
+    "start_date": "1935-03-21",
+    "end_date": "1935-03-22",
+    "date_precision": "range",
+    "date_text": "1935-03-21—22（v6范围）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0034"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：主力东渡再转南。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0037"
+    ],
+    "document_ids": [
+      "DOC-0011"
+    ],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "南渡乌江；红九军团承担牵制，不能随主力画同线。",
+    "disputes": "3月20日电令指定21日夜二郎滩至林滩地段；v6包括太平渡。渡口清单与梯队完成日须查原电令。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-035",
+    "title": "四渡赤水后南渡乌江",
+    "start_date": "1935-03-01",
+    "end_date": "1935-03-31",
+    "date_precision": "month",
+    "date_text": "1935年3月底",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0035"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：主力南下，红九军团继续牵制行动。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0038"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0015",
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "接贵阳近郊和清水江机动。",
+    "disputes": "",
+    "gaps": "原文此处未逐口定位，所列渡口名必须专门核对后方可发布。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-036",
+    "title": "佯攻贵阳、清水江佯动",
+    "start_date": "1935-04-01",
+    "end_date": "1935-04-30",
+    "date_precision": "month",
+    "date_text": "1935年4月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0036"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：诱调敌军后主力西转。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "不等于进入贵阳城；红九军团单独行动。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-037",
+    "title": "主力西进渡北盘江",
+    "start_date": "1935-04-01",
+    "end_date": "1935-04-30",
+    "date_precision": "month",
+    "date_text": "1935-04-18前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0037"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：打开入滇道路。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "与红九军团稍后渡江时间分开。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-038",
+    "title": "分纵队入滇与牵制机动",
+    "start_date": "1935-04-01",
+    "end_date": "1935-04-30",
+    "date_precision": "month",
+    "date_text": "1935年4月下旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0038"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：各纵队目标和实际行动不同。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "红九军团朝宣威，主力续向滇中。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-039",
+    "title": "红一军团一部攻克马龙",
+    "start_date": "1935-04-27",
+    "end_date": "1935-04-27",
+    "date_precision": "day",
+    "date_text": "1935-04-27",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0039"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：为西进创造条件。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "曲靖之后趋寻甸；不能把计划中的歼敌当已发生。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-040",
+    "title": "军委驻地及渡江部署",
+    "start_date": "1935-04-30",
+    "end_date": "1935-04-30",
+    "date_precision": "day",
+    "date_text": "1935-04-30",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0040"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：研究渡金沙江部署。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0074",
+      "AST-0075"
+    ],
+    "document_ids": [
+      "DOC-0013"
+    ],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "不同纵队向不同预定渡口进发。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-041",
+    "title": "分路抢占渡口及调整",
+    "start_date": "1935-05-01",
+    "end_date": "1935-05-31",
+    "date_precision": "month",
+    "date_text": "1935年5月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0041"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：原分路渡江计划后有调整。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0075"
+    ],
+    "document_ids": [
+      "DOC-0013"
+    ],
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "预定目标不等于各部都在该处成功渡江。",
+    "disputes": "主力转皎平渡的具体经过与各分队个别渡江情况应分开，不将计划路线直接当实际全程。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-042",
+    "title": "巧渡金沙江",
+    "start_date": "1935-05-01",
+    "end_date": "1935-05-31",
+    "date_precision": "month",
+    "date_text": "1935年5月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0042"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：主力渡金沙江。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0039",
+      "AST-0040",
+      "AST-0074",
+      "AST-0075"
+    ],
+    "document_ids": [
+      "DOC-0013"
+    ],
+    "source_ids": [
+      "SRC-0035",
+      "SRC-0036"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "红九军团树桔渡另列；现代库区变化影响旧渡口定位。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-043",
+    "title": "红九军团单独渡金沙江",
+    "start_date": "1935-05-01",
+    "end_date": "1935-05-31",
+    "date_precision": "month",
+    "date_text": "1935年5月上旬；云南党史综述记5月6日全部渡过",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0043"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红九军团",
+    "summary": "经过：红九军团由滇东北侧翼掩护主力，经会泽后在树桔渡金沙江，不能归入主力皎平渡路线。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0074"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0035",
+      "SRC-0039"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "经滇东北后渡江再会合。",
+    "disputes": "",
+    "gaps": "逐队到达、首渡与渡完日，南北岸旧渡口和库区变化，仍需原电报及地方志对照。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-044",
+    "title": "会理会议",
+    "start_date": "1935-05-12",
+    "end_date": "1935-05-12",
+    "date_precision": "day",
+    "date_text": "1935-05-12",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0044"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：统一作战认识。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0033",
+      "SRC-0038"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 3,
+    "relation": "金沙江之后，继续北进大渡河。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-045",
+    "title": "先遣队侦察与分兵",
+    "start_date": "1935-05-20",
+    "end_date": "1935-05-21",
+    "date_precision": "range",
+    "date_text": "1935-05-20—21",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0045"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：选择经彝区奔安顺场。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0043"
+    ],
+    "document_ids": [
+      "DOC-0014"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0038"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "偏师向大树堡佯动，主力经冕宁，分路须标识。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-046",
+    "title": "刘伯承与小叶丹结盟",
+    "start_date": "1935-05-22",
+    "end_date": "1935-05-22",
+    "date_precision": "day",
+    "date_text": "1935-05-22",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0046"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：结盟有助通过彝区。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0043"
+    ],
+    "document_ids": [
+      "DOC-0014"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0038"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "经拖乌方向奔大渡河。",
+    "disputes": "",
+    "gaps": "誓词、赠旗文字等据后来回忆或文物，不能冒称当日录音/逐字会议记录。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-047",
+    "title": "强渡大渡河",
+    "start_date": "1935-05-24",
+    "end_date": "1935-05-24",
+    "date_precision": "day",
+    "date_text": "1935-05-24抵达占渡口；25日强渡",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0047"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：先遣部队渡河打开通道。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0041",
+      "AST-0061"
+    ],
+    "document_ids": [
+      "DOC-0012"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0037"
+    ],
+    "verification_status": "disputed",
+    "kind": "battle",
+    "important": true,
+    "batch": 3,
+    "relation": "后两岸夹河而上至泸定。",
+    "disputes": "24日到达占领与25日突击渡河是不同环节，不压为单一日期。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-048",
+    "title": "两纵队配合向泸定推进",
+    "start_date": "1935-05-26",
+    "end_date": "1935-05-29",
+    "date_precision": "range",
+    "date_text": "1935-05-26—29",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0048"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：两岸部队配合夺桥。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0061"
+    ],
+    "document_ids": [
+      "DOC-0012"
+    ],
+    "source_ids": [
+      "SRC-0037"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 3,
+    "relation": "左右纵队是战术编组；河流左/右岸按下游方向，不能仅按地图左右判断。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-049",
+    "title": "飞夺泸定桥",
+    "start_date": "1935-05-29",
+    "end_date": "1935-05-29",
+    "date_precision": "day",
+    "date_text": "1935-05-29；主力通过至6月2日",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0049"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：夺桥与主力随后通过分开记。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0042",
+      "AST-0061"
+    ],
+    "document_ids": [
+      "DOC-0012"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0037"
+    ],
+    "verification_status": "disputed",
+    "kind": "battle",
+    "important": true,
+    "batch": 3,
+    "relation": "继而向天全、芦山、宝兴转移。",
+    "disputes": "1935《战士》报引文记二连21名英雄，后来的通行叙述为22勇士；保留文献差异，不能擅改原件文字或裁定人数。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-050",
+    "title": "主力向夹金山进发",
+    "start_date": "1935-06-01",
+    "end_date": "1935-06-30",
+    "date_precision": "month",
+    "date_text": "1935年6月上中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0050"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：渡大渡河后转向雪山。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 4,
+    "relation": "与红四方面军同年秋季南下经过分列。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-051",
+    "title": "翻越夹金山",
+    "start_date": "1935-06-01",
+    "end_date": "1935-06-30",
+    "date_precision": "month",
+    "date_text": "1935年6月中旬；先遣6月12日前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0051"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：先遣与主力陆续翻越。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0044",
+      "AST-0080"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041",
+      "SRC-0056"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 4,
+    "relation": "北麓达维会师；主峰、历史山口、现代公路垭口不可互代。",
+    "disputes": "",
+    "gaps": "文献写王母寨垭口4114米，仍须核对历史古道线；未填峰顶或公路点坐标。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-052",
+    "title": "红一、红四方面军先头会师",
+    "start_date": "1935-06-12",
+    "end_date": "1935-06-12",
+    "date_precision": "day",
+    "date_text": "1935-06-12（先头会师）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0052"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军相关部队（具体编组见事件）",
+    "summary": "经过：先头部队相会。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0045"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041"
+    ],
+    "verification_status": "pending",
+    "kind": "reunion",
+    "important": true,
+    "batch": 4,
+    "relation": "中央领导稍后到达；与18日主力会师概括区分。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-053",
+    "title": "红一、红四方面军主力会师",
+    "start_date": "1935-06-01",
+    "end_date": "1935-06-30",
+    "date_precision": "month",
+    "date_text": "1935年6月中旬；主力18日前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0053"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军相关部队（具体编组见事件）",
+    "summary": "经过：主力集结与会师庆祝。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0045"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "kind": "reunion",
+    "important": true,
+    "batch": 4,
+    "relation": "达维先头会师之后，两河口会议之前。",
+    "disputes": "",
+    "gaps": "现代县名小金；不能让1935年人物说出今天行政名。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-054",
+    "title": "两河口会议",
+    "start_date": "1935-06-26",
+    "end_date": "1935-06-28",
+    "date_precision": "range",
+    "date_text": "1935-06-26—28",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0054"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军相关部队（具体编组见事件）",
+    "summary": "经过：确定会师后北上战略。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0046"
+    ],
+    "document_ids": [
+      "DOC-0015"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040",
+      "SRC-0041",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 4,
+    "relation": "后续松潘战役计划、芦花沙窝会议。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-055",
+    "title": "中央部队北进行军",
+    "start_date": "1935-06-01",
+    "end_date": "1935-07-31",
+    "date_precision": "range",
+    "date_text": "1935年6月底—7月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0055"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军相关部队",
+    "summary": "经过：北上中的雪山与驻地。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 4,
+    "relation": "并非所有红军同路；1936右纵队再次经过另列。",
+    "disputes": "",
+    "gaps": "卓克基具体驻地、日程和梦笔山古道需专门来源，暂为地域级。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-056",
+    "title": "芦花会议及组织安排",
+    "start_date": "1935-07-01",
+    "end_date": "1935-07-31",
+    "date_precision": "month",
+    "date_text": "1935年7月；18日会议节点",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0056"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军相关部队（具体编组见事件）",
+    "summary": "经过：会师后组织与作战问题讨论。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 4,
+    "relation": "与两河口、沙窝共同构成后续过程。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-057",
+    "title": "沙窝会议",
+    "start_date": "1935-08-01",
+    "end_date": "1935-08-31",
+    "date_precision": "month",
+    "date_text": "1935年8月上旬（6日起会议过程待核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0057"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军相关部队（具体编组见事件）",
+    "summary": "经过：重申北上和两军团结。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0040",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 4,
+    "relation": "随后毛儿盖会议及草地行军。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-058",
+    "title": "毛儿盖会议与右路军出发",
+    "start_date": "1935-08-20",
+    "end_date": "1935-08-20",
+    "date_precision": "day",
+    "date_text": "1935-08-20（会议）；8月下旬行军",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0058"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军相关部队（具体编组见事件）",
+    "summary": "经过：作出战略方针补充决定。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0047"
+    ],
+    "document_ids": [
+      "DOC-0016"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 4,
+    "relation": "右路军向草地；左路军出发地域与组成另核。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-059",
+    "title": "右路军穿越草地",
+    "start_date": "1935-08-01",
+    "end_date": "1935-08-31",
+    "date_precision": "month",
+    "date_text": "1935年8月下旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0059"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "1935年混编右路军",
+    "summary": "经过：跨越水草地。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0053",
+      "AST-0054"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0041",
+      "SRC-0043"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 4,
+    "relation": "右路军包括两个方面军部分部队，不等于单一军团。",
+    "disputes": "地方资料以先头8月18日出发、24日达班佑叙述；整体综述常写21日起及六天六夜。需按梯队区分，不能认定为同一队伍同一日。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-060",
+    "title": "过草地后集结",
+    "start_date": "1935-08-01",
+    "end_date": "1935-08-31",
+    "date_precision": "month",
+    "date_text": "1935年8月下旬；后续多次经过另列",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0060"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "1935年右路军",
+    "summary": "经过：先头与中央纵队陆续到达。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0055",
+      "AST-0056"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 4,
+    "relation": "向包座、巴西地域；1935南返与1936北上不能叠作一次。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-061",
+    "title": "包座战斗及北进通道",
+    "start_date": "1935-08-01",
+    "end_date": "1935-08-31",
+    "date_precision": "month",
+    "date_text": "1935年8月底（具体战斗日另核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0061"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "以红四方面军第三十军等右路军部队为主（编制待专核）",
+    "summary": "经过：草地北缘作战节点。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0059",
+      "AST-0060"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 4,
+    "relation": "具体参战军、主战场、追击地需战史逐日核对。",
+    "disputes": "",
+    "gaps": "补独立战史对照包座起讫、四十九师损失及各团行动，暂不填精确伤亡。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-062",
+    "title": "巴西地区会议及中央北上",
+    "start_date": "1935-09-01",
+    "end_date": "1935-09-30",
+    "date_precision": "month",
+    "date_text": "1935年9月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0062"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军相关部队（具体编组见事件）",
+    "summary": "经过：北上、南下分歧与部队分离。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0057",
+      "AST-0058"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0042",
+      "SRC-0043"
+    ],
+    "verification_status": "disputed",
+    "kind": "meeting",
+    "important": true,
+    "batch": 4,
+    "relation": "中央率一、三军等向俄界；四、三十军等后南下。",
+    "disputes": "巴西会议是系列活动称谓；不将9月9日紧急会议、其他讨论和现代纪念馆混成一址一日。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-063",
+    "title": "俄界会议",
+    "start_date": "1935-09-12",
+    "end_date": "1935-09-12",
+    "date_precision": "day",
+    "date_text": "1935-09-12",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0063"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中共中央与红一、三军、军委纵队等",
+    "summary": "经过：中央政治局扩大会议。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0048",
+      "AST-0062"
+    ],
+    "document_ids": [
+      "DOC-0017"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0041",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 4,
+    "relation": "北上部队改编陕甘支队，继续腊子口。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-064",
+    "title": "腊子口战斗",
+    "start_date": "1935-09-16",
+    "end_date": "1935-09-17",
+    "date_precision": "range",
+    "date_text": "1935-09-16—17",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0064"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红一军第二师第四团等",
+    "summary": "经过：突破关口。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0049"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0042"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 4,
+    "relation": "进入甘南后趋哈达铺。",
+    "disputes": "",
+    "gaps": "具体突击路线、桥梁旧址及伤亡需战斗记录，不以景区点替代阵地。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-065",
+    "title": "休整、获知陕北消息及改编部署",
+    "start_date": "1935-09-18",
+    "end_date": "1935-09-20",
+    "date_precision": "range",
+    "date_text": "1935-09-18—20各梯队到达；22日干部会议",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0065"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：转向陕北的信息与决策环节。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0042",
+      "SRC-0046",
+      "SRC-0047"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": true,
+    "batch": 5,
+    "relation": "腊子口之后，榜罗镇之前。",
+    "disputes": "不同文章将改编决定、正式宣布及会议概括在20日或22日；18日侦察队、19日师主力、20日中央到达不能混同。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-066",
+    "title": "榜罗镇会议",
+    "start_date": "1935-09-27",
+    "end_date": "1935-09-27",
+    "date_precision": "day",
+    "date_text": "1935-09-27",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0066"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：决定将落脚点放在陕北。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0063"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0041",
+      "SRC-0042",
+      "SRC-0047"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 5,
+    "relation": "之后突破渭河等封锁线。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-067",
+    "title": "休整与西兰公路附近机动",
+    "start_date": "1935-10-01",
+    "end_date": "1935-10-31",
+    "date_precision": "month",
+    "date_text": "1935年10月3—5日前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0067"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：中央红军经过与群众工作。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 5,
+    "relation": "此处1935经过与1936会师部署不同。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-068",
+    "title": "翻越六盘山",
+    "start_date": "1935-10-07",
+    "end_date": "1935-10-07",
+    "date_precision": "day",
+    "date_text": "1935-10-07（中央领导通过日口径）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0068"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：北上途中越山。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0050",
+      "AST-0088"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0044",
+      "SRC-0045",
+      "SRC-0046",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 5,
+    "relation": "向镇原三岔、环县；山脉不是单一峰顶坐标。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-069",
+    "title": "六盘山地域作战",
+    "start_date": "1935-10-01",
+    "end_date": "1935-10-31",
+    "date_precision": "month",
+    "date_text": "1935-10-07前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0069"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：通过六盘山时的战斗线索。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0087"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 5,
+    "relation": "与翻山同阶段；战斗与纪念设施点分开。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-070",
+    "title": "进入根据地边缘、继续分路北进",
+    "start_date": "1935-10-01",
+    "end_date": "1935-10-31",
+    "date_precision": "month",
+    "date_text": "1935-10-09—11前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0070"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：与陕北派出代表取得联系。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 5,
+    "relation": "随后分路向环县，不画一条直线。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-071",
+    "title": "继续北上与阻击追敌",
+    "start_date": "1935-10-01",
+    "end_date": "1935-10-31",
+    "date_precision": "month",
+    "date_text": "1935年10月中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0071"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：离开甘肃前的行动。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0044"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 5,
+    "relation": "经环县向吴起；具体村序需电报逐日核对。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-072",
+    "title": "中央红军长征到达陕北",
+    "start_date": "1935-10-19",
+    "end_date": "1935-10-19",
+    "date_precision": "day",
+    "date_text": "1935-10-19抵达；21日相关战斗、22日会议另核",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0072"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红军陕甘支队（中央红军北上部队）",
+    "summary": "经过：抵达陕甘根据地。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0051"
+    ],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0041",
+      "SRC-0042",
+      "SRC-0046"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": true,
+    "batch": 5,
+    "relation": "吴起抵达不等于三大主力1936会师，也不等于当日已与红十五军团主力会合。",
+    "disputes": "旧网页“今吴旗”是当时用名，今天为吴起县。具体尾敌战斗与会议需要独立核对。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-073",
+    "title": "陕甘支队与红十五军团会师",
+    "start_date": "1935-11-01",
+    "end_date": "1935-11-30",
+    "date_precision": "month",
+    "date_text": "1935年11月初",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0073"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "陕甘支队与红十五军团",
+    "summary": "经过：会师后恢复红一方面军番号。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0046",
+      "SRC-0047"
+    ],
+    "verification_status": "disputed",
+    "kind": "reunion",
+    "important": true,
+    "batch": 5,
+    "relation": "与吴起抵达分开；恢复番号3日与会师日不直接等同。",
+    "disputes": "来源分别用11月初和11月2日；具体地点、会师仪式与部队接触时刻待原件。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-074",
+    "title": "中共中央机关驻地及后续会议",
+    "start_date": "1935-11-07",
+    "end_date": "1935-11-07",
+    "date_precision": "day",
+    "date_text": "1935-11-07机关到达；12月会议另列",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0074"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中共中央与根据地红军",
+    "summary": "经过：属于中央红军长征结束后的驻地背景。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0046"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 5,
+    "relation": "不应接成1934—1935长征途中未经停留的轨迹。",
+    "disputes": "",
+    "gaps": "本项为后续背景；12月17—25日会议文献应另建事件，不以11月驻地日代替会议日。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-075",
+    "title": "直罗镇战役",
+    "start_date": "1935-11-20",
+    "end_date": "1935-11-24",
+    "date_precision": "range",
+    "date_text": "1935-11-20—24",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0075"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "恢复番号后的红一方面军",
+    "summary": "经过：长征后巩固根据地的战役。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0018"
+    ],
+    "source_ids": [
+      "SRC-0046"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 5,
+    "relation": "明确属于后续背景，不与长征途中战斗混称。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-076",
+    "title": "红一、红四方面军会师",
+    "start_date": "1936-10-09",
+    "end_date": "1936-10-09",
+    "date_precision": "day",
+    "date_text": "1936-10-09会师；10日庆祝大会",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0076"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "红一、红四方面军",
+    "summary": "经过：红军总部及红四方面军到达会宁。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0052",
+      "AST-0072"
+    ],
+    "document_ids": [
+      "DOC-0019"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0045",
+      "SRC-0047"
+    ],
+    "verification_status": "pending",
+    "kind": "reunion",
+    "important": true,
+    "batch": 5,
+    "relation": "红二方面军随后在将台堡与红一方面军会合。",
+    "disputes": "",
+    "gaps": "各先遣分队接触日期、城门/大成殿庆祝地点需细分。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-077",
+    "title": "红一、红二方面军会师",
+    "start_date": "1936-10-22",
+    "end_date": "1936-10-22",
+    "date_precision": "day",
+    "date_text": "1936-10-22",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0077"
+    ],
+    "army_ids": [
+      "central",
+      "second"
+    ],
+    "army_text": "红一、红二方面军",
+    "summary": "经过：会师构成长征胜利结束重要标志。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [
+      "AST-0052"
+    ],
+    "document_ids": [
+      "DOC-0019"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0045"
+    ],
+    "verification_status": "pending",
+    "kind": "reunion",
+    "important": true,
+    "batch": 5,
+    "relation": "1935陕甘支队经过与1936会师是两个事件；当时属甘肃隆德。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-078",
+    "title": "会师后三大主力协同作战",
+    "start_date": "1936-11-01",
+    "end_date": "1936-11-30",
+    "date_precision": "month",
+    "date_text": "1936-11-21前后（战斗时段待核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0078"
+    ],
+    "army_ids": [
+      "central",
+      "fourth"
+    ],
+    "army_text": "会师后的红一、红二、红四方面军相关部队",
+    "summary": "经过：三大主力会师后共同战斗。 背景：战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "background": "战略转移、调整行动方向及保存部队的阶段背景，具体决策与战斗需来源逐项核对。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0047"
+    ],
+    "verification_status": "pending",
+    "kind": "reunion",
+    "important": true,
+    "batch": 5,
+    "relation": "属于后续巩固背景，不列作10月会师的同日节点。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-079",
+    "title": "红六军团先遣西征出发",
+    "start_date": "1934-08-07",
+    "end_date": "1934-08-07",
+    "date_precision": "day",
+    "date_text": "1934-08-07",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0079"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红六军团",
+    "summary": "经过：红六军团先遣西征出发相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0049"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": true,
+    "batch": 6,
+    "relation": "先遣阶段，不能提前称红二方面军。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-080",
+    "title": "西征誓师与组织动员",
+    "start_date": "1934-08-12",
+    "end_date": "1934-08-12",
+    "date_precision": "day",
+    "date_text": "1934-08-12",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0080"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红六军团",
+    "summary": "经过：西征誓师与组织动员相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "自遂川西征后到达；与1935桑植出发不同。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-081",
+    "title": "红六军团渡湘江和越岭",
+    "start_date": "1934-09-01",
+    "end_date": "1934-09-30",
+    "date_precision": "month",
+    "date_text": "1934年9月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0081"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红六军团",
+    "summary": "经过：红六军团渡湘江和越岭相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "此为1934年9月，不是11月中央红军湘江战役。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-082",
+    "title": "红六军团与红三军会合",
+    "start_date": "1934-10-24",
+    "end_date": "1934-10-24",
+    "date_precision": "day",
+    "date_text": "1934-10-24",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0082"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红六军团与红三军（随后恢复红二军团）",
+    "summary": "经过：红六军团与红三军会合相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0051"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "随后南腰界举行大会，红三军恢复红二军团番号。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-083",
+    "title": "红二、红六军团会师大会",
+    "start_date": "1934-10-27",
+    "end_date": "1934-10-27",
+    "date_precision": "day",
+    "date_text": "1934-10-27（大会日主流记载）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0083"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：红二、红六军团会师大会相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0078"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0051",
+      "SRC-0052"
+    ],
+    "verification_status": "disputed",
+    "kind": "reunion",
+    "important": true,
+    "batch": 6,
+    "relation": "木黄先头会师24日后大会，继而东进湘西。",
+    "disputes": "重庆党史2026专题写27日；湖南隆回2021文章写26日且有“红三军团”误称。保留原文差异，以会议档案及更专门研究复核。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-084",
+    "title": "红二、红六军团突围誓师",
+    "start_date": "1935-11-19",
+    "end_date": "1935-11-19",
+    "date_precision": "day",
+    "date_text": "1935-11-19",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0084"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：红二、红六军团突围誓师相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0064"
+    ],
+    "document_ids": [
+      "DOC-0020",
+      "DOC-0021"
+    ],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0036",
+      "SRC-0049",
+      "SRC-0051",
+      "SRC-0052"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": true,
+    "batch": 6,
+    "relation": "先头主力出发后，红十八师留守另路。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-085",
+    "title": "南下湘中机动",
+    "start_date": "1935-11-01",
+    "end_date": "1935-12-31",
+    "date_precision": "range",
+    "date_text": "1935年11月至12月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0085"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：南下湘中机动相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0052"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "不同军团分进；具体县序要查日记而非顺列县名连线。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-086",
+    "title": "鸭田战斗与西进部署",
+    "start_date": "1935-12-13",
+    "end_date": "1935-12-20",
+    "date_precision": "range",
+    "date_text": "1935-12-13—20地域活动；16—17日战斗",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0086"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：鸭田战斗与西进部署相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0089",
+      "AST-0090",
+      "AST-0091",
+      "AST-0092"
+    ],
+    "document_ids": [
+      "DOC-0021"
+    ],
+    "source_ids": [
+      "SRC-0052"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "由湘中转向洞口、绥宁。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-087",
+    "title": "芷江境内行军与作战",
+    "start_date": "1935-12-28",
+    "end_date": "1936-01-07",
+    "date_precision": "range",
+    "date_text": "1935-12-28/29—1936-01-06/07",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0087"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：芷江境内行军与作战相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0053"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "不同军团入出境日不同，继入贵州。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-088",
+    "title": "创建新根据地计划与行动",
+    "start_date": "1936-01-01",
+    "end_date": "1936-01-31",
+    "date_precision": "month",
+    "date_text": "1936年1月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0088"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：创建新根据地计划与行动相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0027",
+      "SRC-0049"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "计划地域与实际驻地分别核对，后转黔大毕。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-089",
+    "title": "黔大毕地区活动",
+    "start_date": "1936-02-01",
+    "end_date": "1936-02-29",
+    "date_precision": "month",
+    "date_text": "1936年2月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0089"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：黔大毕地区活动相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0073"
+    ],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "撤出后乌蒙回旋；历史大定不可直接用现县名替代。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-090",
+    "title": "乌蒙回旋机动",
+    "start_date": "1936-03-02",
+    "end_date": "1936-03-02",
+    "date_precision": "day",
+    "date_text": "1936-03-02",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0090"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：乌蒙回旋机动相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "南进受阻后再向西。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-091",
+    "title": "乌蒙回旋机动",
+    "start_date": "1936-03-04",
+    "end_date": "1936-03-04",
+    "date_precision": "day",
+    "date_text": "1936-03-04",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0091"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：乌蒙回旋机动相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "计划转南再因敌情调整。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-092",
+    "title": "佯动北渡金沙江",
+    "start_date": "1936-03-01",
+    "end_date": "1936-03-31",
+    "date_precision": "month",
+    "date_text": "1936年3月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0092"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：佯动北渡金沙江相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "假象调敌后南返以则河；不能绘为已经渡江。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-093",
+    "title": "乌蒙回旋反击",
+    "start_date": "1936-03-01",
+    "end_date": "1936-03-31",
+    "date_precision": "month",
+    "date_text": "1936年3月上中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0093"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：乌蒙回旋反击相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "临敌改向；具体点不凭同名现代村猜测。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-094",
+    "title": "回旋战中突围部署",
+    "start_date": "1936-03-01",
+    "end_date": "1936-03-31",
+    "date_precision": "month",
+    "date_text": "1936-03-13前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0094"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：回旋战中突围部署相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0065",
+      "AST-0073"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "后脱围进入盘县地域。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-095",
+    "title": "脱围后休整及路线调整",
+    "start_date": "1936-03-01",
+    "end_date": "1936-03-31",
+    "date_precision": "month",
+    "date_text": "1936年3月下旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0095"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：脱围后休整及路线调整相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0073"
+    ],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0050"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "后经滇中滇西向金沙江。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-096",
+    "title": "红二、红六军团渡金沙江",
+    "start_date": "1936-04-01",
+    "end_date": "1936-04-30",
+    "date_precision": "month",
+    "date_text": "1936年4月25—28日前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0096"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：红二、红六军团渡金沙江相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0049",
+      "SRC-0054"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "与中央红军1935皎平渡不同地点不同年份。",
+    "disputes": "云南党史纪念馆文章写27日渡完但活动范围至28日；另一云南党史渡船专题写28日渡完，保留未定。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-097",
+    "title": "休整后分路北上",
+    "start_date": "1936-05-01",
+    "end_date": "1936-05-31",
+    "date_precision": "month",
+    "date_text": "1936年5月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0097"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二、红六军团（1936年7月以后编为红二方面军）",
+    "summary": "经过：休整后分路北上相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0049"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "右路六军团向乡城；左路二军团沿金沙江北上，不合为一线。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-098",
+    "title": "红六军团越雪山接应会合",
+    "start_date": "1936-05-01",
+    "end_date": "1936-06-30",
+    "date_precision": "range",
+    "date_text": "1936年5月至6月初",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0098"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红六军团",
+    "summary": "经过：红六军团越雪山接应会合相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "先头与红四接应部队会合后趋甘孜。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-099",
+    "title": "红二军团左路到达白玉",
+    "start_date": "1936-06-01",
+    "end_date": "1936-06-30",
+    "date_precision": "month",
+    "date_text": "1936年6月下旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0099"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二军团",
+    "summary": "经过：红二军团左路到达白玉相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "经休整后趋甘孜，与乡城右路分开。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-100",
+    "title": "红二、红六军团与红四方面军会师",
+    "start_date": "1936-06-01",
+    "end_date": "1936-07-31",
+    "date_precision": "range",
+    "date_text": "1936年6月下旬—7月初；组建7月5日待专核",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0100"
+    ],
+    "army_ids": [
+      "second",
+      "fourth"
+    ],
+    "army_text": "红二、红六军团及红四方面军、红三十二军",
+    "summary": "经过：红二、红六军团与红四方面军会师相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0066"
+    ],
+    "document_ids": [
+      "DOC-0020"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0048",
+      "SRC-0049"
+    ],
+    "verification_status": "disputed",
+    "kind": "reunion",
+    "important": true,
+    "batch": 6,
+    "relation": "会师集结、庆祝大会、正式编成分时间；随后共同北上。",
+    "disputes": "专题概述写6月，任远芳文章用7月2日，石仲泉文章写7月1日集结并举行大会。先头、主力、典礼可能不同，未取原记录前不裁定。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-101",
+    "title": "分梯队北上过草地",
+    "start_date": "1936-07-01",
+    "end_date": "1936-08-31",
+    "date_precision": "range",
+    "date_text": "1936年7月底—8月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0101"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二方面军",
+    "summary": "经过：分梯队北上过草地相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "不同于1935右路军；与红四各纵队行程需独立核对。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-102",
+    "title": "出草地后集结休整",
+    "start_date": "1936-08-01",
+    "end_date": "1936-08-31",
+    "date_precision": "month",
+    "date_text": "1936年8月下旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0102"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二方面军",
+    "summary": "经过：出草地后集结休整相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "红六部队先到，主力陆续进入；不同于1935中央红军。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-103",
+    "title": "成徽两康战役",
+    "start_date": "1936-09-01",
+    "end_date": "1936-09-30",
+    "date_precision": "month",
+    "date_text": "1936年9月起（11日部署）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0103"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二方面军",
+    "summary": "经过：成徽两康战役相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0055",
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "三纵队分向两当凤县、成徽、康县略阳，不是一队顺走四县。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-104",
+    "title": "北进渭河突围",
+    "start_date": "1936-10-01",
+    "end_date": "1936-10-31",
+    "date_precision": "month",
+    "date_text": "1936年10月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0104"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红二方面军",
+    "summary": "经过：北进渭河突围相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "随后向会宁静宁、将台堡会师；实际渡口须补。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-105",
+    "title": "后卫部队分路突围",
+    "start_date": "1935-12-01",
+    "end_date": null,
+    "date_precision": "range",
+    "date_text": "1935年12月至1936年初",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0105"
+    ],
+    "army_ids": [
+      "second"
+    ],
+    "army_text": "红六军团第十八师",
+    "summary": "经过：后卫部队分路突围相关资料已定位，具体经过应对照所列原文。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0079"
+    ],
+    "document_ids": [
+      "DOC-0021"
+    ],
+    "source_ids": [
+      "SRC-0051",
+      "SRC-0052"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "红十八师路线不同于红二、红六军团主力，应独立研究。",
+    "disputes": "重庆专题记12月7日突围；隆回专题据14日电报写16日出发。可能分别指先期机动、正式会合转移，须按师部与各营核对。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-106",
+    "title": "强渡嘉陵江",
+    "start_date": "1935-03-28",
+    "end_date": null,
+    "date_precision": "range",
+    "date_text": "1935-03-28起",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0106"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：强渡嘉陵江；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0067"
+    ],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0056",
+      "SRC-0057",
+      "SRC-0058"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "第30军、第31军等不同突破点，继向剑门及纵深。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-107",
+    "title": "第九军渡嘉陵江",
+    "start_date": "1935-03-01",
+    "end_date": "1935-03-31",
+    "date_precision": "month",
+    "date_text": "1935年3月底",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0107"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：第九军渡嘉陵江；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0067"
+    ],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0058"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "与苍溪渡口不是一个点，后续分向阆中南部。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-108",
+    "title": "嘉陵江战役纵深作战",
+    "start_date": "1935-04-01",
+    "end_date": "1935-04-30",
+    "date_precision": "month",
+    "date_text": "1935年4月初",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0108"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：嘉陵江战役纵深作战；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0067"
+    ],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0057",
+      "SRC-0058"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "渡江后分军进攻，不等于总部必经同一关口。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-109",
+    "title": "川北纵深作战",
+    "start_date": "1935-04-01",
+    "end_date": "1935-04-30",
+    "date_precision": "month",
+    "date_text": "1935年4月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0109"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：川北纵深作战；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0022"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "主力向北川、岷江地域发展；青川平武分队另行。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-110",
+    "title": "红三十军等北翼行动",
+    "start_date": "1935-04-01",
+    "end_date": "1935-04-30",
+    "date_precision": "month",
+    "date_text": "1935年4月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0110"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：红三十军等北翼行动；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "独立分队保障与主力江油方向区分。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-111",
+    "title": "土门战役与西进岷江",
+    "start_date": "1935-05-01",
+    "end_date": "1935-07-31",
+    "date_precision": "range",
+    "date_text": "1935年5月至7月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0111"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：土门战役与西进岷江；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0068"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0056",
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "与河西走廊后来同名土门战斗区分；向懋功接应。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-112",
+    "title": "左路军北上及随后南返",
+    "start_date": "1935-08-01",
+    "end_date": "1935-09-30",
+    "date_precision": "range",
+    "date_text": "1935年8月至9月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0112"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "1935年混编左路军及红军总部",
+    "summary": "经过：左路军北上及随后南返；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "左路军并非只有红四方面军；和右路军并行、不虚构一线会合。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-113",
+    "title": "南下过程中的另立中央相关会议",
+    "start_date": null,
+    "end_date": null,
+    "date_precision": "unknown",
+    "date_text": "1935年秋",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0113"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：南下过程中的另立中央相关会议；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 6,
+    "relation": "组织分裂事件与军队战斗路线分别登记，不把现代纪念点当史实确址。",
+    "disputes": "",
+    "gaps": "具体会议日、今卓木碉村界、参会者与电文须专题补证；暂不填精确日坐标。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-114",
+    "title": "绥崇丹懋战役",
+    "start_date": "1935-10-08",
+    "end_date": "1935-10-20",
+    "date_precision": "range",
+    "date_text": "1935-10-08—20（战役范围）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0114"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：绥崇丹懋战役；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0056",
+      "SRC-0059"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "多纵队南下；绥靖、崇化与今天县名不一一等同。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-115",
+    "title": "百丈关战役",
+    "start_date": "1935-11-01",
+    "end_date": "1935-11-30",
+    "date_precision": "month",
+    "date_text": "1935年11月；19—25日为常见激战口径",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0115"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：百丈关战役；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0059"
+    ],
+    "verification_status": "disputed",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "南下攻势受挫后转防御，不省略天芦宝休整。",
+    "disputes": "战役、激战七昼夜、撤出百丈镇与后续战斗的起讫范围可能不同；不直接采用某报道伤亡数字。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-116",
+    "title": "南下后休整与转移",
+    "start_date": null,
+    "end_date": null,
+    "date_precision": "unknown",
+    "date_text": "1935年冬—1936年2月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0116"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：南下后休整与转移；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0056",
+      "SRC-0060"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "与1935年6月中央红军过境是不同部队不同方向；后西转康北。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-117",
+    "title": "红四方面军西转越雪山",
+    "start_date": "1936-02-01",
+    "end_date": "1936-03-31",
+    "date_precision": "range",
+    "date_text": "1936年2月至3月前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0117"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：红四方面军西转越雪山；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0060"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "不同部队分路，主峰高度不能当实际山口高度。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-118",
+    "title": "康北转移与接应红二、红六军团",
+    "start_date": null,
+    "end_date": null,
+    "date_precision": "unknown",
+    "date_text": "1936年春至夏",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0118"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：康北转移与接应红二、红六军团；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [
+      "AST-0066"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0056",
+      "SRC-0060"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "此为红四先期到达，与红二六随后会师区分。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-119",
+    "title": "1936年分纵队北上",
+    "start_date": "1936-07-01",
+    "end_date": "1936-07-31",
+    "date_precision": "month",
+    "date_text": "1936年7月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0119"
+    ],
+    "army_ids": [
+      "fourth",
+      "second"
+    ],
+    "army_text": "1936年红二、红四方面军相关纵队（逐队待核）",
+    "summary": "经过：1936年分纵队北上；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "一部经班玛，不将所有部队都画到青海同一个点。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-120",
+    "title": "1936年右纵队越岭过草地",
+    "start_date": "1936-07-01",
+    "end_date": "1936-07-31",
+    "date_precision": "month",
+    "date_text": "1936年7月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0120"
+    ],
+    "army_ids": [
+      "fourth",
+      "second"
+    ],
+    "army_text": "1936年红二、红四方面军相关右纵队（逐队待核）",
+    "summary": "经过：1936年右纵队越岭过草地；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0043"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "右纵队与经甘孜、炉霍、壤塘的其他纵队不同。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-121",
+    "title": "出草地后川甘边集结",
+    "start_date": "1936-08-01",
+    "end_date": "1936-08-31",
+    "date_precision": "month",
+    "date_text": "1936年8月上旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0121"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：出草地后川甘边集结；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0023"
+    ],
+    "source_ids": [
+      "SRC-0043",
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "本次北上不同于1935包座战斗，之后进入岷洮西。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-122",
+    "title": "岷洮西战役",
+    "start_date": "1936-08-01",
+    "end_date": "1936-08-31",
+    "date_precision": "month",
+    "date_text": "1936年8月起",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0122"
+    ],
+    "army_ids": [
+      "fourth",
+      "second"
+    ],
+    "army_text": "红二、红四方面军相关部队",
+    "summary": "经过：岷洮西战役；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0023"
+    ],
+    "source_ids": [
+      "SRC-0048",
+      "SRC-0055"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "多路作战及临时根据地，不把战役名当一条连续行军顺序。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-123",
+    "title": "红三十一军等渡渭河与留驻",
+    "start_date": "1936-08-01",
+    "end_date": "1936-10-31",
+    "date_precision": "range",
+    "date_text": "1936年8月至10月（分队）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0123"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军及随行红军总部（原中央红军第五、第九军等建制另核）",
+    "summary": "经过：红三十一军等渡渭河与留驻；详见证据定位，未核完整分队路径。 背景：该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "background": "该部队自身战略转移及会师前后的阶段背景，不能沿用中央红军统一日程。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0057"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "九十二师先渡、其他部队驻留后北上，不以一日概括全军。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-124",
+    "title": "鄂豫皖省委常委会议决定战略转移",
+    "start_date": "1934-11-11",
+    "end_date": "1934-11-11",
+    "date_precision": "day",
+    "date_text": "1934-11-11",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0124"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：鄂豫皖省委常委会议决定战略转移；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0029"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0072"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 6,
+    "relation": "历史属光山县，不能照搬为今天行政区。",
+    "disputes": "",
+    "gaps": "历史会议所在房屋与现代展示馆具体关系、原文献及图片许可待核。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-125",
+    "title": "红二十五军长征出发",
+    "start_date": "1934-11-16",
+    "end_date": "1934-11-16",
+    "date_precision": "day",
+    "date_text": "1934-11-16",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0125"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：红二十五军长征出发；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0069",
+      "AST-0081",
+      "AST-0084"
+    ],
+    "document_ids": [
+      "DOC-0024",
+      "DOC-0025"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0064",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": true,
+    "batch": 6,
+    "relation": "此为红二十五军，非中央红军于都出发。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-126",
+    "title": "越过平汉铁路",
+    "start_date": "1934-11-17",
+    "end_date": "1934-11-17",
+    "date_precision": "day",
+    "date_text": "1934-11-17夜",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0126"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：越过平汉铁路；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "进入桐柏山区；现代铁路设施不能当1934原貌。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-127",
+    "title": "选择根据地与佯动突围",
+    "start_date": "1934-11-01",
+    "end_date": "1934-11-30",
+    "date_precision": "month",
+    "date_text": "1934-11-19—23前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0127"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：选择根据地与佯动突围；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "主力与手枪团分别行动后会合，不按全军统一轨迹。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-128",
+    "title": "独树镇战斗及突围",
+    "start_date": "1934-11-26",
+    "end_date": "1934-11-27",
+    "date_precision": "range",
+    "date_text": "1934-11-26—27",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0128"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：独树镇战斗及突围；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0070",
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0025"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "经叶县保安寨以北沈庄突围，并非从敌设防公路正面全部突破。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-129",
+    "title": "绕行突破许南公路",
+    "start_date": "1934-11-26",
+    "end_date": "1934-11-27",
+    "date_precision": "range",
+    "date_text": "1934-11-26夜—27拂晓",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0129"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：绕行突破许南公路；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "独树镇战斗后的实际迂回路径，精确村点另核。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-130",
+    "title": "进入伏牛山",
+    "start_date": "1934-11-01",
+    "end_date": "1934-11-30",
+    "date_precision": "month",
+    "date_text": "1934年11月底",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0130"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：进入伏牛山；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "建根据地设想未成，继续向卢氏入陕。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-131",
+    "title": "向导带路绕过朱阳关",
+    "start_date": "1934-12-01",
+    "end_date": "1934-12-31",
+    "date_precision": "month",
+    "date_text": "1934年12月上旬；8日入陕口径",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0131"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：向导带路绕过朱阳关；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "朱阳关为佯动目标，不能绘成全军实际穿关路线。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-132",
+    "title": "省委会议与庾家河战斗",
+    "start_date": "1934-12-09",
+    "end_date": "1934-12-09",
+    "date_precision": "day",
+    "date_text": "1934-12-09到达／9或10日会议记载待核",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0132"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：省委会议与庾家河战斗；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0028"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0070"
+    ],
+    "verification_status": "disputed",
+    "kind": "meeting",
+    "important": true,
+    "batch": 6,
+    "relation": "历史雒南地名范围与今丹凤区别；之后蔡家川。",
+    "disputes": "2026河南党史文章将第十八次常委会议置12月9日；2026学习时报将到达日9日、会议10日分开。须对照会议记录、年谱和地方志，不裁定。 《陕西省志》PDF362/书332页记10日，且同书有全委/常委两种级别表述；这些是二手记述，尚不构成裁定。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-133",
+    "title": "战后整编休整",
+    "start_date": "1934-12-01",
+    "end_date": "1934-12-31",
+    "date_precision": "month",
+    "date_text": "1934年12月中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0133"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：战后整编休整；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "庾家河之后；同名村不可据搜索地图猜坐标。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-134",
+    "title": "镇安作战与反围剿",
+    "start_date": "1935-01-01",
+    "end_date": "1935-01-31",
+    "date_precision": "month",
+    "date_text": "1935年1月",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0134"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：镇安作战与反围剿；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "此前后多次南下郧西、北返洛南，不排成不回头直线。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-135",
+    "title": "鄂陕边回旋与会议",
+    "start_date": "1934-12-01",
+    "end_date": "1935-12-31",
+    "date_precision": "range",
+    "date_text": "1934年底—1935年多次；2月19日会议",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0135"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：鄂陕边回旋与会议；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 6,
+    "relation": "多次往返地点，事件需独立建表，不设唯一到达日。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-136",
+    "title": "华阳伏击战与根据地建设",
+    "start_date": "1935-03-01",
+    "end_date": "1935-03-31",
+    "date_precision": "month",
+    "date_text": "1935-03-10前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0136"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：华阳伏击战与根据地建设；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "赴汉中受阻后折返与后续东进要区别。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-137",
+    "title": "反围剿与葛牌会议",
+    "start_date": "1935-04-01",
+    "end_date": "1935-04-30",
+    "date_precision": "month",
+    "date_text": "1935年4月前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0137"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：反围剿与葛牌会议；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081",
+      "AST-0094"
+    ],
+    "document_ids": [
+      "DOC-0028"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0070",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 6,
+    "relation": "此为红二十五军在鄂豫陕根据地行动，不与其他军路线合并。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-138",
+    "title": "攻占及整训",
+    "start_date": "1935-05-01",
+    "end_date": "1935-05-31",
+    "date_precision": "month",
+    "date_text": "1935-05-04前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0138"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：攻占及整训；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "后续山阳、郧西及商南机动；今县城不是当年县制。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-139",
+    "title": "外线作战及远程奔袭",
+    "start_date": "1935-06-01",
+    "end_date": "1935-06-30",
+    "date_precision": "month",
+    "date_text": "1935年6月中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0139"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：外线作战及远程奔袭；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "多次折返，不按现代道路连线模拟。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-140",
+    "title": "伏击敌军",
+    "start_date": "1935-07-02",
+    "end_date": "1935-07-02",
+    "date_precision": "day",
+    "date_text": "1935-07-02",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0140"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：伏击敌军；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "随后北出终南山威逼西安。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-141",
+    "title": "决定西征北上",
+    "start_date": "1935-07-15",
+    "end_date": "1935-07-15",
+    "date_precision": "day",
+    "date_text": "1935-07-15会议；16日出发",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0141"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：决定西征北上；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0063"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "与1934何家冲首次出发分开，是第二阶段转移。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-142",
+    "title": "击溃民团、休整整编",
+    "start_date": "1935-07-01",
+    "end_date": "1935-07-31",
+    "date_precision": "month",
+    "date_text": "1935年7月下旬（25／27日差异）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0142"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：击溃民团、休整整编；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0076",
+      "AST-0077",
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0026"
+    ],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0063",
+      "SRC-0071"
+    ],
+    "verification_status": "disputed",
+    "kind": "march",
+    "important": true,
+    "batch": 6,
+    "relation": "经柴关岭入凤县；现代展馆地址不等于全部战场。",
+    "disputes": "汉中党史记7月25日击溃民团、31日离开；河南党史记27日到达江口。不得默认两日为同一队伍的同一行动。 《留坝县志》书596页记27日到达、597页记30日离开，另同书有7月6日出发/过境等表述，与广泛使用的7月16日不符。暂保留各版记载，不能因地方志正式出版就自动裁定。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-143",
+    "title": "占领川陕公路要地",
+    "start_date": "1935-07-01",
+    "end_date": "1935-07-31",
+    "date_precision": "month",
+    "date_text": "1935-07-31前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0143"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：占领川陕公路要地；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "进入两当、天水方向，非中央红军同一路。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-144",
+    "title": "攻占两当、牵制天水守军",
+    "start_date": "1935-08-01",
+    "end_date": "1935-08-31",
+    "date_precision": "month",
+    "date_text": "1935年8月上旬；9日天水北关口径",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0144"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：攻占两当、牵制天水守军；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081",
+      "AST-0084",
+      "AST-0093"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0067",
+      "SRC-0078"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "未攻占天水全城；此后北渡渭河。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-145",
+    "title": "切断西兰公路与民族工作",
+    "start_date": "1935-08-01",
+    "end_date": "1935-08-31",
+    "date_precision": "month",
+    "date_text": "1935-08-14—17前后",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0145"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：切断西兰公路与民族工作；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "兴隆镇当时行政归属与今天不同，随后东进泾川。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-146",
+    "title": "四坡村战斗、吴焕先牺牲",
+    "start_date": "1935-08-21",
+    "end_date": "1935-08-21",
+    "date_precision": "day",
+    "date_text": "1935-08-21",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0146"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：四坡村战斗、吴焕先牺牲；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081",
+      "AST-0085",
+      "AST-0086"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0067"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "汭河是泾河支流；不可把渡汭河直接写成同处渡泾河。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-147",
+    "title": "渡泾河北进",
+    "start_date": "1935-08-31",
+    "end_date": "1935-08-31",
+    "date_precision": "day",
+    "date_text": "1935-08-31夜",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0147"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：渡泾河北进；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "与21日四坡村战斗分开，继向合水。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-148",
+    "title": "板桥战斗",
+    "start_date": "1935-09-03",
+    "end_date": "1935-09-03",
+    "date_precision": "day",
+    "date_text": "1935-09-03宿营；4日战斗",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0148"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：板桥战斗；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061"
+    ],
+    "verification_status": "pending",
+    "kind": "battle",
+    "important": true,
+    "batch": 6,
+    "relation": "后向豹子川；同名板桥战斗需部队、日期辨认。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-149",
+    "title": "省委会议及会师前动员",
+    "start_date": "1935-09-07",
+    "end_date": "1935-09-07",
+    "date_precision": "day",
+    "date_text": "1935-09-07",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0149"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五军",
+    "summary": "经过：省委会议及会师前动员；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0081"
+    ],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0061",
+      "SRC-0062"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 6,
+    "relation": "向永坪进军；不用非官方同名点补坐标。",
+    "disputes": "",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-150",
+    "title": "红二十五军与红二十六、二十七军会师",
+    "start_date": "1935-09-15",
+    "end_date": "1935-09-15",
+    "date_precision": "day",
+    "date_text": "1935-09-15抵达；16日会师口径",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0150"
+    ],
+    "army_ids": [
+      "twentyfive"
+    ],
+    "army_text": "红二十五、红二十六、红二十七军",
+    "summary": "经过：红二十五军与红二十六、二十七军会师；所列日期是来源层级初查，尚不等于原档案核实。 背景：鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "background": "鄂豫皖主力突围、创建鄂豫陕根据地及西征北上的阶段背景；具体阶段看前后关系。",
+    "significance": "",
+    "image_ids": [
+      "AST-0071",
+      "AST-0081"
+    ],
+    "document_ids": [
+      "DOC-0025",
+      "DOC-0028"
+    ],
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0061",
+      "SRC-0062",
+      "SRC-0065",
+      "SRC-0070"
+    ],
+    "verification_status": "disputed",
+    "kind": "reunion",
+    "important": true,
+    "batch": 6,
+    "relation": "随后合编红十五军团，11月再与陕甘支队会师。",
+    "disputes": "“永平”与“永坪”在专题图注中异写；15日抵达与16日会师宜分别记录，不擅改引文。",
+    "gaps": "原始照片、原档案、精确历史位置和图片展示许可尚未齐备；详细分队日程待补。",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-151",
+    "title": "北翼警戒与保卫遵义会议",
+    "start_date": "1935-01-01",
+    "end_date": "1935-01-31",
+    "date_precision": "month",
+    "date_text": "1935年1月中旬",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0151"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红一军团第一师第二团",
+    "summary": "经过：北翼警戒与保卫遵义会议；作为分路/阶段补充节点，仍待原始文献逐项审查。 背景：对应部队战略转移和会师行动的局部背景。",
+    "background": "对应部队战略转移和会师行动的局部背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0051"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "遵义期间北翼分队行动，不是中央机关到重庆。",
+    "disputes": "",
+    "gaps": "原件与历史位置待核实",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-152",
+    "title": "红一军团驻扎石壕并西进",
+    "start_date": "1935-01-21",
+    "end_date": "1935-01-22",
+    "date_precision": "range",
+    "date_text": "1935-01-21—22",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0152"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "红一军团",
+    "summary": "经过：红一军团驻扎石壕并西进；作为分路/阶段补充节点，仍待原始文献逐项审查。 背景：对应部队战略转移和会师行动的局部背景。",
+    "background": "对应部队战略转移和会师行动的局部背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0051"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 2,
+    "relation": "松坎出发，经石壕向赤水机动；与中央纵队分路。",
+    "disputes": "",
+    "gaps": "原件与历史位置待核实",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-153",
+    "title": "白沙会议及回师黔北部署",
+    "start_date": "1935-02-15",
+    "end_date": "1935-02-16",
+    "date_precision": "range",
+    "date_text": "1935-02-15—16",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0153"
+    ],
+    "army_ids": [
+      "central"
+    ],
+    "army_text": "中央红军",
+    "summary": "经过：白沙会议及回师黔北部署；作为分路/阶段补充节点，仍待原始文献逐项审查。 背景：对应部队战略转移和会师行动的局部背景。",
+    "background": "对应部队战略转移和会师行动的局部背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [
+      "DOC-0031"
+    ],
+    "source_ids": [
+      "SRC-0076"
+    ],
+    "verification_status": "pending",
+    "kind": "meeting",
+    "important": true,
+    "batch": 2,
+    "relation": "扎西之后、二渡赤水之前。",
+    "disputes": "",
+    "gaps": "原件与历史位置待核实",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-154",
+    "title": "先头接应会合",
+    "start_date": "1936-06-03",
+    "end_date": "1936-06-03",
+    "date_precision": "day",
+    "date_text": "1936-06-03（来源记载）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0154"
+    ],
+    "army_ids": [
+      "second",
+      "fourth"
+    ],
+    "army_text": "红六军团与红四方面军第三十二军接应部队",
+    "summary": "经过：先头接应会合；作为分路/阶段补充节点，仍待原始文献逐项审查。 背景：对应部队战略转移和会师行动的局部背景。",
+    "background": "对应部队战略转移和会师行动的局部背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0075"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "后至甘孜；并非7月2日全部主力大会同地。",
+    "disputes": "",
+    "gaps": "原件与历史位置待核实",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-155",
+    "title": "红二军团接应会合",
+    "start_date": "1936-06-30",
+    "end_date": "1936-06-30",
+    "date_precision": "day",
+    "date_text": "1936-06-30（来源记载）",
+    "anchor_note": "",
+    "place_ids": [
+      "PLC-0155"
+    ],
+    "army_ids": [
+      "second",
+      "fourth"
+    ],
+    "army_text": "红二军团与红四方面军第三十军一部",
+    "summary": "经过：红二军团接应会合；作为分路/阶段补充节点，仍待原始文献逐项审查。 背景：对应部队战略转移和会师行动的局部背景。",
+    "background": "对应部队战略转移和会师行动的局部背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0075"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "随后1日主力集结、2日庆祝大会，日程待原件核验。",
+    "disputes": "",
+    "gaps": "原件与历史位置待核实",
+    "publication_status": "draft"
+  },
+  {
+    "id": "EVT-156",
+    "title": "大墩梁阻击战",
+    "start_date": "1936-10-01",
+    "end_date": "1936-10-31",
+    "date_precision": "month",
+    "date_text": "1936年10月下旬（23日抵达，战斗起讫待核）",
+    "anchor_note": "时间轴按可识别历法范围的首端定位；范围端点不是精确发生日。",
+    "place_ids": [
+      "PLC-0156"
+    ],
+    "army_ids": [
+      "fourth"
+    ],
+    "army_text": "红四方面军第五军",
+    "summary": "经过：大墩梁阻击战；作为分路/阶段补充节点，仍待原始文献逐项审查。 背景：对应部队战略转移和会师行动的局部背景。",
+    "background": "对应部队战略转移和会师行动的局部背景。",
+    "significance": "",
+    "image_ids": [],
+    "document_ids": [],
+    "source_ids": [
+      "SRC-0077"
+    ],
+    "verification_status": "pending",
+    "kind": "march",
+    "important": false,
+    "batch": 6,
+    "relation": "会师后掩护转移，不能排在会宁9日会师之前。",
+    "disputes": "",
+    "gaps": "原件与历史位置待核实",
+    "publication_status": "draft"
+  }
+]

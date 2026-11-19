@@ -16,13 +16,20 @@ for (const file of ['AGENTS.md','.gitignore','README.md']) assert(read(file).tri
 const markdown = ['README.md','AGENTS.md', ...readdirSync(join(root, 'docs'))
   .filter(name => name.endsWith('.md')).map(name => `docs/${name}`)];
 let links = 0;
+let localEvidenceLinks = 0;
 for (const file of markdown) {
   const text = read(file);
   assert(!text.includes('\uFFFD'), `Invalid Unicode in ${file}`);
   for (const match of text.matchAll(/\[[^\]\n]*\]\(([^)\n]+)\)/g)) {
     const target = match[1].split('#')[0];
     if (!target || /^(https?:|mailto:)/.test(target)) continue;
-    assert(existsSync(resolve(root, dirname(file), decodeURIComponent(target))), `${file}: broken link ${target}`);
+    const destination = resolve(root, dirname(file), decodeURIComponent(target));
+    const projectPath = relative(root, destination).replaceAll('\\', '/');
+    if (!existsSync(destination) && /^(output|artifacts)\//.test(projectPath)) {
+      localEvidenceLinks++;
+      continue;
+    }
+    assert(existsSync(destination), `${file}: broken link ${target}`);
     links++;
   }
 }
@@ -79,4 +86,5 @@ if (applicationStarted) {
   for(const forbidden of ['src','node_modules','dist']) assert(!existsSync(join(root,forbidden)), `Preparation scope exceeded: ${forbidden}`);
 }
 console.log(`PASS: ${required.length} required docs; ${links} local links; 4 repo Skills; ${hashedFiles} file hashes; 14-day plan; ignore rules; ${applicationStarted ? 'homepage assets' : 'preparation scope'}.`);
-console.log('INFO: this script checks files only. Runtime/build/browser evidence: docs/DAY3_VALIDATION.md.');
+if (localEvidenceLinks) console.log(`INFO: ${localEvidenceLinks} links reference local-only review evidence outside the source checkout.`);
+console.log('INFO: this script checks files only. Runtime/build/browser evidence: docs/DAY3_VALIDATION.md; Python search validation: docs/SKILLS.md.');

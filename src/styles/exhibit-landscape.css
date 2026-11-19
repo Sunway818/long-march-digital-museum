@@ -1,0 +1,47 @@
+/* Wide, short viewports keep editorial relationships; portrait retains the stack. */
+@media (orientation:landscape) and (min-aspect-ratio:4/3) and (min-width:600px) and (max-width:1024px){
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening:not(.exhibit-opening-text){display:grid;grid-template-columns:minmax(0,45fr) minmax(0,55fr);align-items:start;gap:0;padding:0!important;min-height:calc(100dvh - 46px - var(--safe-top) - var(--safe-bottom))!important}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-copy{grid-column:1;grid-row:1;width:auto;max-width:none;min-width:0;padding:14px 18px;pointer-events:none}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-copy h2{font-size:clamp(30px,4.7vw,44px)!important;line-height:1.2;margin:8px 0;white-space:normal;letter-spacing:.02em}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-date{font-size:14px;line-height:1.5;letter-spacing:0}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-line{font-size:18px;line-height:1.55}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-question{font-size:16px;line-height:1.65;margin-top:10px;max-width:none}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-place{font-size:12px;line-height:1.5;margin-top:10px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-copy>a{margin-top:8px;gap:16px;min-height:44px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image{grid-column:2;grid-row:1;position:relative;inset:auto;width:100%;height:auto;min-width:0;padding:12px 12px 12px 0;align-self:start}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image::after{display:none}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image .exhibit-image-open{height:clamp(160px,calc(100dvh - 140px),310px);background:#141414}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image img{width:100%;height:100%;max-height:none;object-fit:contain;object-position:center}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-image-open img{transform:none;transition:none}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image .exhibit-image-open>span{bottom:6px;right:8px;padding:5px 8px;min-height:28px;background:#191818d9;border:0;font-size:12px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image figcaption{position:static;max-width:none;margin:0;padding:8px 0 0;color:#eee9df;font-size:12px;line-height:1.5;text-shadow:none}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image figcaption strong{font-size:14px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image figcaption small{font-size:11px;margin-top:3px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-text{display:block;padding:0!important}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-text .exhibit-opening-copy{width:100%;padding:20px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-context{display:grid;grid-template-columns:minmax(0,55fr) minmax(0,45fr)}
+  html[data-compact=true] .history-exhibition-dialog .event-opening-context{width:auto;padding:20px;min-width:0}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-narrative,html[data-compact=true] .history-exhibition-dialog .exhibit-analysis{grid-template-columns:minmax(0,38fr) minmax(0,62fr);padding:28px 20px;gap:24px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-route{grid-template-columns:minmax(0,40fr) minmax(0,60fr);padding:28px 20px;gap:20px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-prose p{font-size:16px;line-height:1.85}
+  html[data-compact=true] .history-exhibition-dialog .event-exhibit-gallery:not(.event-gallery-march){grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+  html[data-compact=true] .history-archive-dialog .archive-reading-grid:has(.archive-gallery){grid-template-columns:minmax(0,60fr) minmax(0,40fr);gap:20px}
+  html[data-compact=true] .history-archive-dialog .archive-gallery{border-top:0;padding-top:0}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene{padding:28px 20px}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-pair[data-has-images=true]{display:grid;grid-template-columns:minmax(0,45fr) minmax(0,55fr);gap:20px;align-items:start}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-text,html[data-compact=true] .history-exhibition-dialog .campaign-scene-images{display:block;min-width:0}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-pair[data-has-images=false]{display:block}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-second .campaign-scene-text{order:2}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-second .campaign-scene-images{order:1}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene h3{font-size:26px;line-height:1.5;margin-bottom:16px}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-text>.exhibit-prose{margin-top:16px}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-images .exhibit-image{margin:0 0 20px}
+  html[data-compact=true] .history-exhibition-dialog .campaign-scene-images img{max-height:380px;object-fit:contain}
+  html[data-compact=true] .history-exhibition-dialog .campaign-analysis{margin-top:28px;padding-top:24px}
+  html[data-compact=true] .history-exhibition-dialog .campaign-route-map svg{max-height:220px}
+}
+@media (orientation:portrait) and (max-width:600px){
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening:not(.exhibit-opening-text){display:flex;flex-direction:column;padding:0!important}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-copy{width:100%;order:0;padding:20px}
+  html[data-compact=true] .history-exhibition-dialog .exhibit-opening-image{position:relative;inset:auto;width:100%;order:1}
+}

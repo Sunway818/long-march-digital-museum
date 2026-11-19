@@ -1,0 +1,540 @@
+[
+  {
+    "id": "DOC-0001",
+    "title": "《遵义会议决议》：伟大历史转折的纲领性文献",
+    "creator": "洪敏",
+    "date_text": "2026-01-23",
+    "source_ids": [
+      "SRC-0002"
+    ],
+    "event_ids": [
+      "EVT-001",
+      "EVT-002"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2026/0123/c219021-40651460.html",
+    "nature": "现代党史研究文章（二手）",
+    "scope": "文章正文可在线阅读",
+    "summary": "文章梳理遵义会议召开的历史背景、会议对军事和组织问题的处理，并重点分析《遵义会议决议》的形成、军事战略调整、统一战线策略、全党全军思想统一及其历史影响。本文为2026年发表的党史研究文章，属于二手研究文献。"
+  },
+  {
+    "id": "DOC-0002",
+    "title": "关于反对敌人五次“围剿”的总结的决议（《遵义会议决议》）",
+    "creator": "张闻天起草；中央政治局通过",
+    "date_text": "1935-02-08（通过日期）",
+    "source_ids": [
+      "SRC-0002",
+      "SRC-0018",
+      "SRC-0019"
+    ],
+    "event_ids": [
+      "EVT-001",
+      "EVT-002"
+    ],
+    "url": "https://www.ccphistory.org.cn/shds/czzdzwt/content/39f2e080-342f-453a-ba9d-12e619a6d92d.html",
+    "nature": "1935年原始历史文献（一手档案线索）",
+    "scope": "全文数字转录（14节）可在线阅读；原件仅有封面/部分内页及单页局部影像，完整高清连续扫描未获得",
+    "summary": "《关于反对敌人五次“围剿”的总结的决议》，即《遵义会议决议》，由张闻天受会议委托起草，1935年2月8日经中央政治局会议通过。全文共14节，约1.2万余字。已找到上海党史网公开的1—14节数字转录；另找到中央档案馆馆藏档案单页局部影像（报道配图），但仍未获得14节原件完整高清连续扫描。"
+  },
+  {
+    "id": "DOC-0003",
+    "title": "《（乙）遵义政治局扩大会议》手稿（通称《遵义政治局扩大会议传达提纲》）",
+    "creator": "陈云（1982年本人辨认为其笔迹；后续研究对用途与形成时间提出不同意见）",
+    "date_text": "传统考证：1935年2月中旬至3月上旬；另有研究提出1935年10月",
+    "source_ids": [
+      "SRC-0011",
+      "SRC-0012"
+    ],
+    "event_ids": [
+      "EVT-001"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2025/0613/c427167-40500001.html",
+    "nature": "1935年原始手稿（一手档案；标题、用途及形成时间存在学术争议）",
+    "scope": "现存8页；原档案从第21页起，前部材料未见，不宜称为完整原件",
+    "summary": "现存手稿从第21页至第28页，共8页，原题为“（乙）遵义政治局扩大会议”，无署名、无成文日期。1982年陈云本人辨认其笔迹，并回忆是在遵义会议后为向中央纵队传达会议情况而写。朱佳木2025年文章详述认定过程；齐得平等2003年《党史研究资料》论文则认为其可能是陈云1935年10月向共产国际汇报材料的一部分，并质疑“传达提纲”的用途及传统定年。"
+  },
+  {
+    "id": "DOC-0004",
+    "title": "《野战军由十月十日至二十日行动日程表》线索",
+    "creator": "中革军委",
+    "date_text": "1934-10-09",
+    "source_ids": [
+      "SRC-0026"
+    ],
+    "event_ids": [
+      "EVT-003",
+      "EVT-004",
+      "EVT-005",
+      "EVT-006"
+    ],
+    "url": "https://www.fj.gov.cn/zwgk/ztzl/gjcjgxgg/px/202610/t20261012_7223526.htm",
+    "nature": "一手文献线索（仅见现代文章引述）",
+    "scope": "未获得原件/全文",
+    "summary": "按各纵队与军团核对集结路线所需关键文件。"
+  },
+  {
+    "id": "DOC-0005",
+    "title": "《我为红军架桥带路》回忆线索",
+    "creator": "蔡如燕",
+    "date_text": "回忆形成时间待核",
+    "source_ids": [
+      "SRC-0030"
+    ],
+    "event_ids": [
+      "EVT-011"
+    ],
+    "url": "https://www.yzcity.gov.cn/wlgtj/whhm/202212/cdeb59cdfe5348fb8da4985da144a850.shtml",
+    "nature": "当事人回忆线索；现代文章转引",
+    "scope": "未获得原版及页码",
+    "summary": "架桥故事需核对原载本及日期。"
+  },
+  {
+    "id": "DOC-0006",
+    "title": "《红军长征湘江战役研究报告及史料选编》",
+    "creator": "李树泉主编",
+    "date_text": "未查明",
+    "source_ids": [
+      "SRC-0029"
+    ],
+    "event_ids": [
+      "EVT-012",
+      "EVT-013",
+      "EVT-014",
+      "EVT-015"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2026/0129/c427167-40655458.html",
+    "nature": "现代专题研究及史料汇编",
+    "scope": "仅书评/成果介绍公开，书籍全文未取得",
+    "summary": "包含专题报告、战报电报、回忆与敌方资料，可作为下一轮书目核对入口。"
+  },
+  {
+    "id": "DOC-0007",
+    "title": "1934年11月25日突破第四道封锁线政治训令线索",
+    "creator": "中共中央、红军总政治部（按现代引述）",
+    "date_text": "1934-11-25",
+    "source_ids": [
+      "SRC-0028"
+    ],
+    "event_ids": [
+      "EVT-011",
+      "EVT-012",
+      "EVT-013",
+      "EVT-014",
+      "EVT-015"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2026/0702/c244516-40752274.html",
+    "nature": "一手文献线索（现代文章部分引文）",
+    "scope": "未取得原档扫描与档号",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0008",
+    "title": "《中央政治局关于战略方针之决定》线索",
+    "creator": "中共中央政治局或中革军委（具体署名待原件）",
+    "date_text": "1934-12-18",
+    "source_ids": [
+      "SRC-0032"
+    ],
+    "event_ids": [
+      "EVT-019"
+    ],
+    "url": "https://cpc.people.com.cn/n1/2025/0113/c443712-40400457.html",
+    "nature": "一手文献线索（现代文章引述）",
+    "scope": "未取得完整原档影像和档号",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0009",
+    "title": "《关于渡江后新的行动方针的决定》线索",
+    "creator": "中共中央政治局或中革军委（具体署名待原件）",
+    "date_text": "1935-01-01",
+    "source_ids": [
+      "SRC-0032"
+    ],
+    "event_ids": [
+      "EVT-020"
+    ],
+    "url": "https://cpc.people.com.cn/n1/2025/0113/c443712-40400457.html",
+    "nature": "一手文献线索（现代文章引述）",
+    "scope": "未取得完整原档影像和档号",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0010",
+    "title": "《关于渡江的作战计划》线索",
+    "creator": "中共中央政治局或中革军委（具体署名待原件）",
+    "date_text": "1935-01-20",
+    "source_ids": [
+      "SRC-0034"
+    ],
+    "event_ids": [
+      "EVT-022"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2017/0918/c219002-29542457.html",
+    "nature": "一手文献线索（现代文章引述）",
+    "scope": "未取得完整原档影像和档号",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0011",
+    "title": "1935年3月20日四渡赤水行动部署电令线索",
+    "creator": "中共中央政治局或中革军委（具体署名待原件）",
+    "date_text": "1935-03-20",
+    "source_ids": [
+      "SRC-0015"
+    ],
+    "event_ids": [
+      "EVT-034"
+    ],
+    "url": "https://www.sdcs1935.com/html/yanjiu/sdcs/202104/fd2e1eb33ba35bb1.shtml",
+    "nature": "一手文献线索（现代文章引述）",
+    "scope": "未取得完整原档影像和档号",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0012",
+    "title": "《战士》报《大渡河沿岸胜利的总结》",
+    "creator": "红军《战士》报；文章具体署名待核",
+    "date_text": "1935-05-31（图面报头读数，馆藏编目待复核）",
+    "source_ids": [
+      "SRC-0037"
+    ],
+    "event_ids": [
+      "EVT-047",
+      "EVT-048",
+      "EVT-049"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2026/1009/c244516-40811384.html",
+    "nature": "一手档案公开图像候选",
+    "scope": "网页提供报纸数字图像与部分引述；图面可见报头期日，正文无法保证逐字读全，不称完整高清扫描",
+    "summary": "属于同期文献影像，不是夺桥现场摄影。"
+  },
+  {
+    "id": "DOC-0013",
+    "title": "1935年4月30日总政治部关于渡金沙江政治工作指示",
+    "creator": "红军总政治部",
+    "date_text": "1935-04-30",
+    "source_ids": [
+      "SRC-0035"
+    ],
+    "event_ids": [
+      "EVT-040",
+      "EVT-041",
+      "EVT-042"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2026/0723/c244516-40766567.html",
+    "nature": "一手文献图像候选",
+    "scope": "网页配图公开；收藏机构、页次、档号及完整性待核",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0014",
+    "title": "《中国工农红军布告》（朱德署名，彝汉平等）",
+    "creator": "以中国工农红军总司令朱德名义发布",
+    "date_text": "1935年5月（具体版本日待核）",
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0038"
+    ],
+    "event_ids": [
+      "EVT-045",
+      "EVT-046"
+    ],
+    "url": "https://www.dswxyjy.org.cn/GB/427277/462086/index.html",
+    "nature": "一手文献图像候选",
+    "scope": "专题提供图像；不是已确认馆藏原件高清全幅",
+    "summary": "注意原字、版本、原件和复制件的区别，不自动使用“最早首次”断言。"
+  },
+  {
+    "id": "DOC-0015",
+    "title": "《关于一、四方面军会合后战略方针的决定》",
+    "creator": "中共中央政治局",
+    "date_text": "1935-06-28（依研究文章）",
+    "source_ids": [
+      "SRC-0036",
+      "SRC-0040"
+    ],
+    "event_ids": [
+      "EVT-054"
+    ],
+    "url": "https://www.dswxyjy.org.cn/GB/427277/462086/index.html",
+    "nature": "一手决议公开图像候选",
+    "scope": "网页单幅图，完整页数与馆藏档号未核",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0016",
+    "title": "《关于目前战略方针之补充决定》线索",
+    "creator": "中共中央政治局",
+    "date_text": "1935-08-20",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "event_ids": [
+      "EVT-058"
+    ],
+    "url": "https://www.dswxyjy.org.cn/GB/427277/462086/index.html",
+    "nature": "一手文献线索（专题提及）",
+    "scope": "未获得完整原件",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0017",
+    "title": "《关于张国焘同志的错误的决定》线索",
+    "creator": "中共中央",
+    "date_text": "1935-09-12",
+    "source_ids": [
+      "SRC-0042"
+    ],
+    "event_ids": [
+      "EVT-063"
+    ],
+    "url": "https://www.dswxyjy.org.cn/BIG5/n1/2021/1126/c244516-32292961.html",
+    "nature": "一手文献线索（现代研究转述）",
+    "scope": "未获得完整原档扫描",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0018",
+    "title": "《中国共产党历史》第一卷上册相关节录",
+    "creator": "中共中央党史研究室",
+    "date_text": "2002年版（网页节录2013）",
+    "source_ids": [
+      "SRC-0046"
+    ],
+    "event_ids": [
+      "EVT-072",
+      "EVT-073",
+      "EVT-074",
+      "EVT-075"
+    ],
+    "url": "https://www.dswxyjy.org.cn/BIG5/n/2013/1120/c244520-23599878.html",
+    "nature": "正式党史著作（二手研究）",
+    "scope": "相关节录公开，整书和页码未取得",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0019",
+    "title": "中共中央庆祝一、二、四方面军大会合通电",
+    "creator": "中共中央",
+    "date_text": "1936-10-10",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "event_ids": [
+      "EVT-076",
+      "EVT-077"
+    ],
+    "url": "https://www.dswxyjy.org.cn/GB/427277/462086/index.html",
+    "nature": "一手文献图像候选",
+    "scope": "专题图像公开；原件、全幅与馆藏档号待核",
+    "summary": "10月10日通电形成日与将台堡22日会师并存，不能据标题推定所有部队10日已在同一现场。"
+  },
+  {
+    "id": "DOC-0020",
+    "title": "《二、六军团从湘鄂边到康东北长征经过报告大纲》",
+    "creator": "任弼时",
+    "date_text": "1936年7—11月（依后人文稿）",
+    "source_ids": [
+      "SRC-0049"
+    ],
+    "event_ids": [
+      "EVT-084",
+      "EVT-089",
+      "EVT-095",
+      "EVT-096",
+      "EVT-097",
+      "EVT-100"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2019/0228/c423729-30944011.html",
+    "nature": "亲历者同期总结手稿线索",
+    "scope": "仅见后人文章提及及片段，未取得全稿",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0021",
+    "title": "红二、六军团1935年12月14日、16日、28日电报组",
+    "creator": "贺龙、任弼时、关向应等（各件署名另核）",
+    "date_text": "1935年12月",
+    "source_ids": [
+      "SRC-0052"
+    ],
+    "event_ids": [
+      "EVT-084",
+      "EVT-086",
+      "EVT-105"
+    ],
+    "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/sxxw/202111/t20211119_21153738.html",
+    "nature": "一手电报的现代展示图像/引述候选",
+    "scope": "网页数幅配图和片段；全件、档号待核",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0022",
+    "title": "《红星》报第14期嘉陵江战役捷报图像",
+    "creator": "红军《红星》报",
+    "date_text": "1935-04-10",
+    "source_ids": [
+      "SRC-0036"
+    ],
+    "event_ids": [
+      "EVT-106",
+      "EVT-107",
+      "EVT-108",
+      "EVT-109"
+    ],
+    "url": "https://www.dswxyjy.org.cn/GB/427277/462086/index.html",
+    "nature": "一手同期报刊公开图像候选",
+    "scope": "网页单幅，原件版面完整性和馆藏待核",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0023",
+    "title": "《岷（州）洮（州）西（固）战役计划》线索",
+    "creator": "红军总部",
+    "date_text": "1936-08-05",
+    "source_ids": [
+      "SRC-0055"
+    ],
+    "event_ids": [
+      "EVT-121",
+      "EVT-122"
+    ],
+    "url": "https://www.handandangshi.gov.cn/dangshishijian/204.html",
+    "nature": "一手文献线索（现代文章转述）",
+    "scope": "未取得全文、原件、档号",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0024",
+    "title": "《中国工农红军北上抗日第二先遣队出发宣言》线索",
+    "creator": "中共鄂豫皖省委/先遣队（确切署名待核）",
+    "date_text": "1934-11-16",
+    "source_ids": [
+      "SRC-0062",
+      "SRC-0064"
+    ],
+    "event_ids": [
+      "EVT-125"
+    ],
+    "url": "https://hbda.gov.cn/info/7108",
+    "nature": "一手文献线索，档案网站仅搜索可见",
+    "scope": "正文403，未取得扫描及档号",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0025",
+    "title": "《中国红军第二十五军的远征》",
+    "creator": "作者待核",
+    "date_text": "1936年《共产国际》（卷期需核）",
+    "source_ids": [
+      "SRC-0062"
+    ],
+    "event_ids": [
+      "EVT-125",
+      "EVT-128",
+      "EVT-150"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2026/1016/c244516-40816174.html",
+    "nature": "同期报道线索（现代文章转引）",
+    "scope": "未获得原刊、页码、语言版本，不把二手引文当完整档案",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0026",
+    "title": "《留坝县志》红二十五军过境相关章节",
+    "creator": "陕西省留坝县地方志编纂委员会",
+    "date_text": "未查明",
+    "source_ids": [
+      "SRC-0063",
+      "SRC-0071"
+    ],
+    "event_ids": [
+      "EVT-142"
+    ],
+    "url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/xbsxsxz/xbsxz/hzs_16205/201405/P020240923618479488951.pdf",
+    "nature": "地方志线索（二手史料）",
+    "scope": "公开整书PDF已保存；仅相关页读取并目视核验，未通读整书",
+    "summary": "27日到江口、30日离开记载及内部异文，见待核实事项。"
+  },
+  {
+    "id": "DOC-0027",
+    "title": "《当年赠被情谊深 如今亲人在何方》报道线索",
+    "creator": "罗开富",
+    "date_text": "1984-11-14",
+    "source_ids": [
+      "SRC-0068"
+    ],
+    "event_ids": [
+      "EVT-009"
+    ],
+    "url": "https://www.dswxyjy.org.cn/n1/2021/0825/c244516-32207712.html",
+    "nature": "1984年采访报道线索（不是1934同期文件）",
+    "scope": "后期文章给出原刊日版；本轮未取得原版扫描",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0028",
+    "title": "《陕西省志·中国共产党志》（上）庾家河相关记载",
+    "creator": "陕西省地方志编纂委员会",
+    "date_text": "未查明",
+    "source_ids": [
+      "SRC-0070"
+    ],
+    "event_ids": [
+      "EVT-132",
+      "EVT-137",
+      "EVT-150"
+    ],
+    "url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/xbsxsz/szdylpdf/201404/P020240923633118426607.pdf",
+    "nature": "正式地方志（二手史料）",
+    "scope": "公开整书PDF已保存；仅相关页核验，不声称通读",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0029",
+    "title": "花山寨会议旧址文物保护范围登记",
+    "creator": "河南省文物局、河南省住房和城乡建设厅",
+    "date_text": "2018-09-25",
+    "source_ids": [
+      "SRC-0072"
+    ],
+    "event_ids": [
+      "EVT-124"
+    ],
+    "url": "https://wgl.kaifeng.gov.cn/kfswhgdhlyj/swgljwbdw/1805436537969889280/M71CbQHO.pdf",
+    "nature": "现代行政原始文件（旧址今址证据）",
+    "scope": "公开整份PDF保存，相关页目视核验",
+    "summary": ""
+  },
+  {
+    "id": "DOC-0030",
+    "title": "林伯渠长征日记原件开放线索",
+    "creator": "林伯渠",
+    "date_text": "长征期间，逐件日期待目录",
+    "source_ids": [
+      "SRC-0073",
+      "SRC-0074"
+    ],
+    "event_ids": [],
+    "url": "https://www.saac.gov.cn/daj/yaow/202610/9fdc4fb071754219951d9860ad4886df.shtml",
+    "nature": "一手档案馆藏开放线索",
+    "scope": "需到馆查阅；未获得本轮在线全文影像",
+    "summary": "申请逐件目录与复制许可，不能声称已下载。"
+  },
+  {
+    "id": "DOC-0031",
+    "title": "《二渡赤水河的行动计划》及《告全体红色指战员书》线索",
+    "creator": "中共中央、中革军委（署名待原件）",
+    "date_text": "1935年2月中旬",
+    "source_ids": [
+      "SRC-0076"
+    ],
+    "event_ids": [
+      "EVT-153"
+    ],
+    "url": "https://www.81.mil.cn/yw_208727/16459284.html",
+    "nature": "一手文献线索（现代文章引述）",
+    "scope": "未取得完整原文及档号",
+    "summary": ""
+  }
+]
