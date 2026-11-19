@@ -285,3 +285,9 @@
 - [x] FINAL-PRODUCT｜地图从1934年10月中央红军战略转移开播，早期先遣资料保留；专题档案地址可复制和直达，搜索容错、四章导读、横屏答卷及默认观众文案已整改。
 - [x] FINAL-MATERIALS｜首页、地图档案、人物、校园影像的性质和出处就近说明；整理[课堂评审入口](FINAL_ACCEPTANCE.md)、课程实践报告与逐图登记索引。真实版权状态不变。
 - [ ] FINAL-ON-SITE｜Android/iPhone 真机、课堂网络与系统保存由现场设备补核；互联网公开使用许可与课程教师评分单独确认。
+
+## GitHub 上传准备
+
+- [x] GITHUB-PREP｜保留现有分支和历史，整理忽略规则、拟纳入资源、启动说明和静态部署路径。见[上传与部署核对](GITHUB_PREPARATION.md)。
+- [x] GITHUB-PRIVATE｜已确认上传范围，并创建 [GitHub 私有仓库](https://github.com/Sunway818/long-march-digital-museum)。
+- [ ] GITHUB-HOSTING｜互联网部署另行确认素材许可及访问权限。
